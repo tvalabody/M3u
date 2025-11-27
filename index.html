@@ -1,0 +1,592 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>📺 العُبودي TV</title> 
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;600;700&display=swap" rel="stylesheet"> 
+
+<style>
+:root {
+  --primary: #4361ee;
+  --accent: #f72585;
+  --glass-bg: rgba(255, 255, 255, 0.1);
+  --glass-border: rgba(255, 255, 255, 0.15);
+  --blur: blur(15px);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Cairo', sans-serif;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  padding: 15px;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+body::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: 
+    radial-gradient(circle at 20% 80%, rgba(120, 119, 198, 0.3) 0%, transparent 50%),
+    radial-gradient(circle at 80% 20%, rgba(255, 119, 198, 0.3) 0%, transparent 50%);
+  z-index: -1;
+}
+
+.glass-panel {
+  background: var(--glass-bg);
+  backdrop-filter: var(--blur);
+  border: 1px solid var(--glass-border);
+  border-radius: 16px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+}
+
+.header {
+  text-align: center;
+  padding: 20px;
+  margin-bottom: 15px;
+}
+
+.header h1 {
+  font-size: 2rem;
+  background: linear-gradient(135deg, #fff 0%, #e2e8ff 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  margin-bottom: 5px;
+}
+
+.subtitle {
+  color: rgba(255, 255, 255, 0.8);
+  font-size: 0.9rem;
+}
+
+.search-section {
+  margin-bottom: 15px;
+  padding: 15px;
+}
+
+.search-box {
+  width: 100%;
+  padding: 12px 18px;
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 12px;
+  font-family: 'Cairo', sans-serif;
+  font-size: 14px;
+  color: white;
+  outline: none;
+  transition: all 0.3s ease;
+}
+
+.search-box::placeholder {
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.search-box.focused {
+  background: rgba(255, 255, 255, 0.15);
+  border: 2px solid rgba(67, 97, 238, 0.6);
+  box-shadow: 0 0 15px rgba(67, 97, 238, 0.3);
+}
+
+.filter-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 15px;
+  justify-content: center;
+}
+
+.filter-btn {
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  color: rgba(255, 255, 255, 0.9);
+  padding: 8px 16px;
+  border-radius: 12px;
+  cursor: pointer;
+  font-family: 'Cairo', sans-serif;
+  font-weight: 600;
+  font-size: 0.8rem;
+  transition: all 0.3s ease;
+}
+
+.filter-btn.active, .filter-btn.focused {
+  background: rgba(67, 97, 238, 0.3);
+  border-color: rgba(67, 97, 238, 0.6);
+  box-shadow: 0 0 10px rgba(67, 97, 238, 0.3);
+}
+
+.channels-section {
+  padding: 15px;
+}
+
+.channels-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+}
+
+.channel-card {
+  background: rgba(255, 255, 255, 0.08);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 12px;
+  padding: 12px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  min-height: 120px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.channel-card:hover {
+  background: rgba(255, 255, 255, 0.12);
+  border-color: rgba(255, 255, 255, 0.2);
+  transform: translateY(-2px);
+}
+
+.channel-card.focused {
+  background: rgba(67, 97, 238, 0.2);
+  border: 2px solid rgba(67, 97, 238, 0.6);
+  transform: scale(1.05);
+  box-shadow: 0 0 20px rgba(67, 97, 238, 0.4);
+}
+
+.channel-logo {
+  width: 50px;
+  height: 50px;
+  object-fit: contain;
+  border-radius: 8px;
+  margin-bottom: 8px;
+}
+
+.channel-name {
+  font-weight: 600;
+  color: white;
+  font-size: 0.8rem;
+  text-align: center;
+  margin-bottom: 4px;
+}
+
+.quality-badge {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  background: rgba(67, 97, 238, 0.8);
+  color: white;
+  padding: 3px 6px;
+  border-radius: 6px;
+  font-size: 0.6rem;
+  font-weight: 600;
+}
+
+.live-badge {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  background: rgba(247, 37, 133, 0.8);
+  color: white;
+  padding: 3px 6px;
+  border-radius: 6px;
+  font-size: 0.6rem;
+  font-weight: 600;
+}
+
+.group-header {
+  grid-column: 1 / -1;
+  font-size: 1.2rem;
+  font-weight: 700;
+  margin: 20px 0 10px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+  color: white;
+}
+
+.loading {
+  text-align: center;
+  padding: 40px 20px;
+  color: white;
+  grid-column: 1 / -1;
+}
+
+.spinner {
+  width: 30px;
+  height: 30px;
+  border: 3px solid rgba(255, 255, 255, 0.3);
+  border-top: 3px solid white;
+  border-radius: 50%;
+  margin: 0 auto 15px;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+.no-results {
+  text-align: center;
+  padding: 30px;
+  color: rgba(255, 255, 255, 0.6);
+  grid-column: 1 / -1;
+}
+
+.remote-controls {
+  position: fixed;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: none;
+  gap: 10px;
+  background: rgba(0, 0, 0, 0.7);
+  padding: 15px;
+  border-radius: 20px;
+  backdrop-filter: blur(10px);
+  z-index: 1000;
+}
+
+.remote-btn {
+  width: 50px;
+  height: 50px;
+  background: rgba(255, 255, 255, 0.2);
+  border: none;
+  border-radius: 12px;
+  color: white;
+  font-size: 1.2rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+}
+
+.remote-btn:active {
+  background: rgba(255, 255, 255, 0.3);
+  transform: scale(0.95);
+}
+
+@media (max-width: 768px) {
+  .channels-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 480px) {
+  .channels-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (min-width: 1024px) {
+  .remote-controls {
+    display: flex;
+  }
+}
+</style>
+</head> 
+
+<body> 
+
+<header class="header glass-panel">
+  <h1>العُبودي TV</h1>
+  <div class="subtitle">منصة IPTV متطورة</div>
+</header> 
+
+<section class="search-section glass-panel">
+  <input type="text" id="search-input" class="search-box" placeholder="ابحث عن قناة...">
+</section>
+
+<div class="filter-buttons" id="filter-buttons">
+  <!-- سيتم إنشاء أزرار التصفية ديناميكياً -->
+</div>
+
+<section class="channels-section glass-panel">
+  <div id="loading" class="loading">
+    <div class="spinner"></div>
+    جاري تحميل القنوات...
+  </div>
+  <div class="channels-grid" id="channels"></div>
+</section>
+
+<div class="remote-controls">
+  <button class="remote-btn" onclick="navigateRemote('up')">⬆️</button>
+  <div style="display: flex; flex-direction: column; gap: 5px;">
+    <button class="remote-btn" onclick="navigateRemote('left')">⬅️</button>
+    <button class="remote-btn" onclick="activateCurrent()">⏺️</button>
+    <button class="remote-btn" onclick="navigateRemote('right')">➡️</button>
+  </div>
+  <button class="remote-btn" onclick="navigateRemote('down')">⬇️</button>
+</div>
+
+<script>
+const channelsData = [
+  {
+    name: "بين سبورت 1",
+    logo: "https://www.universfreebox.com/wp-content/uploads/2019/07/beinsportlarge2-800x450-c-default.jpg",
+    group: "beIN Sports",
+    category: "رياضي",
+    url: "http://h.ottdbcn.com:8080/bn1hd/tracks-v1a1/mono.m3u8",
+    quality: "HD",
+    status: "مباشر",
+    bitrate: "عالية"
+  },
+  {
+    name: "بين سبورت 2",
+    logo: "https://www.universfreebox.com/wp-content/uploads/2019/07/beinsportlarge2-800x450-c-default.jpg",
+    group: "beIN Sports",
+    category: "رياضي",
+    url: "http://h.ottdbcn.com:8080/bn2hd/tracks-v1a1/mono.m3u8",
+    quality: "HD",
+    status: "مباشر",
+    bitrate: "عالية"
+  },
+  {
+    name: "بين سبورت 3",
+    logo: "https://www.universfreebox.com/wp-content/uploads/2019/07/beinsportlarge2-800x450-c-default.jpg",
+    group: "beIN Sports",
+    category: "رياضي",
+    url: "http://h.ottdbcn.com:8080/bn3hd/tracks-v1a1/mono.m3u8",
+    quality: "HD",
+    status: "مباشر",
+    bitrate: "عالية"
+  },
+  {
+    name: "بين سبورت 4",
+    logo: "https://www.universfreebox.com/wp-content/uploads/2019/07/beinsportlarge2-800x450-c-default.jpg",
+    group: "beIN Sports",
+    category: "رياضي",
+    url: "http://splustv.me/live/65787/54353/17983.m3u8",
+    quality: "HD",
+    status: "مباشر",
+    bitrate: "عالية"
+  }
+];
+
+let allChannels = [];
+let currentFilter = "all";
+let currentFocusIndex = 0;
+let channelCards = [];
+let filterButtons = [];
+let currentSection = 'channels'; // Start with channels focused
+const searchInput = document.getElementById('search-input');
+
+function loadChannels() {
+  try {
+    allChannels = channelsData;
+    createFilterButtons();
+    displayChannels(allChannels);
+    setupRemoteNavigation();
+    
+    searchInput.addEventListener('input', function(e) {
+      const searchTerm = e.target.value.toLowerCase();
+      const filteredChannels = allChannels.filter(channel => 
+        channel.name.toLowerCase().includes(searchTerm) || 
+        channel.group.toLowerCase().includes(searchTerm)
+      );
+      displayChannels(filteredChannels);
+      setupRemoteNavigation();
+    });
+
+  } catch (e) {
+    document.getElementById("loading").innerHTML = "❌ فشل تحميل القنوات";
+  }
+} 
+
+function createFilterButtons() {
+  const filterContainer = document.getElementById("filter-buttons");
+  filterContainer.innerHTML = '';
+  
+  const categories = [...new Set(allChannels.map(ch => ch.category))];
+  
+  const allButton = document.createElement("button");
+  allButton.className = "filter-btn active";
+  allButton.textContent = "الكل";
+  allButton.onclick = () => filterChannels("all");
+  filterContainer.appendChild(allButton);
+  
+  categories.forEach(category => {
+    const button = document.createElement("button");
+    button.className = "filter-btn";
+    button.textContent = category;
+    button.onclick = () => filterChannels(category);
+    filterContainer.appendChild(button);
+  });
+  
+  filterButtons = Array.from(document.querySelectorAll('.filter-btn'));
+}
+
+function filterChannels(category) {
+  currentFilter = category;
+  
+  filterButtons.forEach(btn => {
+    btn.classList.remove('active');
+  });
+  
+  event.target.classList.add('active');
+  
+  const filteredChannels = category === "all" 
+    ? allChannels 
+    : allChannels.filter(ch => ch.category === category);
+  
+  displayChannels(filteredChannels);
+  setupRemoteNavigation();
+}
+
+function displayChannels(channels) {
+  const grid = document.getElementById("channels");
+  grid.innerHTML = "";
+
+  if (channels.length === 0) {
+    grid.innerHTML = '<div class="no-results">لم يتم العثور على قنوات</div>';
+    return;
+  }
+
+  const groupedChannels = {};
+  channels.forEach(ch => {
+    if (!groupedChannels[ch.group]) {
+      groupedChannels[ch.group] = [];
+    }
+    groupedChannels[ch.group].push(ch);
+  });
+
+  for (const group in groupedChannels) {
+    const groupHeader = document.createElement("div");
+    groupHeader.className = "group-header";
+    groupHeader.textContent = group;
+    grid.appendChild(groupHeader);
+    
+    groupedChannels[group].forEach(ch => {
+      const card = document.createElement("div");
+      card.className = "channel-card";
+      card.tabIndex = 0;
+      
+      card.innerHTML = `
+        <img src="${ch.logo}" alt="${ch.name}" class="channel-logo">
+        <div class="quality-badge">${ch.quality}</div>
+        <div class="live-badge">LIVE</div>
+        <div class="channel-name">${ch.name}</div>
+      `;
+      
+      if (ch.url && ch.url.trim() !== "") {
+        card.onclick = () => location.href = ch.url;
+      } else {
+        card.style.opacity = "0.6";
+        card.style.cursor = "not-allowed";
+      }
+      
+      grid.appendChild(card);
+    });
+  }
+
+  document.getElementById("loading").style.display = "none";
+} 
+
+function setupRemoteNavigation() {
+  channelCards = Array.from(document.querySelectorAll('.channel-card'));
+  filterButtons = Array.from(document.querySelectorAll('.filter-btn'));
+  currentFocusIndex = 0;
+  
+  // Clear all focus
+  searchInput.classList.remove('focused');
+  filterButtons.forEach(btn => btn.classList.remove('focused'));
+  channelCards.forEach(card => card.classList.remove('focused'));
+  
+  if (channelCards.length > 0) {
+    channelCards[currentFocusIndex].classList.add('focused');
+    channelCards[currentFocusIndex].focus();
+  }
+  
+  // Keyboard navigation
+  document.addEventListener('keydown', function(e) {
+    switch(e.key) {
+      case 'ArrowUp':
+        e.preventDefault();
+        navigateRemote('up');
+        break;
+      case 'ArrowDown':
+        e.preventDefault();
+        navigateRemote('down');
+        break;
+      case 'ArrowLeft':
+        e.preventDefault();
+        navigateRemote('left');
+        break;
+      case 'ArrowRight':
+        e.preventDefault();
+        navigateRemote('right');
+        break;
+      case 'Enter':
+        e.preventDefault();
+        activateCurrent();
+        break;
+    }
+  });
+}
+
+function navigateRemote(direction) {
+  if (channelCards.length === 0) return;
+  
+  const oldIndex = currentFocusIndex;
+  let newIndex = currentFocusIndex;
+  const columns = 3;
+  
+  switch(direction) {
+    case 'up':
+      newIndex = Math.max(0, currentFocusIndex - columns);
+      break;
+    case 'down':
+      newIndex = Math.min(channelCards.length - 1, currentFocusIndex + columns);
+      break;
+    case 'left':
+      newIndex = Math.max(0, currentFocusIndex - 1);
+      break;
+    case 'right':
+      newIndex = Math.min(channelCards.length - 1, currentFocusIndex + 1);
+      break;
+  }
+  
+  if (newIndex !== oldIndex) {
+    channelCards[oldIndex].classList.remove('focused');
+    channelCards[newIndex].classList.add('focused');
+    channelCards[newIndex].focus();
+    currentFocusIndex = newIndex;
+    
+    // Scroll into view
+    channelCards[newIndex].scrollIntoView({
+      behavior: 'smooth',
+      block: 'center'
+    });
+  }
+}
+
+function activateCurrent() {
+  if (channelCards.length > 0 && channelCards[currentFocusIndex].style.cursor !== 'not-allowed') {
+    channelCards[currentFocusIndex].click();
+  }
+}
+
+// Simple search focus for when user wants to type
+searchInput.addEventListener('focus', () => {
+  // Clear channel focus when searching
+  channelCards.forEach(card => card.classList.remove('focused'));
+});
+
+loadChannels();
+</script> 
+
+</body>
+</html>
