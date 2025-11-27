@@ -1,0 +1,2000 @@
+
+#EXTINF:-1 tvg-id="" tvg-name="ALWAN WORLD CUP" tvg-logo="http://speed-4k.live:8089/logo/chn/4055.png" group-title="AR |  SPORTS",ALWAN WORLD CUP
+http://speed-4k.live:8089/live/9120348167513/9120348167513/4055.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Cameo Sports" tvg-logo="http://speed-4k.live:8089/logo/chn/390.jpg" group-title="AR |  SPORTS",Cameo Sports
+http://speed-4k.live:8089/live/9120348167513/9120348167513/390.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Sport divers" tvg-logo="http://speed-4k.live:8089/logo/chn/391.jpg" group-title="AR |  SPORTS",Sport divers
+http://speed-4k.live:8089/live/9120348167513/9120348167513/391.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Thamanya 1 Sport 4K" tvg-logo="http://speed-4k.live:8089/logo/chn/85692683.jpg" group-title="AR |  SPORTS",Thamanya 1 Sport 4K
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85692683.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Thamanya 1 Sport HD" tvg-logo="http://speed-4k.live:8089/logo/chn/85692686.jpg" group-title="AR |  SPORTS",Thamanya 1 Sport HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85692686.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Thamanya 1 Sport SD" tvg-logo="http://speed-4k.live:8089/logo/chn/85692689.jpg" group-title="AR |  SPORTS",Thamanya 1 Sport SD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85692689.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Thamanya 2 Sport 4K" tvg-logo="http://speed-4k.live:8089/logo/chn/85692684.jpg" group-title="AR |  SPORTS",Thamanya 2 Sport 4K
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85692684.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Thamanya 2 Sport HD" tvg-logo="http://speed-4k.live:8089/logo/chn/85692687.jpg" group-title="AR |  SPORTS",Thamanya 2 Sport HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85692687.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Thamanya 2 Sport SD" tvg-logo="http://speed-4k.live:8089/logo/chn/85692690.jpg" group-title="AR |  SPORTS",Thamanya 2 Sport SD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85692690.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Thamanya 3 Sport 4K" tvg-logo="http://speed-4k.live:8089/logo/chn/85692685.jpg" group-title="AR |  SPORTS",Thamanya 3 Sport 4K
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85692685.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Thamanya 3 Sport HD" tvg-logo="http://speed-4k.live:8089/logo/chn/85692688.jpg" group-title="AR |  SPORTS",Thamanya 3 Sport HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85692688.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Thamanya 3 Sport SD" tvg-logo="http://speed-4k.live:8089/logo/chn/85692691.jpg" group-title="AR |  SPORTS",Thamanya 3 Sport SD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85692691.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ALKASS1" tvg-logo="http://speed-4k.live:8089/logo/chn/5002.jpg" group-title="AR |  SPORTS",ALKASS1
+http://speed-4k.live:8089/live/9120348167513/9120348167513/5002.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ALKASS2" tvg-logo="http://speed-4k.live:8089/logo/chn/5003.jpg" group-title="AR |  SPORTS",ALKASS2
+http://speed-4k.live:8089/live/9120348167513/9120348167513/5003.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ALKASS3" tvg-logo="http://speed-4k.live:8089/logo/chn/5004.jpg" group-title="AR |  SPORTS",ALKASS3
+http://speed-4k.live:8089/live/9120348167513/9120348167513/5004.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ALKASS4" tvg-logo="http://speed-4k.live:8089/logo/chn/5005.jpg" group-title="AR |  SPORTS",ALKASS4
+http://speed-4k.live:8089/live/9120348167513/9120348167513/5005.ts
+
+#EXTINF:-1 tvg-id="beIN SPORTS HD 1 TR" tvg-name="beIN Sports 1 HD+" tvg-logo="http://5.135.139.24/cover/coverchannel/bienspo.jpg" group-title="AR |  SPORTS",beIN Sports 1 HD+
+http://speed-4k.live:8089/live/9120348167513/9120348167513/165.ts
+
+#EXTINF:-1 tvg-id="beIN SPORTS 2 FR" tvg-name="beIN Sports 2 HD+" tvg-logo="http://5.135.139.24/cover/coverchannel/bienspo.jpg" group-title="AR |  SPORTS",beIN Sports 2 HD+
+http://speed-4k.live:8089/live/9120348167513/9120348167513/166.ts
+
+#EXTINF:-1 tvg-id="beIN SPORTS 3 FR" tvg-name="beIN Sports 3 HD+" tvg-logo="http://5.135.139.24/cover/logochannel/logochannel/Abiensport.png" group-title="AR |  SPORTS",beIN Sports 3 HD+
+http://speed-4k.live:8089/live/9120348167513/9120348167513/167.ts
+
+#EXTINF:-1 tvg-id="beIN SPORTS 1 FR" tvg-name="beIN Sports 4 HD+" tvg-logo="http://5.135.139.24/cover/logochannel/logochannel/Abiensport.png" group-title="AR |  SPORTS",beIN Sports 4 HD+
+http://speed-4k.live:8089/live/9120348167513/9120348167513/330.ts
+
+#EXTINF:-1 tvg-id="beIN SPORTS 2 FR" tvg-name="beIN Sports 5 HD+" tvg-logo="http://5.135.139.24/cover/logochannel/logochannel/Abiensport.png" group-title="AR |  SPORTS",beIN Sports 5 HD+
+http://speed-4k.live:8089/live/9120348167513/9120348167513/172.ts
+
+#EXTINF:-1 tvg-id="beIN SPORTS 3 FR" tvg-name="beIN Sports 6  HD+" tvg-logo="http://5.135.139.24/cover/logochannel/logochannel/Abiensport.png" group-title="AR |  SPORTS",beIN Sports 6  HD+
+http://speed-4k.live:8089/live/9120348167513/9120348167513/261.ts
+
+#EXTINF:-1 tvg-id="beIN SPORTS HD 4 TR" tvg-name="beIN Sports 7 HD+" tvg-logo="http://5.135.139.24/cover/logochannel/logochannel/Abiensport.png" group-title="AR |  SPORTS",beIN Sports 7 HD+
+http://speed-4k.live:8089/live/9120348167513/9120348167513/168.ts
+
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 5 FR" tvg-name="beIN Sports 8 HD+" tvg-logo="http://5.135.139.24/cover/logochannel/logochannel/Abiensport.png" group-title="AR |  SPORTS",beIN Sports 8 HD+
+http://speed-4k.live:8089/live/9120348167513/9120348167513/169.ts
+
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 6 FR" tvg-name="beIN Sports 9 HD+" tvg-logo="http://5.135.139.24/cover/logochannel/logochannel/Abiensport.png" group-title="AR |  SPORTS",beIN Sports 9 HD+
+http://speed-4k.live:8089/live/9120348167513/9120348167513/170.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports Extra 1 SD" tvg-logo="http://5.135.139.24/cover/beinmax.jpg" group-title="AR |  SPORTS",BeIN Sports Extra 1 SD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/826.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports Extra 2 SD" tvg-logo="http://5.135.139.24/cover/beinmax.jpg" group-title="AR |  SPORTS",BeIN Sports Extra 2 SD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/827.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports Extra 1 HD" tvg-logo="http://5.135.139.24/cover/beinmax.jpg" group-title="AR |  SPORTS",BeIN Sports Extra 1 HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/820.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports Extra  2 HD" tvg-logo="http://5.135.139.24/cover/beinmax.jpg" group-title="AR |  SPORTS",BeIN Sports Extra  2 HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/821.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports Extra 3 HD" tvg-logo="" group-title="AR |  SPORTS",BeIN Sports Extra 3 HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85692820.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports Extra  1 4K" tvg-logo="http://5.135.139.24/cover/beinmax.jpg" group-title="AR |  SPORTS",BeIN Sports Extra  1 4K
+http://speed-4k.live:8089/live/9120348167513/9120348167513/814.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports Extra  2 4K" tvg-logo="http://5.135.139.24/cover/beinmax.jpg" group-title="AR |  SPORTS",BeIN Sports Extra  2 4K
+http://speed-4k.live:8089/live/9120348167513/9120348167513/815.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="StarzPlay Sport SD" tvg-logo="http://multiacs.com/logo/sportarab/StarzPlaySport%20.png" group-title="AR |  SPORTS",StarzPlay Sport SD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/470.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="StarzPlay Sports HD" tvg-logo="http://multiacs.com/logo/sportarab/StarzPlaySport%20.png" group-title="AR |  SPORTS",StarzPlay Sports HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/471.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="StarzPlay Sport 4K" tvg-logo="http://multiacs.com/logo/sportarab/StarzPlaySport%20.png" group-title="AR |  SPORTS",StarzPlay Sport 4K
+http://speed-4k.live:8089/live/9120348167513/9120348167513/472.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="AD Sport Premium 1 SD" tvg-logo="http://multiacs.com/logo/sportarab/ADSportPremium1.jpg" group-title="AR |  SPORTS",AD Sport Premium 1 SD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/476.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="AD Sport Premium 1 HD" tvg-logo="http://multiacs.com/logo/sportarab/ADSportPremium1.jpg" group-title="AR |  SPORTS",AD Sport Premium 1 HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/477.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="AD Sport Premium 1 4K" tvg-logo="http://multiacs.com/logo/sportarab/ADSportPremium1.jpg" group-title="AR |  SPORTS",AD Sport Premium 1 4K
+http://speed-4k.live:8089/live/9120348167513/9120348167513/478.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="AD Sport Premium 2 SD" tvg-logo="http://multiacs.com/logo/sportarab/ADSportPremium2.jpg" group-title="AR |  SPORTS",AD Sport Premium 2 SD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/473.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="AD Sport Premium 2 HD" tvg-logo="http://multiacs.com/logo/sportarab/ADSportPremium2.jpg" group-title="AR |  SPORTS",AD Sport Premium 2 HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/474.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="AD Sport Premium 2 4K" tvg-logo="http://multiacs.com/logo/sportarab/ADSportPremium2.jpg" group-title="AR |  SPORTS",AD Sport Premium 2 4K
+http://speed-4k.live:8089/live/9120348167513/9120348167513/475.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports News HD" tvg-logo="http://5.135.139.24/cover/logochannel/logochannel/ABeinsport.png" group-title="AR |  SPORTS",beIN Sports News HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/308.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports HD" tvg-logo="http://5.135.139.24/cover/coverchannel/bienspo.jpg" group-title="AR |  SPORTS",beIN Sports HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/309.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Nba HD" tvg-logo="http://5.135.139.24/cover/logochannel/logochannel/Abna.jpg" group-title="AR |  SPORTS",beIN Sports Nba HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/62113.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports English HD1" tvg-logo="http://5.135.139.24/cover/logochannel/logochannel/Abiensport.png" group-title="AR |  SPORTS",Bein Sports English HD1
+http://speed-4k.live:8089/live/9120348167513/9120348167513/62101.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports English HD2" tvg-logo="http://5.135.139.24/cover/logochannel/logochannel/Abiensport.png" group-title="AR |  SPORTS",Bein Sports English HD2
+http://speed-4k.live:8089/live/9120348167513/9120348167513/62112.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports French HD1" tvg-logo="http://5.135.139.24/cover/logochannel/logochannel/Abiensport.png" group-title="AR |  SPORTS",Bein Sports French HD1
+http://speed-4k.live:8089/live/9120348167513/9120348167513/62114.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports French HD2" tvg-logo="http://5.135.139.24/cover/logochannel/logochannel/Abiensport.png" group-title="AR |  SPORTS",Bein Sports French HD2
+http://speed-4k.live:8089/live/9120348167513/9120348167513/79814.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS | AR:   KSA SPORT 1 HD" tvg-logo="http://5.135.139.24/cover/logochannel/ksasport.jpg" group-title="AR |  SPORTS",SPORTS | AR:   KSA SPORT 1 HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/80112.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS | AR:   KSA SPORT 2 HD" tvg-logo="http://5.135.139.24/cover/logochannel/ksasport.jpg" group-title="AR |  SPORTS",SPORTS | AR:   KSA SPORT 2 HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/80113.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS | AR:   KSA SPORT 4 HD" tvg-logo="http://5.135.139.24/cover/logochannel/ksasport.jpg" group-title="AR |  SPORTS",SPORTS | AR:   KSA SPORT 4 HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/10845.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS | AR:   Abu Dhabi Sport 1" tvg-logo="http://5.135.139.24/cover/logochannel/adsport1.jpg" group-title="AR |  SPORTS",SPORTS | AR:   Abu Dhabi Sport 1
+http://speed-4k.live:8089/live/9120348167513/9120348167513/465.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS | AR:  Abu Dhabi Sport 2" tvg-logo="http://5.135.139.24/cover/logochannel/adsport2.jpg" group-title="AR |  SPORTS",SPORTS | AR:  Abu Dhabi Sport 2
+http://speed-4k.live:8089/live/9120348167513/9120348167513/594.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS | AR:  ON TIME SPORT" tvg-logo="http://5.135.139.24/cover/ontimesport.jpg" group-title="AR |  SPORTS",SPORTS | AR:  ON TIME SPORT
+http://speed-4k.live:8089/live/9120348167513/9120348167513/5144.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS | AR:   ON TIME Sport 2" tvg-logo="http://5.135.139.24/cover/ontimesport.jpg" group-title="AR |  SPORTS",SPORTS | AR:   ON TIME Sport 2
+http://speed-4k.live:8089/live/9120348167513/9120348167513/74302.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS | AR:   Al Ahly Tv" tvg-logo="http://5.135.139.24/cover/logochannel/alahly.jpg" group-title="AR |  SPORTS",SPORTS | AR:   Al Ahly Tv
+http://speed-4k.live:8089/live/9120348167513/9120348167513/602.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS | AR:   Nile Sport" tvg-logo="http://5.135.139.24/cover/logochannel/nilesport.jpg" group-title="AR |  SPORTS",SPORTS | AR:   Nile Sport
+http://speed-4k.live:8089/live/9120348167513/9120348167513/421.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS | AR:   Dubai Sport 3" tvg-logo="http://5.135.139.24/cover/logochannel/dubaisport.jpg" group-title="AR |  SPORTS",SPORTS | AR:   Dubai Sport 3
+http://speed-4k.live:8089/live/9120348167513/9120348167513/5873.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS | AR:   Dubai Sport 2" tvg-logo="http://5.135.139.24/cover/logochannel/dubaisport.jpg" group-title="AR |  SPORTS",SPORTS | AR:   Dubai Sport 2
+http://speed-4k.live:8089/live/9120348167513/9120348167513/1276.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC 1" tvg-logo="http://5.135.139.24/cover/coverchannel/index.jpg" group-title="AR | MBC",MBC | AR: MBC 1
+http://speed-4k.live:8089/live/9120348167513/9120348167513/47989.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC 2" tvg-logo="http://5.135.139.24/cover/logochannel/mbc2.png" group-title="AR | MBC",MBC | AR: MBC 2
+http://speed-4k.live:8089/live/9120348167513/9120348167513/163.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC 3" tvg-logo="http://5.135.139.24/cover/logochannel/mbc3.jpg" group-title="AR | MBC",MBC | AR: MBC 3
+http://speed-4k.live:8089/live/9120348167513/9120348167513/162.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC 4" tvg-logo="http://5.135.139.24/cover/tv/MBC_4.jpeg" group-title="AR | MBC",MBC | AR: MBC 4
+http://speed-4k.live:8089/live/9120348167513/9120348167513/161.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC 5" tvg-logo="http://5.135.139.24/cover/tv/mbc5.jpg" group-title="AR | MBC",MBC | AR: MBC 5
+http://speed-4k.live:8089/live/9120348167513/9120348167513/164.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC IRAQ HD" tvg-logo="http://5.135.139.24/cover/AFF/iraqq.jpg" group-title="AR | MBC",MBC | AR: MBC IRAQ HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/74298.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC MASR 2" tvg-logo="http://5.135.139.24/cover/logochannel/MBC_MASR_2.jpg" group-title="AR | MBC",MBC | AR: MBC MASR 2
+http://speed-4k.live:8089/live/9120348167513/9120348167513/223.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC ACTION" tvg-logo="http://5.135.139.24/cover/logochannel/mbcaction.jpeg" group-title="AR | MBC",MBC | AR: MBC ACTION
+http://speed-4k.live:8089/live/9120348167513/9120348167513/179.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC Bollywood" tvg-logo="http://5.135.139.24/cover/logochannel/mbc-bollywood.png" group-title="AR | MBC",MBC | AR: MBC Bollywood
+http://speed-4k.live:8089/live/9120348167513/9120348167513/180.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC DRAMA" tvg-logo="http://5.135.139.24/cover/coverchannel/mbcdrama.jpg" group-title="AR | MBC",MBC | AR: MBC DRAMA
+http://speed-4k.live:8089/live/9120348167513/9120348167513/159.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC MASR" tvg-logo="http://5.135.139.24/cover/logochannel/MBC_Masr_Logo.png" group-title="AR | MBC",MBC | AR: MBC MASR
+http://speed-4k.live:8089/live/9120348167513/9120348167513/191.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC MAX" tvg-logo="http://5.135.139.24/cover/coverchannel/mbcmax.jpg" group-title="AR | MBC",MBC | AR: MBC MAX
+http://speed-4k.live:8089/live/9120348167513/9120348167513/160.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC Drama+ HD" tvg-logo="https://multiacs.com/logo/new/MBCDRAME+.jpg" group-title="AR | MBC",MBC | AR: MBC Drama+ HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675576.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC Variety HD" tvg-logo="https://multiacs.com/logo/new/MBCVarietyHD.png" group-title="AR | MBC",MBC | AR: MBC Variety HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675574.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC FM HD" tvg-logo="https://multiacs.com/logo/new/mbcFM.png" group-title="AR | MBC",MBC | AR: MBC FM HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675588.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC Panorama HD" tvg-logo="https://multiacs.com/logo/new/mbcpanorama.png" group-title="AR | MBC",MBC | AR: MBC Panorama HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675586.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC Wanasah HD" tvg-logo="https://multiacs.com/logo/new/wanesa.png" group-title="AR | MBC",MBC | AR: MBC Wanasah HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675584.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC Drama FHD" tvg-logo="http://5.135.139.24/cover/coverchannel/mbcdrama.jpg" group-title="AR | MBC",MBC | AR: MBC Drama FHD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675577.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC Iraq FHD" tvg-logo="http://5.135.139.24/cover/AFF/iraqq.jpg" group-title="AR | MBC",MBC | AR: MBC Iraq FHD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675579.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC 3 FHD" tvg-logo="http://5.135.139.24/cover/logochannel/mbc3.jpg" group-title="AR | MBC",MBC | AR: MBC 3 FHD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675567.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC 5 FHD" tvg-logo="http://5.135.139.24/cover/tv/mbc5.jpg" group-title="AR | MBC",MBC | AR: MBC 5 FHD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675570.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC Masr 2 FHD" tvg-logo="http://5.135.139.24/cover/logochannel/MBC_MASR_2.jpg" group-title="AR | MBC",MBC | AR: MBC Masr 2 FHD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675582.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC Masr 1 FHD" tvg-logo="http://5.135.139.24/cover/logochannel/MBC_Masr_Logo.png" group-title="AR | MBC",MBC | AR: MBC Masr 1 FHD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675583.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC Wanasah FHD" tvg-logo="https://multiacs.com/logo/new/wanesa.png" group-title="AR | MBC",MBC | AR: MBC Wanasah FHD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675585.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC Panorama FM FHD" tvg-logo="https://multiacs.com/logo/new/mbcpanorama.png" group-title="AR | MBC",MBC | AR: MBC Panorama FM FHD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675587.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC FM FHD" tvg-logo="https://multiacs.com/logo/new/mbcFM.png" group-title="AR | MBC",MBC | AR: MBC FM FHD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675589.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC Persia FHD" tvg-logo="https://multiacs.com/logo/new/MBC_Persia.png" group-title="AR | MBC",MBC | AR: MBC Persia FHD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675590.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC 1 4K" tvg-logo="http://5.135.139.24/cover/coverchannel/index.jpg" group-title="AR | MBC",MBC | AR: MBC 1 4K
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675591.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC 2 4K" tvg-logo="http://5.135.139.24/cover/logochannel/mbc2.png" group-title="AR | MBC",MBC | AR: MBC 2 4K
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675592.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC 3 4K" tvg-logo="http://5.135.139.24/cover/logochannel/mbc3.jpg" group-title="AR | MBC",MBC | AR: MBC 3 4K
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675593.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC 4 4K" tvg-logo="http://5.135.139.24/cover/tv/MBC_4.jpeg" group-title="AR | MBC",MBC | AR: MBC 4 4K
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675594.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC 5 4K" tvg-logo="http://5.135.139.24/cover/tv/mbc5.jpg" group-title="AR | MBC",MBC | AR: MBC 5 4K
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675595.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC Action 4K" tvg-logo="http://5.135.139.24/cover/logochannel/mbcaction.jpeg" group-title="AR | MBC",MBC | AR: MBC Action 4K
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675596.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC Bollywood 4K" tvg-logo="http://5.135.139.24/cover/logochannel/mbc-bollywood.png" group-title="AR | MBC",MBC | AR: MBC Bollywood 4K
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675597.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC Drama + 4K" tvg-logo="https://multiacs.com/logo/new/MBCDRAME+.jpg" group-title="AR | MBC",MBC | AR: MBC Drama + 4K
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675598.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC Drama 4K" tvg-logo="http://5.135.139.24/cover/coverchannel/mbcdrama.jpg" group-title="AR | MBC",MBC | AR: MBC Drama 4K
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675599.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC Iraq 4K" tvg-logo="http://5.135.139.24/cover/AFF/iraqq.jpg" group-title="AR | MBC",MBC | AR: MBC Iraq 4K
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675600.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC Masr 1 4K" tvg-logo="http://5.135.139.24/cover/logochannel/MBC_Masr_Logo.png" group-title="AR | MBC",MBC | AR: MBC Masr 1 4K
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675601.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC Masr 2 4K" tvg-logo="http://5.135.139.24/cover/logochannel/MBC_MASR_2.jpg" group-title="AR | MBC",MBC | AR: MBC Masr 2 4K
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675602.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC Max 4K" tvg-logo="http://5.135.139.24/cover/coverchannel/mbcmax.jpg" group-title="AR | MBC",MBC | AR: MBC Max 4K
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675603.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC Panorama 4K" tvg-logo="https://multiacs.com/logo/new/mbcpanorama.png" group-title="AR | MBC",MBC | AR: MBC Panorama 4K
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675604.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC Persian 4K" tvg-logo="https://multiacs.com/logo/new/MBC_Persia.png" group-title="AR | MBC",MBC | AR: MBC Persian 4K
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675605.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC Variety 4K" tvg-logo="https://multiacs.com/logo/new/MBCVarietyHD.png" group-title="AR | MBC",MBC | AR: MBC Variety 4K
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675606.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC Wanasah 4K" tvg-logo="https://multiacs.com/logo/new/wanesa.png" group-title="AR | MBC",MBC | AR: MBC Wanasah 4K
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675607.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC 1 SD" tvg-logo="http://5.135.139.24/cover/coverchannel/index.jpg" group-title="AR | MBC",MBC | AR: MBC 1 SD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675608.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC 2 SD" tvg-logo="http://5.135.139.24/cover/logochannel/mbc2.png" group-title="AR | MBC",MBC | AR: MBC 2 SD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675609.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC 3 SD" tvg-logo="http://5.135.139.24/cover/logochannel/mbc3.jpg" group-title="AR | MBC",MBC | AR: MBC 3 SD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675610.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC 4 SD" tvg-logo="http://5.135.139.24/cover/tv/MBC_4.jpeg" group-title="AR | MBC",MBC | AR: MBC 4 SD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675611.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC 5 SD" tvg-logo="http://5.135.139.24/cover/tv/mbc5.jpg" group-title="AR | MBC",MBC | AR: MBC 5 SD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675612.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC Action SD" tvg-logo="http://5.135.139.24/cover/logochannel/mbcaction.jpeg" group-title="AR | MBC",MBC | AR: MBC Action SD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675613.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC Bollywood SD" tvg-logo="http://5.135.139.24/cover/logochannel/mbc-bollywood.png" group-title="AR | MBC",MBC | AR: MBC Bollywood SD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675614.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC Drama SD" tvg-logo="http://5.135.139.24/cover/coverchannel/mbcdrama.jpg" group-title="AR | MBC",MBC | AR: MBC Drama SD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675615.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC Iraq SD" tvg-logo="http://5.135.139.24/cover/AFF/iraqq.jpg" group-title="AR | MBC",MBC | AR: MBC Iraq SD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675616.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC Max SD" tvg-logo="http://5.135.139.24/cover/coverchannel/mbcmax.jpg" group-title="AR | MBC",MBC | AR: MBC Max SD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675617.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ALWAN WORLD CUP" tvg-logo="http://speed-4k.live:8089/logo/chn/4055.png" group-title="AR | SPORTS",ALWAN WORLD CUP
+http://speed-4k.live:8089/live/9120348167513/9120348167513/4055.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="FR: DAZN 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f9a0cbb607241486dbf9c331fa0bc048.png" group-title="AR | SPORTS",FR: DAZN 1 HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85687040.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC ACTION" tvg-logo="http://5.135.139.24/cover/logochannel/mbcaction.jpeg" group-title="AR | SPORTS",MBC | AR: MBC ACTION
+http://speed-4k.live:8089/live/9120348167513/9120348167513/179.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC Action 4K" tvg-logo="http://5.135.139.24/cover/logochannel/mbcaction.jpeg" group-title="AR | SPORTS",MBC | AR: MBC Action 4K
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675596.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC Action SD" tvg-logo="http://5.135.139.24/cover/logochannel/mbcaction.jpeg" group-title="AR | SPORTS",MBC | AR: MBC Action SD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675613.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC MASR" tvg-logo="http://5.135.139.24/cover/logochannel/MBC_Masr_Logo.png" group-title="AR | SPORTS",MBC | AR: MBC MASR
+http://speed-4k.live:8089/live/9120348167513/9120348167513/191.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC Masr 1 4K" tvg-logo="http://5.135.139.24/cover/logochannel/MBC_Masr_Logo.png" group-title="AR | SPORTS",MBC | AR: MBC Masr 1 4K
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675601.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC Masr 1 FHD" tvg-logo="http://5.135.139.24/cover/logochannel/MBC_Masr_Logo.png" group-title="AR | SPORTS",MBC | AR: MBC Masr 1 FHD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675583.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC Masr 2 FHD" tvg-logo="http://5.135.139.24/cover/logochannel/MBC_MASR_2.jpg" group-title="AR | SPORTS",MBC | AR: MBC Masr 2 FHD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675582.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC MASR 2" tvg-logo="http://5.135.139.24/cover/logochannel/MBC_MASR_2.jpg" group-title="AR | SPORTS",MBC | AR: MBC MASR 2
+http://speed-4k.live:8089/live/9120348167513/9120348167513/223.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC | AR: MBC Masr 2 4K" tvg-logo="http://5.135.139.24/cover/logochannel/MBC_MASR_2.jpg" group-title="AR | SPORTS",MBC | AR: MBC Masr 2 4K
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675602.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="FR: DAZN 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f9a0cbb607241486dbf9c331fa0bc048.png" group-title="AR | SPORTS",FR: DAZN 2 HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85690174.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="FR: DAZN 3 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f9a0cbb607241486dbf9c331fa0bc048.png" group-title="AR | SPORTS",FR: DAZN 3 HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85690175.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="FR: DAZN 4 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f9a0cbb607241486dbf9c331fa0bc048.png" group-title="AR | SPORTS",FR: DAZN 4 HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85668608.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Cameo Sports" tvg-logo="http://speed-4k.live:8089/logo/chn/390.jpg" group-title="AR | SPORTS",Cameo Sports
+http://speed-4k.live:8089/live/9120348167513/9120348167513/390.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Sport divers" tvg-logo="http://speed-4k.live:8089/logo/chn/391.jpg" group-title="AR | SPORTS",Sport divers
+http://speed-4k.live:8089/live/9120348167513/9120348167513/391.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ALKASS1" tvg-logo="http://speed-4k.live:8089/logo/chn/5002.jpg" group-title="AR | SPORTS",ALKASS1
+http://speed-4k.live:8089/live/9120348167513/9120348167513/5002.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ALKASS2" tvg-logo="http://speed-4k.live:8089/logo/chn/5003.jpg" group-title="AR | SPORTS",ALKASS2
+http://speed-4k.live:8089/live/9120348167513/9120348167513/5003.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ALKASS3" tvg-logo="http://speed-4k.live:8089/logo/chn/5004.jpg" group-title="AR | SPORTS",ALKASS3
+http://speed-4k.live:8089/live/9120348167513/9120348167513/5004.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ALKASS4" tvg-logo="http://speed-4k.live:8089/logo/chn/5005.jpg" group-title="AR | SPORTS",ALKASS4
+http://speed-4k.live:8089/live/9120348167513/9120348167513/5005.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS | AR:   Dubai Sport 1 HD" tvg-logo="https://multiacs.com/logo/sportarab/bubaisport.png" group-title="AR | SPORTS",SPORTS | AR:   Dubai Sport 1 HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675622.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS | AR:   Dubai Racing 1 HD" tvg-logo="https://multiacs.com/logo/sportarab/dubairacing.jpeg" group-title="AR | SPORTS",SPORTS | AR:   Dubai Racing 1 HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675627.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS | AR:   Dubai Racing 2 HD" tvg-logo="https://multiacs.com/logo/sportarab/dubairacing.jpeg" group-title="AR | SPORTS",SPORTS | AR:   Dubai Racing 2 HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675628.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS | AR:   Dubai Racing 3 HD" tvg-logo="https://multiacs.com/logo/sportarab/dubairacing.jpeg" group-title="AR | SPORTS",SPORTS | AR:   Dubai Racing 3 HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675629.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS | AR:   Saudi 24 Sport" tvg-logo="https://multiacs.com/logo/sportarab/Saudi%2024%20Sport.jpg" group-title="AR | SPORTS",SPORTS | AR:   Saudi 24 Sport
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675630.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS | AR:   Bahrain Sport 1 HD" tvg-logo="https://multiacs.com/logo/sportarab/bahrain-sport-1-bh.png" group-title="AR | SPORTS",SPORTS | AR:   Bahrain Sport 1 HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675631.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS | AR:   Bahrain Sport 2 HD" tvg-logo="https://multiacs.com/logo/sportarab/bahrain.JPG" group-title="AR | SPORTS",SPORTS | AR:   Bahrain Sport 2 HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675632.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS | AR:   Oman Sport HD" tvg-logo="https://multiacs.com/logo/sportarab/logo_sport_omansport.jpg" group-title="AR | SPORTS",SPORTS | AR:   Oman Sport HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675633.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS | AR:   Iraqia Sport HD" tvg-logo="https://multiacs.com/logo/sportarab/Iraqia%20Sport%20HD.png" group-title="AR | SPORTS",SPORTS | AR:   Iraqia Sport HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675634.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS | AR:   Shabab Iraq Sport 1 HD" tvg-logo="https://multiacs.com/logo/sportarab/Shabab%20Iraq%20Sport%201%20HD.jpg" group-title="AR | SPORTS",SPORTS | AR:   Shabab Iraq Sport 1 HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675635.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS | AR:   Zamalek Sport" tvg-logo="https://multiacs.com/logo/sportarab/Zamalek_TV.jpg" group-title="AR | SPORTS",SPORTS | AR:   Zamalek Sport
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675636.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS | AR:   Al Heddaf TV" tvg-logo="https://multiacs.com/logo/sportarab/El_Heddaf_TV.jpg" group-title="AR | SPORTS",SPORTS | AR:   Al Heddaf TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675639.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS | AR:   Libya Sport 1" tvg-logo="https://multiacs.com/logo/sportarab/libyasport.jpg" group-title="AR | SPORTS",SPORTS | AR:   Libya Sport 1
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675641.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS | AR:   Libya Sport 2" tvg-logo="https://multiacs.com/logo/sportarab/libyasport.jpg" group-title="AR | SPORTS",SPORTS | AR:   Libya Sport 2
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675642.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS | AR:   Jordan Sport HD" tvg-logo="https://multiacs.com/logo/sportarab/jordan.jpg" group-title="AR | SPORTS",SPORTS | AR:   Jordan Sport HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675643.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS | AR:   Palestine Sport" tvg-logo="https://multiacs.com/logo/sportarab/Palestine%20Sport.png" group-title="AR | SPORTS",SPORTS | AR:   Palestine Sport
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675645.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS | AR:   Sharjah Sport HD" tvg-logo="https://multiacs.com/logo/sportarab/Sharjah%20Sport.jpg" group-title="AR | SPORTS",SPORTS | AR:   Sharjah Sport HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675646.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS | AR:   Arryadia HD" tvg-logo="http://5.135.139.24/cover/logochannel/Arriadhia.jpg" group-title="AR | SPORTS",SPORTS | AR:   Arryadia HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675647.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS | AR:   Yas Sport" tvg-logo="https://multiacs.com/logo/sportarab/yastv.png" group-title="AR | SPORTS",SPORTS | AR:   Yas Sport
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675649.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS | AR:   WWE HD" tvg-logo="https://multiacs.com/logo/sportarab/WWE.jpeg" group-title="AR | SPORTS",SPORTS | AR:   WWE HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675650.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS | AR:   RealMadrid TV" tvg-logo="https://multiacs.com/logo/sportarab/RealMadrid%20TV.jpg" group-title="AR | SPORTS",SPORTS | AR:   RealMadrid TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675651.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS | AR:   Iraqia Sport HD" tvg-logo="https://multiacs.com/logo/sportarab/Iraqia%20Sport%20HD.png" group-title="AR | SPORTS",SPORTS | AR:   Iraqia Sport HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675652.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS | AR:   Shabab Iraq Sport 1 HD" tvg-logo="https://multiacs.com/logo/sportarab/Shabab%20Iraq%20Sport%201%20HD.jpg" group-title="AR | SPORTS",SPORTS | AR:   Shabab Iraq Sport 1 HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675653.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS | AR:   Libya Sport 1 HD" tvg-logo="https://multiacs.com/logo/sportarab/libyasport.jpg" group-title="AR | SPORTS",SPORTS | AR:   Libya Sport 1 HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675654.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS | AR:   Libya Sport 2 HD" tvg-logo="https://multiacs.com/logo/sportarab/libyasport.jpg" group-title="AR | SPORTS",SPORTS | AR:   Libya Sport 2 HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675655.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS | AR:   Palestine Sport" tvg-logo="https://multiacs.com/logo/sportarab/Palestine%20Sport.png" group-title="AR | SPORTS",SPORTS | AR:   Palestine Sport
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675656.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS | AR:   Oman TV Sport HD" tvg-logo="https://multiacs.com/logo/sportarab/logo_sport_omansport.jpg" group-title="AR | SPORTS",SPORTS | AR:   Oman TV Sport HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675657.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS | AR:   Bahrain Sport 1 HD" tvg-logo="https://multiacs.com/logo/sportarab/bahrain-sport-1-bh.png" group-title="AR | SPORTS",SPORTS | AR:   Bahrain Sport 1 HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675658.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS | AR:   Bahrain Sport 2 HD" tvg-logo="https://multiacs.com/logo/sportarab/bahrain.JPG" group-title="AR | SPORTS",SPORTS | AR:   Bahrain Sport 2 HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675659.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS | AR:   Jordan Sport HD" tvg-logo="https://multiacs.com/logo/sportarab/jordan.jpg" group-title="AR | SPORTS",SPORTS | AR:   Jordan Sport HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675660.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS | AR:   Kuwait Sport HD" tvg-logo="https://multiacs.com/logo/sportarab/logo_sport_kuwaitsport.jpg" group-title="AR | SPORTS",SPORTS | AR:   Kuwait Sport HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675661.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS | AR:   Kuwait Sport Plus" tvg-logo="https://multiacs.com/logo/sportarab/logo_sport_kuwaitsport.jpg" group-title="AR | SPORTS",SPORTS | AR:   Kuwait Sport Plus
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675662.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS | AR:   Sharjah Sport HD" tvg-logo="https://multiacs.com/logo/sportarab/Sharjah%20Sport.jpg" group-title="AR | SPORTS",SPORTS | AR:   Sharjah Sport HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675663.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS | AR:   Saudi 24 Sport" tvg-logo="https://multiacs.com/logo/sportarab/Saudi%2024%20Sport.jpg" group-title="AR | SPORTS",SPORTS | AR:   Saudi 24 Sport
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675664.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS | AR:   Zamalek Sport" tvg-logo="https://multiacs.com/logo/sportarab/Zamalek_TV.jpg" group-title="AR | SPORTS",SPORTS | AR:   Zamalek Sport
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675665.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS | AR:   On Time Sport HD 1" tvg-logo="http://5.135.139.24/cover/ontimesport.jpg" group-title="AR | SPORTS",SPORTS | AR:   On Time Sport HD 1
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675666.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS | AR:   On Time Sport HD 2" tvg-logo="http://5.135.139.24/cover/ontimesport.jpg" group-title="AR | SPORTS",SPORTS | AR:   On Time Sport HD 2
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675667.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS | AR:   Nile Sport" tvg-logo="http://5.135.139.24/cover/logochannel/nilesport.jpg" group-title="AR | SPORTS",SPORTS | AR:   Nile Sport
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675668.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR:   Al Jazeera 4K" tvg-logo="http://5.135.139.24/cover/logochannel/logochannel/Ajazeera.png" group-title="AR | NEWS",News | AR:   Al Jazeera 4K
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675670.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR:   Al jazeera SD" tvg-logo="http://5.135.139.24/cover/logochannel/logochannel/Ajazeera.png" group-title="AR | NEWS",News | AR:   Al jazeera SD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675671.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR:   Al Jazeera Mubasher 2" tvg-logo="http://5.135.139.24/cover/logochannel/Al_Jazeera_Mubasher.png" group-title="AR | NEWS",News | AR:   Al Jazeera Mubasher 2
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675673.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | En: Al Jazeera English" tvg-logo="http://5.135.139.24/cover/logochannel/logochannel/Ajazeera.png" group-title="AR | NEWS",News | En: Al Jazeera English
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675674.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR:  AL ALAM" tvg-logo="http://5.135.139.24/cover/alalam.jpg" group-title="AR | NEWS",News | AR:  AL ALAM
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85666664.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR:  Al Hiwar News TV" tvg-logo="http://multiacs.com/logo/newsarab/hiwarnews.jpg" group-title="AR | NEWS",News | AR:  Al Hiwar News TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85668585.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR: Al-Manar" tvg-logo="http://5.135.139.24/cover/logochannel/almanar.png" group-title="AR | NEWS",News | AR: Al-Manar
+http://speed-4k.live:8089/live/9120348167513/9120348167513/6300.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR: Aljazeera documentary" tvg-logo="http://5.135.139.24/cover/logochannel/aljazeeradocumentary.png" group-title="AR | NEWS",News | AR: Aljazeera documentary
+http://speed-4k.live:8089/live/9120348167513/9120348167513/250.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR: Aljazeera Mubasheer" tvg-logo="http://5.135.139.24/cover/logochannel/Al_Jazeera_Mubasher.png" group-title="AR | NEWS",News | AR: Aljazeera Mubasheer
+http://speed-4k.live:8089/live/9120348167513/9120348167513/252.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR: Aljazeera TV" tvg-logo="http://5.135.139.24/cover/logochannel/logochannel/Ajazeera.png" group-title="AR | NEWS",News | AR: Aljazeera TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/244.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR:  RT NEWS" tvg-logo="http://5.135.139.24/cover/logochannel/logochannel/ARTNEWS.jpg" group-title="AR | NEWS",News | AR:  RT NEWS
+http://speed-4k.live:8089/live/9120348167513/9120348167513/251.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR: Sharquia News" tvg-logo="http://5.135.139.24/cover/affi/images.jpg" group-title="AR | NEWS",News | AR: Sharquia News
+http://speed-4k.live:8089/live/9120348167513/9120348167513/249.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR:  Al-Arabia" tvg-logo="http://5.135.139.24/cover/tv/arabiya.png" group-title="AR | NEWS",News | AR:  Al-Arabia
+http://speed-4k.live:8089/live/9120348167513/9120348167513/3745.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR:  AL.Hadath" tvg-logo="http://5.135.139.24/cover/tv/alhadath.jpg" group-title="AR | NEWS",News | AR:  AL.Hadath
+http://speed-4k.live:8089/live/9120348167513/9120348167513/603.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR:  ALARABY NEWS" tvg-logo="http://5.135.139.24/cover/affi/araby.jpg" group-title="AR | NEWS",News | AR:  ALARABY NEWS
+http://speed-4k.live:8089/live/9120348167513/9120348167513/65390.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR: AlMayaden" tvg-logo="http://5.135.139.24/cover/tv/Al-mayadeen_logo.jpg" group-title="AR | NEWS",News | AR: AlMayaden
+http://speed-4k.live:8089/live/9120348167513/9120348167513/247.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR: BBC NEWS" tvg-logo="http://5.135.139.24/cover/affi/bbcnewsicon256x256.jpg" group-title="AR | NEWS",News | AR: BBC NEWS
+http://speed-4k.live:8089/live/9120348167513/9120348167513/65388.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR: BBC.Arab" tvg-logo="http://5.135.139.24/cover/logochannel/BBCArabic.png" group-title="AR | NEWS",News | AR: BBC.Arab
+http://speed-4k.live:8089/live/9120348167513/9120348167513/245.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR: CNBC NEWS" tvg-logo="http://5.135.139.24/cover/affi/fkgwfnykfayji0pt8keu.jpg" group-title="AR | NEWS",News | AR: CNBC NEWS
+http://speed-4k.live:8089/live/9120348167513/9120348167513/65389.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR: CNN" tvg-logo="http://5.135.139.24/cover/logochannel/cnn.png" group-title="AR | NEWS",News | AR: CNN
+http://speed-4k.live:8089/live/9120348167513/9120348167513/8917.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR: France24" tvg-logo="http://5.135.139.24/cover/logochannel/france24.png" group-title="AR | NEWS",News | AR: France24
+http://speed-4k.live:8089/live/9120348167513/9120348167513/246.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR: SKY NEWS ARABIC" tvg-logo="http://5.135.139.24/cover/affi/SKYNEWSARABIC.jpg" group-title="AR | NEWS",News | AR: SKY NEWS ARABIC
+http://speed-4k.live:8089/live/9120348167513/9120348167513/65387.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR: TRT ARABIC" tvg-logo="http://5.135.139.24/cover/affi/trt.jpg" group-title="AR | NEWS",News | AR: TRT ARABIC
+http://speed-4k.live:8089/live/9120348167513/9120348167513/65386.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR:   Al Arabiya 4K" tvg-logo="http://5.135.139.24/cover/tv/arabiya.png" group-title="AR | NEWS",News | AR:   Al Arabiya 4K
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675676.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR:   Al Hadath FHD" tvg-logo="http://5.135.139.24/cover/tv/alhadath.jpg" group-title="AR | NEWS",News | AR:   Al Hadath FHD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675678.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR:   Al Hadath SD" tvg-logo="http://5.135.139.24/cover/tv/alhadath.jpg" group-title="AR | NEWS",News | AR:   Al Hadath SD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675679.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR:   Al Hadath 4K" tvg-logo="http://5.135.139.24/cover/tv/alhadath.jpg" group-title="AR | NEWS",News | AR:   Al Hadath 4K
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675680.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR:   Sky News Arabic SD" tvg-logo="http://5.135.139.24/cover/affi/SKYNEWSARABIC.jpg" group-title="AR | NEWS",News | AR:   Sky News Arabic SD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675682.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR:   Al Mayadeen TV Plus" tvg-logo="http://5.135.139.24/cover/tv/Al-mayadeen_logo.jpg" group-title="AR | NEWS",News | AR:   Al Mayadeen TV Plus
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675684.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR:   Araby 2  HD" tvg-logo="http://multiacs.com/logo/newsarab/Araby2.jpg" group-title="AR | NEWS",News | AR:   Araby 2  HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675686.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR:   RT Arabic SD" tvg-logo="http://multiacs.com/logo/newsarab/ru-rt-arabic.png" group-title="AR | NEWS",News | AR:   RT Arabic SD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675688.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR:   Al Ghad Al Araby HD" tvg-logo="http://multiacs.com/logo/newsarab/AlGhadAlAraby.jpg" group-title="AR | NEWS",News | AR:   Al Ghad Al Araby HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675690.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR:   France 24 Arabic SD" tvg-logo="http://5.135.139.24/cover/logochannel/france24.png" group-title="AR | NEWS",News | AR:   France 24 Arabic SD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675695.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | En: France 24 English" tvg-logo="http://5.135.139.24/cover/logochannel/france24.png" group-title="AR | NEWS",News | En: France 24 English
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675696.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR:   DW Arabic HD" tvg-logo="http://multiacs.com/logo/newsarab/DW%20Arabic.jpg" group-title="AR | NEWS",News | AR:   DW Arabic HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675697.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | En: DW English" tvg-logo="https://multiacs.com/logo/newsarab/DW%20english.png" group-title="AR | NEWS",News | En: DW English
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675698.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR:   Al Haqeqa Dawalah" tvg-logo="" group-title="AR | NEWS",News | AR:   Al Haqeqa Dawalah
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675699.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR:   Asharq News HD" tvg-logo="http://multiacs.com/logo/newsarab/Asharq%20News.png" group-title="AR | NEWS",News | AR:   Asharq News HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675700.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR:   Nabaa News" tvg-logo="http://multiacs.com/logo/newsarab/Nabaa%20News.png" group-title="AR | NEWS",News | AR:   Nabaa News
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675701.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR:   Al Qanat 9" tvg-logo="" group-title="AR | NEWS",News | AR:   Al Qanat 9
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675702.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR:   Al Mustakila" tvg-logo="" group-title="AR | NEWS",News | AR:   Al Mustakila
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675703.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR:   Al Ayam TV" tvg-logo="http://speed-4k.live:8089/logo/chn/85675707.jpg" group-title="AR | NEWS",News | AR:   Al Ayam TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675707.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR:   Al Hadath Al Youm" tvg-logo="http://speed-4k.live:8089/logo/chn/85675708.png" group-title="AR | NEWS",News | AR:   Al Hadath Al Youm
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675708.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR:   Al Hurra HD" tvg-logo="http://speed-4k.live:8089/logo/chn/85675709.png" group-title="AR | NEWS",News | AR:   Al Hurra HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675709.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR:   Al Yaum TV" tvg-logo="" group-title="AR | NEWS",News | AR:   Al Yaum TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675710.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR:   CBC Extra News TV" tvg-logo="" group-title="AR | NEWS",News | AR:   CBC Extra News TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675711.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR:   i24 News Arabic" tvg-logo="http://multiacs.com/logo/FR/i24NEWS.png" group-title="AR | NEWS",News | AR:   i24 News Arabic
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675712.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | En: i24 News English" tvg-logo="https://multiacs.com/logo/FR/i24NEWS.png" group-title="AR | NEWS",News | En: i24 News English
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675713.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | Fr: i24 News French" tvg-logo="https://multiacs.com/logo/FR/i24NEWS.png" group-title="AR | NEWS",News | Fr: i24 News French
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675714.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR:   Russia Today Arabic 4K" tvg-logo="http://speed-4k.live:8089/logo/chn/85675715.png" group-title="AR | NEWS",News | AR:   Russia Today Arabic 4K
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675715.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR:   Saudia Al Ekhbariya" tvg-logo="http://speed-4k.live:8089/logo/chn/85675716.png" group-title="AR | NEWS",News | AR:   Saudia Al Ekhbariya
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675716.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | En: Press TV HD" tvg-logo="" group-title="AR | NEWS",News | En: Press TV HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675717.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR:   Hadramout TV News" tvg-logo="" group-title="AR | NEWS",News | AR:   Hadramout TV News
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675719.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR:   iNews HD" tvg-logo="http://multiacs.com/logo/newsarab/Inews.png" group-title="AR | NEWS",News | AR:   iNews HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675720.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | En: Wion TV" tvg-logo="" group-title="AR | NEWS",News | En: Wion TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675722.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR:   AL24 News" tvg-logo="" group-title="AR | NEWS",News | AR:   AL24 News
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675723.ts
+EXTINF:-1 tvg-id="" tvg-name="News | AR:   Echorouk News HD" tvg-logo="" group-title="AR | NEWS",News | AR:   Echorouk News HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675724.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR:   CBC Extra News TV" tvg-logo="" group-title="AR | NEWS",News | AR:   CBC Extra News TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675725.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR:   Nile News" tvg-logo="http://speed-4k.live:8089/logo/chn/85675726.jpg" group-title="AR | NEWS",News | AR:   Nile News
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675726.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR:   iNews HD" tvg-logo="http://multiacs.com/logo/newsarab/Inews.png" group-title="AR | NEWS",News | AR:   iNews HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675727.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR:   Iraqia News HD" tvg-logo="http://multiacs.com/logo/newsarab/Iraqia%20News.jpg" group-title="AR | NEWS",News | AR:   Iraqia News HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675728.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR:   Al Alam News TV" tvg-logo="http://5.135.139.24/cover/alalam.jpg" group-title="AR | NEWS",News | AR:   Al Alam News TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675730.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR:   Syria News TV" tvg-logo="http://multiacs.com/logo/newsarab/Syrian_News_Logo.png" group-title="AR | NEWS",News | AR:   Syria News TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675731.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR:   Syria News" tvg-logo="http://multiacs.com/logo/newsarab/Syrian_News_Logo.png" group-title="AR | NEWS",News | AR:   Syria News
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675732.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR:   Kurdsat News HD" tvg-logo="http://multiacs.com/logo/newsarab/KurdsatNews.jpg" group-title="AR | NEWS",News | AR:   Kurdsat News HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675733.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR:   DW News" tvg-logo="http://multiacs.com/logo/newsarab/dwnews.jpg" group-title="AR | NEWS",News | AR:   DW News
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675734.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="News | AR:   Asharq News HD" tvg-logo="http://multiacs.com/logo/newsarab/Asharq%20News.png" group-title="AR | NEWS",News | AR:   Asharq News HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675735.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA | AR: ROTANA + HD" tvg-logo="http://speed-4k.live:8089/logo/chn/85675736.jpg" group-title="AR | ROTANA",ROTANA | AR: ROTANA + HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675736.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA | AR: ROTANA MUSIC" tvg-logo="http://speed-4k.live:8089/logo/chn/49428.jpg" group-title="AR | ROTANA",ROTANA | AR: ROTANA MUSIC
+http://speed-4k.live:8089/live/9120348167513/9120348167513/49428.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA | AR: ROTANA Cinema Egy HD" tvg-logo="http://5.135.139.24/cover/logochannel/rotana-Cinema.png" group-title="AR | ROTANA",ROTANA | AR: ROTANA Cinema Egy HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/155.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA | AR: ROTANA Classic" tvg-logo="http://5.135.139.24/cover/logochannel/Rotana_Classic_New_Logo.png" group-title="AR | ROTANA",ROTANA | AR: ROTANA Classic
+http://speed-4k.live:8089/live/9120348167513/9120348167513/150.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA | AR: ROTANA Comedy" tvg-logo="http://5.135.139.24/cover/libya/comedy.jpg" group-title="AR | ROTANA",ROTANA | AR: ROTANA Comedy
+http://speed-4k.live:8089/live/9120348167513/9120348167513/299.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA | AR: ROTANA Drama" tvg-logo="http://5.135.139.24/cover/tv1/cover%20channel/rotanadrama.jpg" group-title="AR | ROTANA",ROTANA | AR: ROTANA Drama
+http://speed-4k.live:8089/live/9120348167513/9120348167513/24641.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA | AR: ROTANA Khalijiah" tvg-logo="http://5.135.139.24/cover/logochannel/Rotana_khalijia_New.png" group-title="AR | ROTANA",ROTANA | AR: ROTANA Khalijiah
+http://speed-4k.live:8089/live/9120348167513/9120348167513/149.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA | AR: ROTANA Kids" tvg-logo="http://5.135.139.24/cover/libya/kids.jpg" group-title="AR | ROTANA",ROTANA | AR: ROTANA Kids
+http://speed-4k.live:8089/live/9120348167513/9120348167513/71368.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA | AR: ROTANA  CLIP" tvg-logo="http://5.135.139.24/cover/logochannel/rotanaclip.png" group-title="AR | ROTANA",ROTANA | AR: ROTANA  CLIP
+http://speed-4k.live:8089/live/9120348167513/9120348167513/154.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA | AR: ROTANA M+ HD" tvg-logo="http://speed-4k.live:8089/logo/chn/85675737.jpg" group-title="AR | ROTANA",ROTANA | AR: ROTANA M+ HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675737.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA | AR: ROTANA Aflam + HD" tvg-logo="http://speed-4k.live:8089/logo/chn/85675738.jpg" group-title="AR | ROTANA",ROTANA | AR: ROTANA Aflam + HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675738.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA | AR: ROTANA Cinema KSA HD" tvg-logo="http://5.135.139.24/cover/logochannel/rotana-Cinema.png" group-title="AR | ROTANA",ROTANA | AR: ROTANA Cinema KSA HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675746.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA | AR: ROTANA Comedy FHD" tvg-logo="http://5.135.139.24/cover/libya/comedy.jpg" group-title="AR | ROTANA",ROTANA | AR: ROTANA Comedy FHD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675747.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA | AR: ROTANA Classic FHD" tvg-logo="http://5.135.139.24/cover/logochannel/Rotana_Classic_New_Logo.png" group-title="AR | ROTANA",ROTANA | AR: ROTANA Classic FHD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675748.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA | AR: ROTANA Kids FHD" tvg-logo="http://5.135.139.24/cover/libya/kids.jpg" group-title="AR | ROTANA",ROTANA | AR: ROTANA Kids FHD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675749.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA | AR: ROTANA Clip HD" tvg-logo="http://5.135.139.24/cover/logochannel/rotanaclip.png" group-title="AR | ROTANA",ROTANA | AR: ROTANA Clip HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675752.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA | AR: ROTANA Music HD" tvg-logo="http://multiacs.com/logo/arabe/rotanamusic.jpg" group-title="AR | ROTANA",ROTANA | AR: ROTANA Music HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675753.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SY | AR:    Lana TV 4K" tvg-logo="" group-title="AR | SYRIA",SY | AR:    Lana TV 4K
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675757.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SY | AR:    Lana TV SD" tvg-logo="" group-title="AR | SYRIA",SY | AR:    Lana TV SD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675758.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SY | AR:    Syria Drama Plus" tvg-logo="" group-title="AR | SYRIA",SY | AR:    Syria Drama Plus
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675761.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SY | AR:    Syria TV Plus" tvg-logo="" group-title="AR | SYRIA",SY | AR:    Syria TV Plus
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675763.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SY | AR:    Syria HD Plus" tvg-logo="" group-title="AR | SYRIA",SY | AR:    Syria HD Plus
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675765.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SY | AR:    Syrian TV 4K" tvg-logo="" group-title="AR | SYRIA",SY | AR:    Syrian TV 4K
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675767.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SY | AR:    Hala London 4K" tvg-logo="" group-title="AR | SYRIA",SY | AR:    Hala London 4K
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675772.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SY | AR:  LANA" tvg-logo="" group-title="AR | SYRIA",SY | AR:  LANA
+http://speed-4k.live:8089/live/9120348167513/9120348167513/87.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SY | AR:  Syria_Drama" tvg-logo="http://5.135.139.24/cover/logochannel/syriadrama.jpg" group-title="AR | SYRIA",SY | AR:  Syria_Drama
+http://speed-4k.live:8089/live/9120348167513/9120348167513/1562.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SY | AR:   Alqanat 9" tvg-logo="http://speed-4k.live:8089/logo/chn/85668495.jpg" group-title="AR | SYRIA",SY | AR:   Alqanat 9
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85668495.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SY | AR:   Minbij TV" tvg-logo="" group-title="AR | SYRIA",SY | AR:   Minbij TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85668498.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SY | AR:   Sama TV Plus" tvg-logo="" group-title="AR | SYRIA",SY | AR:   Sama TV Plus
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85668490.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SY | AR:  SYRIA TV" tvg-logo="http://5.135.139.24/cover/logochannel/syria.jpg" group-title="AR | SYRIA",SY | AR:  SYRIA TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/8892.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SY | AR:  Syria HD" tvg-logo="" group-title="AR | SYRIA",SY | AR:  Syria HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85668483.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SY | AR:  Al Alam Syria TV" tvg-logo="" group-title="AR | SYRIA",SY | AR:  Al Alam Syria TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85668485.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SY | AR:   SYRIAN.EDUCATION" tvg-logo="" group-title="AR | SYRIA",SY | AR:   SYRIAN.EDUCATION
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85668486.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SY | AR:  Al.KhabarTV" tvg-logo="" group-title="AR | SYRIA",SY | AR:  Al.KhabarTV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85668488.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SY | AR:  Halab-Today" tvg-logo="" group-title="AR | SYRIA",SY | AR:  Halab-Today
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85668496.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SY | AR:  Sham FM TV" tvg-logo="" group-title="AR | SYRIA",SY | AR:  Sham FM TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85668487.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SY | AR:  NOURELSHAM" tvg-logo="" group-title="AR | SYRIA",SY | AR:  NOURELSHAM
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85668489.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SY | AR:  Al Yaum TV" tvg-logo="" group-title="AR | SYRIA",SY | AR:  Al Yaum TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85668497.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SY | AR:  SOURYANA" tvg-logo="" group-title="AR | SYRIA",SY | AR:  SOURYANA
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85668491.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SY | AR:   Sama TV" tvg-logo="http://5.135.139.24/cover/logochannel/sama.png" group-title="AR | SYRIA",SY | AR:   Sama TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/8898.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="LB | AR:   Al Jadeed TV HD+" tvg-logo="http://speed-4k.live:8089/logo/chn/85675778.jpg" group-title="AR | LEBANON",LB | AR:   Al Jadeed TV HD+
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675778.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="LB | AR:   MTV Lebanon 4K" tvg-logo="http://speed-4k.live:8089/logo/chn/85675780.png" group-title="AR | LEBANON",LB | AR:   MTV Lebanon 4K
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675780.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="LB | AR:   LBC TV 4K" tvg-logo="http://speed-4k.live:8089/logo/chn/85675782.png" group-title="AR | LEBANON",LB | AR:   LBC TV 4K
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675782.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="LB | AR:   LBC International 4K" tvg-logo="http://speed-4k.live:8089/logo/chn/85675784.png" group-title="AR | LEBANON",LB | AR:   LBC International 4K
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675784.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="LB | AR:   LDC Lebanon 4K" tvg-logo="http://speed-4k.live:8089/logo/chn/85675785.png" group-title="AR | LEBANON",LB | AR:   LDC Lebanon 4K
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675785.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="LB | AR:   LBC Sat" tvg-logo="http://speed-4k.live:8089/logo/chn/85675786.png" group-title="AR | LEBANON",LB | AR:   LBC Sat
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675786.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="LB | AR:   NBN 4K" tvg-logo="http://speed-4k.live:8089/logo/chn/85675788.jpg" group-title="AR | LEBANON",LB | AR:   NBN 4K
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675788.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="LB | AR:   Al Manar TV+" tvg-logo="http://speed-4k.live:8089/logo/chn/85675794.jpg" group-title="AR | LEBANON",LB | AR:   Al Manar TV+
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675794.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="LB | AR:   Al Ettihad TV" tvg-logo="" group-title="AR | LEBANON",LB | AR:   Al Ettihad TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675800.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="LB | AR:   Taqallyn TV" tvg-logo="http://speed-4k.live:8089/logo/chn/85675802.jpg" group-title="AR | LEBANON",LB | AR:   Taqallyn TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675802.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="LB | AR:   AL IMAN" tvg-logo="http://5.135.139.24/cover/logochannel/aliman.png" group-title="AR | LEBANON",LB | AR:   AL IMAN
+http://speed-4k.live:8089/live/9120348167513/9120348167513/54989.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="LB | AR:   Arabica" tvg-logo="http://5.135.139.24/cover/logochannel/arabica.jpg" group-title="AR | LEBANON",LB | AR:   Arabica
+http://speed-4k.live:8089/live/9120348167513/9120348167513/326.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="LB | AR:   LBC International HD" tvg-logo="http://5.135.139.24/cover/logochannel/LBC%20I.png" group-title="AR | LEBANON",LB | AR:   LBC International HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/54987.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="LB | AR:   Téle Libanon" tvg-logo="http://5.135.139.24/cover/logochannel/telelibanon.png" group-title="AR | LEBANON",LB | AR:   Téle Libanon
+http://speed-4k.live:8089/live/9120348167513/9120348167513/318.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="LB | AR:  AGHANI" tvg-logo="http://5.135.139.24/cover/logochannel/aghani.jpg" group-title="AR | LEBANON",LB | AR:  AGHANI
+http://speed-4k.live:8089/live/9120348167513/9120348167513/7479.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="LB | AR:  Alaan" tvg-logo="http://5.135.139.24/cover/logochannel/alaan.png" group-title="AR | LEBANON",LB | AR:  Alaan
+http://speed-4k.live:8089/live/9120348167513/9120348167513/8928.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="LB | AR:  Aljadeed" tvg-logo="http://5.135.139.24/cover/logochannel/aljadeed.jpg" group-title="AR | LEBANON",LB | AR:  Aljadeed
+http://speed-4k.live:8089/live/9120348167513/9120348167513/257.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="LB | AR: FutureTv" tvg-logo="http://5.135.139.24/cover/logochannel/futuretv.jpg" group-title="AR | LEBANON",LB | AR: FutureTv
+http://speed-4k.live:8089/live/9120348167513/9120348167513/1569.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="LB | AR:   LBC" tvg-logo="http://5.135.139.24/cover/logochannel/LBC.png" group-title="AR | LEBANON",LB | AR:   LBC
+http://speed-4k.live:8089/live/9120348167513/9120348167513/340.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="LB | AR:   MTV Lebanon HD" tvg-logo="http://5.135.139.24/cover/logochannel/mtv.png" group-title="AR | LEBANON",LB | AR:   MTV Lebanon HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/652.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="LB | AR:  NBN" tvg-logo="http://5.135.139.24/cover/logochannel/NBN.jpg" group-title="AR | LEBANON",LB | AR:  NBN
+http://speed-4k.live:8089/live/9120348167513/9120348167513/7481.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="LB | AR: ON E" tvg-logo="http://5.135.139.24/cover/libya/onetv.jpg" group-title="AR | LEBANON",LB | AR: ON E
+http://speed-4k.live:8089/live/9120348167513/9120348167513/5139.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="LB | AR:   OTV" tvg-logo="http://5.135.139.24/cover/logochannel/otv.png" group-title="AR | LEBANON",LB | AR:   OTV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/341.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   Alawla TV" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   Alawla TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675803.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   One TV" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   One TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675804.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   Al Rabiaa Iraq" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   Al Rabiaa Iraq
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675805.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   UTV Iraq HD" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   UTV Iraq HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675806.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   OWS TV" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   OWS TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675807.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   Al Sharqiya HD" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   Al Sharqiya HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675808.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   Al Wilayah TV" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   Al Wilayah TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675809.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   Iraq 24 HD" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   Iraq 24 HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675811.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   Iraq Future TV" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   Iraq Future TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675812.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   Iraqia Turkuman" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   Iraqia Turkuman
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675813.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   Al Hurra HD" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   Al Hurra HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675815.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   Al Ahd Iraq TV" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   Al Ahd Iraq TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675816.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   Iraqi Education" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   Iraqi Education
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675817.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   ANB Iraq" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   ANB Iraq
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675818.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   Karbala TV" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   Karbala TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675819.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   WTV Watan TV" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   WTV Watan TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675820.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   Al Mawsleya" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   Al Mawsleya
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675821.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   Al Mustakila HD" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   Al Mustakila HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675822.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   Hona Baghdad" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   Hona Baghdad
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675823.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   Al Forat TV" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   Al Forat TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675824.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   Al Baghdadia TV" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   Al Baghdadia TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675825.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   Al Rasheed TV" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   Al Rasheed TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675827.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   Al Rafidain TV" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   Al Rafidain TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675828.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   Al Qamar" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   Al Qamar
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675830.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   MBN Alhura" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   MBN Alhura
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675831.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   12 Arabia" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   12 Arabia
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675832.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   Al Nojaba TV" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   Al Nojaba TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675833.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   Shehab TV" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   Shehab TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675834.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   Salahaden TV" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   Salahaden TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675835.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   Dijlah Zaman TV" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   Dijlah Zaman TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675836.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   Dijleh TV" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   Dijleh TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675837.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   Turkmeneli TV HD" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   Turkmeneli TV HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675838.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   Al Nabaa HD" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   Al Nabaa HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675839.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   Al Anbar TV" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   Al Anbar TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675840.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   Al Aqila TV" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   Al Aqila TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675841.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   Al Etejah TV" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   Al Etejah TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675842.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   Al Awhad TV" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   Al Awhad TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675843.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   Altaghier" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   Altaghier
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675844.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   Al Anwar 1" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   Al Anwar 1
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675845.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   Al Shaaer TV" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   Al Shaaer TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675846.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   Al Ayam TV" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   Al Ayam TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675847.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   Al Eshraq TV" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   Al Eshraq TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675848.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   Al Anwar 2" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   Al Anwar 2
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675850.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   Al Taleaa TV" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   Al Taleaa TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675851.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   Iraqia Syriac" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   Iraqia Syriac
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675852.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   Al maaref TV" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   Al maaref TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675853.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   Suroyo TV" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   Suroyo TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675854.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   The Savior" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   The Savior
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675855.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   Saout Al Aqila" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   Saout Al Aqila
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675856.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   Imam Ali 1 FA TV" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   Imam Ali 1 FA TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675857.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   Al Kawthar TV" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   Al Kawthar TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675858.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   Al Ghadeer TV" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   Al Ghadeer TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675859.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   Diwan TV" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   Diwan TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675860.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   Imam Hussein 1 TV" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   Imam Hussein 1 TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675861.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   Imam HUssein 2" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   Imam HUssein 2
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675862.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   Imam Hussein 3" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   Imam Hussein 3
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675863.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   Al Naeem TV" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   Al Naeem TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675864.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   AlKomail Channel" tvg-logo="" group-title="AR | IRAQ",IQ | AR:   AlKomail Channel
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675865.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:  Afaq" tvg-logo="http://5.135.139.24/cover/logochannel/afak.jpg" group-title="AR | IRAQ",IQ | AR:  Afaq
+http://speed-4k.live:8089/live/9120348167513/9120348167513/8939.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:  Al Sumaria TV" tvg-logo="http://5.135.139.24/cover/logochannel/alsumaria.png" group-title="AR | IRAQ",IQ | AR:  Al Sumaria TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/8930.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   Al Hurra Iraq" tvg-logo="http://5.135.139.24/cover/logochannel/alhurrairaq.png" group-title="AR | IRAQ",IQ | AR:   Al Hurra Iraq
+http://speed-4k.live:8089/live/9120348167513/9120348167513/1575.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IQ | AR:   Al Iraqia HD" tvg-logo="http://5.135.139.24/cover/logochannel/iraqiya.jpg" group-title="AR | IRAQ",IQ | AR:   Al Iraqia HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/1599.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KIDS | AR:    OSN Kids Zone HD" tvg-logo="http://speed-4k.live:8089/logo/chn/85675936.png" group-title="AR | KIDS",KIDS | AR:    OSN Kids Zone HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675936.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Kids| Ar: NickToons HD" tvg-logo="" group-title="AR | KIDS",Kids| Ar: NickToons HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675937.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KIDS | AR:   OSN Nickelodeon HD" tvg-logo="http://win.heblo.xyz:80/images/cfe6485ab5728386c585c3221beabfb2.png" group-title="AR | KIDS",KIDS | AR:   OSN Nickelodeon HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675938.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KIDS | AR:   Majid Kids TV" tvg-logo="http://5.135.139.24/cover/espagnole/bbtv.jpg" group-title="AR | KIDS",KIDS | AR:   Majid Kids TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675942.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Kids| Ar: Shehab TV" tvg-logo="" group-title="AR | KIDS",Kids| Ar: Shehab TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675943.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KIDS | AR:    Atfal & Mawaheb" tvg-logo="http://speed-4k.live:8089/logo/chn/85675944.jpg" group-title="AR | KIDS",KIDS | AR:    Atfal & Mawaheb
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675944.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Kids| En: NickToons HD" tvg-logo="" group-title="AR | KIDS",Kids| En: NickToons HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675945.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KIDS | AR:   NRT 3 Kids HD" tvg-logo="" group-title="AR | KIDS",KIDS | AR:   NRT 3 Kids HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675946.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KIDS | AR:   SAT-7 Kids" tvg-logo="http://speed-4k.live:8089/logo/chn/85675947.jpg" group-title="AR | KIDS",KIDS | AR:   SAT-7 Kids
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675947.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KIDS | AR:   Nour Kids" tvg-logo="" group-title="AR | KIDS",KIDS | AR:   Nour Kids
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85675948.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KIDS | AR:   HODHOD" tvg-logo="http://5.135.139.24/cover/abcde/ayy/HodHodArabic.jpg" group-title="AR | KIDS",KIDS | AR:   HODHOD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/78067.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KIDS | AR:   Majid" tvg-logo="http://speed-4k.live:8089/logo/chn/74068.jpg" group-title="AR | KIDS",KIDS | AR:   Majid
+http://speed-4k.live:8089/live/9120348167513/9120348167513/74068.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KIDS | AR:   TAHA" tvg-logo="http://5.135.139.24/cover/abcde/ayy/taha.jpg" group-title="AR | KIDS",KIDS | AR:   TAHA
+http://speed-4k.live:8089/live/9120348167513/9120348167513/78068.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KIDS | AR:  CartoonNetwork" tvg-logo="http://5.135.139.24/cover/logochannel/CN.png" group-title="AR | KIDS",KIDS | AR:  CartoonNetwork
+http://speed-4k.live:8089/live/9120348167513/9120348167513/333.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KIDS | AR:    karameesh" tvg-logo="http://5.135.139.24/cover/logochannel/logochannel/Akarameech.jpg" group-title="AR | KIDS",KIDS | AR:    karameesh
+http://speed-4k.live:8089/live/9120348167513/9120348167513/304.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KIDS | AR:   Space Toon" tvg-logo="http://5.135.139.24/cover/logochannel/Spacetoon.png" group-title="AR | KIDS",KIDS | AR:   Space Toon
+http://speed-4k.live:8089/live/9120348167513/9120348167513/441.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KIDS | AR:   ToyourJannah" tvg-logo="http://5.135.139.24/cover/logochannel/touyourjananh.jpg" group-title="AR | KIDS",KIDS | AR:   ToyourJannah
+http://speed-4k.live:8089/live/9120348167513/9120348167513/305.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SA | AR:   Oyoon Alwatan" tvg-logo="http://speed-4k.live:8089/logo/chn/85676012.jpg" group-title="AR | SAUDI",SA | AR:   Oyoon Alwatan
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676012.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SA | AR:   Thikrayat HD" tvg-logo="http://speed-4k.live:8089/logo/chn/85676013.webp" group-title="AR | SAUDI",SA | AR:   Thikrayat HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676013.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SA | AR:   Bin Othaimeen" tvg-logo="http://speed-4k.live:8089/logo/chn/85676014.jpg" group-title="AR | SAUDI",SA | AR:   Bin Othaimeen
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676014.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SA | AR:   Al Mergab TV" tvg-logo="http://speed-4k.live:8089/logo/chn/85676015.jpg" group-title="AR | SAUDI",SA | AR:   Al Mergab TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676015.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SA | AR:   Al Sahraa TV" tvg-logo="http://speed-4k.live:8089/logo/chn/85676016.jpg" group-title="AR | SAUDI",SA | AR:   Al Sahraa TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676016.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SA | AR:   Zad TV" tvg-logo="http://speed-4k.live:8089/logo/chn/85676017.png" group-title="AR | SAUDI",SA | AR:   Zad TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676017.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SA | AR:   Al Waqie TV" tvg-logo="http://speed-4k.live:8089/logo/chn/85676018.png" group-title="AR | SAUDI",SA | AR:   Al Waqie TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676018.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SA | AR:   SBC Saudia HD" tvg-logo="http://speed-4k.live:8089/logo/chn/85676019.jpg" group-title="AR | SAUDI",SA | AR:   SBC Saudia HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676019.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SA | AR:   Saudia Quran HD" tvg-logo="http://speed-4k.live:8089/logo/chn/85676020.jpg" group-title="AR | SAUDI",SA | AR:   Saudia Quran HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676020.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SA | AR:   Saudi TV HD" tvg-logo="http://speed-4k.live:8089/logo/chn/85676022.png" group-title="AR | SAUDI",SA | AR:   Saudi TV HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676022.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SA | AR:   Atfal & Mawaheb" tvg-logo="http://speed-4k.live:8089/logo/chn/85676023.jpg" group-title="AR | SAUDI",SA | AR:   Atfal & Mawaheb
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676023.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SA | AR:   Saudia 24" tvg-logo="http://speed-4k.live:8089/logo/chn/85676024.png" group-title="AR | SAUDI",SA | AR:   Saudia 24
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676024.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SA | AR:   Saudia Al Ekhbariya HD" tvg-logo="http://speed-4k.live:8089/logo/chn/85676026.jpg" group-title="AR | SAUDI",SA | AR:   Saudia Al Ekhbariya HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676026.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SA | AR:   iEN TV HD" tvg-logo="http://speed-4k.live:8089/logo/chn/85676027.png" group-title="AR | SAUDI",SA | AR:   iEN TV HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676027.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SA | AR:   Al Majd Al Tabeeaiyah" tvg-logo="http://speed-4k.live:8089/logo/chn/85676028.png" group-title="AR | SAUDI",SA | AR:   Al Majd Al Tabeeaiyah
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676028.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SA | AR:   Al Majd Basmah" tvg-logo="http://speed-4k.live:8089/logo/chn/85676029.png" group-title="AR | SAUDI",SA | AR:   Al Majd Basmah
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676029.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SA | AR:   Al Majd Documentary" tvg-logo="http://speed-4k.live:8089/logo/chn/85676030.png" group-title="AR | SAUDI",SA | AR:   Al Majd Documentary
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676030.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SA | AR:   Al Majd Ekhbarie" tvg-logo="http://speed-4k.live:8089/logo/chn/85676031.png" group-title="AR | SAUDI",SA | AR:   Al Majd Ekhbarie
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676031.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SA | AR:   Al Majd General" tvg-logo="http://speed-4k.live:8089/logo/chn/85676032.png" group-title="AR | SAUDI",SA | AR:   Al Majd General
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676032.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SA | AR:   Al Majd Masat" tvg-logo="http://speed-4k.live:8089/logo/chn/85676033.png" group-title="AR | SAUDI",SA | AR:   Al Majd Masat
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676033.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SA | AR:   Al Majd Rawda" tvg-logo="http://speed-4k.live:8089/logo/chn/85676035.png" group-title="AR | SAUDI",SA | AR:   Al Majd Rawda
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676035.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SA | AR:   Al Majd Religious Science" tvg-logo="http://speed-4k.live:8089/logo/chn/85676036.png" group-title="AR | SAUDI",SA | AR:   Al Majd Religious Science
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676036.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SA | AR:   Al Majd Space TV" tvg-logo="http://speed-4k.live:8089/logo/chn/85676037.png" group-title="AR | SAUDI",SA | AR:   Al Majd Space TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676037.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SA | AR:   Al Majd Taghareed" tvg-logo="http://speed-4k.live:8089/logo/chn/85676038.png" group-title="AR | SAUDI",SA | AR:   Al Majd Taghareed
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676038.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SA | AR:   iEN Doros 01" tvg-logo="http://speed-4k.live:8089/logo/chn/85676039.png" group-title="AR | SAUDI",SA | AR:   iEN Doros 01
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676039.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SA | AR:   iEN Doros 02" tvg-logo="http://speed-4k.live:8089/logo/chn/85676040.png" group-title="AR | SAUDI",SA | AR:   iEN Doros 02
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676040.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SA | AR:   iEN Doros 03" tvg-logo="http://speed-4k.live:8089/logo/chn/85676041.png" group-title="AR | SAUDI",SA | AR:   iEN Doros 03
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676041.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SA | AR:   iEN Doros 04" tvg-logo="http://speed-4k.live:8089/logo/chn/85676042.png" group-title="AR | SAUDI",SA | AR:   iEN Doros 04
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676042.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SA | AR:   iEN Doros 05" tvg-logo="http://speed-4k.live:8089/logo/chn/85676043.png" group-title="AR | SAUDI",SA | AR:   iEN Doros 05
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676043.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SA | AR:   iEN Doros 06" tvg-logo="http://speed-4k.live:8089/logo/chn/85676044.png" group-title="AR | SAUDI",SA | AR:   iEN Doros 06
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676044.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SA | AR:   iEN Doros 07" tvg-logo="http://speed-4k.live:8089/logo/chn/85676045.png" group-title="AR | SAUDI",SA | AR:   iEN Doros 07
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676045.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SA | AR:   iEN Doros 08" tvg-logo="http://speed-4k.live:8089/logo/chn/85676046.png" group-title="AR | SAUDI",SA | AR:   iEN Doros 08
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676046.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SA | AR:   iEN Doros 09" tvg-logo="http://speed-4k.live:8089/logo/chn/85676047.png" group-title="AR | SAUDI",SA | AR:   iEN Doros 09
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676047.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SA | AR:   iEN Doros 10" tvg-logo="http://speed-4k.live:8089/logo/chn/85676048.png" group-title="AR | SAUDI",SA | AR:   iEN Doros 10
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676048.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SA | AR:   iEN Doros 11" tvg-logo="http://speed-4k.live:8089/logo/chn/85676049.png" group-title="AR | SAUDI",SA | AR:   iEN Doros 11
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676049.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SA | AR:   iEN Doros 12" tvg-logo="http://speed-4k.live:8089/logo/chn/85676050.png" group-title="AR | SAUDI",SA | AR:   iEN Doros 12
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676050.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SA | AR:   iEN Doros 13" tvg-logo="http://speed-4k.live:8089/logo/chn/85676051.png" group-title="AR | SAUDI",SA | AR:   iEN Doros 13
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676051.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SA | AR:   iEN Doros 14" tvg-logo="http://speed-4k.live:8089/logo/chn/85676052.png" group-title="AR | SAUDI",SA | AR:   iEN Doros 14
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676052.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SA | AR:   iEN Doros 15" tvg-logo="http://speed-4k.live:8089/logo/chn/85676053.png" group-title="AR | SAUDI",SA | AR:   iEN Doros 15
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676053.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SA | AR:   iEN Doros 16" tvg-logo="http://speed-4k.live:8089/logo/chn/85676054.png" group-title="AR | SAUDI",SA | AR:   iEN Doros 16
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676054.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SA | AR:   iEN Doros 17" tvg-logo="http://speed-4k.live:8089/logo/chn/85676055.png" group-title="AR | SAUDI",SA | AR:   iEN Doros 17
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676055.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SA | AR:   iEN Doros 18" tvg-logo="http://speed-4k.live:8089/logo/chn/85676056.png" group-title="AR | SAUDI",SA | AR:   iEN Doros 18
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676056.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SA | AR:   iEN Doros 19" tvg-logo="http://speed-4k.live:8089/logo/chn/85676057.png" group-title="AR | SAUDI",SA | AR:   iEN Doros 19
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676057.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SA | AR:   iEN Doros 20" tvg-logo="http://speed-4k.live:8089/logo/chn/85676058.png" group-title="AR | SAUDI",SA | AR:   iEN Doros 20
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676058.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SA | AR:   iEN Doros 21" tvg-logo="http://speed-4k.live:8089/logo/chn/85676059.png" group-title="AR | SAUDI",SA | AR:   iEN Doros 21
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676059.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SA | AR:   iEN Doros 22" tvg-logo="http://speed-4k.live:8089/logo/chn/85676060.png" group-title="AR | SAUDI",SA | AR:   iEN Doros 22
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676060.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SA | AR:   iEN Doros 23" tvg-logo="http://speed-4k.live:8089/logo/chn/85676061.png" group-title="AR | SAUDI",SA | AR:   iEN Doros 23
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676061.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UAE | AR:   Al Emarat TV" tvg-logo="http://speed-4k.live:8089/logo/chn/85676068.jpg" group-title="AR | EMIRATES",UAE | AR:   Al Emarat TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676068.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UAE | AR:   Dubai TV" tvg-logo="http://speed-4k.live:8089/logo/chn/85676069.png" group-title="AR | EMIRATES",UAE | AR:   Dubai TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676069.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UAE | AR:   Dubai One" tvg-logo="http://speed-4k.live:8089/logo/chn/85676070.png" group-title="AR | EMIRATES",UAE | AR:   Dubai One
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676070.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UAE | AR:   Dubai Zaman" tvg-logo="http://speed-4k.live:8089/logo/chn/85676071.jpg" group-title="AR | EMIRATES",UAE | AR:   Dubai Zaman
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676071.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UAE | AR:   Abu Dhabi SD" tvg-logo="http://speed-4k.live:8089/logo/chn/85676072.png" group-title="AR | EMIRATES",UAE | AR:   Abu Dhabi SD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676072.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UAE | AR:   Abu Dhabi Al Emarat SD" tvg-logo="http://speed-4k.live:8089/logo/chn/85676074.jpg" group-title="AR | EMIRATES",UAE | AR:   Abu Dhabi Al Emarat SD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676074.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UAE | AR:   Al Dhafra" tvg-logo="http://speed-4k.live:8089/logo/chn/85676078.png" group-title="AR | EMIRATES",UAE | AR:   Al Dhafra
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676078.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UAE | AR:   Sharjah HD" tvg-logo="http://speed-4k.live:8089/logo/chn/85676079.png" group-title="AR | EMIRATES",UAE | AR:   Sharjah HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676079.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UAE | AR:   Sharqiya from Kalba HD" tvg-logo="http://speed-4k.live:8089/logo/chn/85676080.jpg" group-title="AR | EMIRATES",UAE | AR:   Sharqiya from Kalba HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676080.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UAE | AR:   Al Wousta from Al Dhaid" tvg-logo="http://speed-4k.live:8089/logo/chn/85676081.png" group-title="AR | EMIRATES",UAE | AR:   Al Wousta from Al Dhaid
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676081.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UAE | AR:   Al Khalij TV" tvg-logo="http://speed-4k.live:8089/logo/chn/85676082.jpg" group-title="AR | EMIRATES",UAE | AR:   Al Khalij TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676082.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UAE | AR:   Ajman TV HD" tvg-logo="http://speed-4k.live:8089/logo/chn/85676083.jpg" group-title="AR | EMIRATES",UAE | AR:   Ajman TV HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676083.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UAE | AR:   Dafrah" tvg-logo="http://speed-4k.live:8089/logo/chn/85676084.png" group-title="AR | EMIRATES",UAE | AR:   Dafrah
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676084.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UAE | AR:   Fujairah TV" tvg-logo="http://speed-4k.live:8089/logo/chn/85676085.jpg" group-title="AR | EMIRATES",UAE | AR:   Fujairah TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676085.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UAE | AR:   Alittihad TV" tvg-logo="http://speed-4k.live:8089/logo/chn/85676086.png" group-title="AR | EMIRATES",UAE | AR:   Alittihad TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676086.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UAE | AR:   Baynounah" tvg-logo="http://speed-4k.live:8089/logo/chn/85676087.png" group-title="AR | EMIRATES",UAE | AR:   Baynounah
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676087.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UAE | AR:   SpaceToon TV" tvg-logo="http://5.135.139.24/cover/logochannel/Spacetoon.png" group-title="AR | EMIRATES",UAE | AR:   SpaceToon TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676088.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UAE | AR:   Hawas TV" tvg-logo="http://speed-4k.live:8089/logo/chn/85676089.jpg" group-title="AR | EMIRATES",UAE | AR:   Hawas TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676089.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UAE | AR:   Sharjah Quran HD" tvg-logo="http://speed-4k.live:8089/logo/chn/85676090.png" group-title="AR | EMIRATES",UAE | AR:   Sharjah Quran HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676090.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UAE | AR:   Abu Dhabi Al Emarat" tvg-logo="http://5.135.139.24/cover/logochannel/aboudhabi.png" group-title="AR | EMIRATES",UAE | AR:   Abu Dhabi Al Emarat
+http://speed-4k.live:8089/live/9120348167513/9120348167513/328.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UAE | AR:   AbuDhabiTV" tvg-logo="http://5.135.139.24/cover/logochannel/aboudhabi.png" group-title="AR | EMIRATES",UAE | AR:   AbuDhabiTV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/618.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UAE | AR:   B4U+" tvg-logo="http://5.135.139.24/cover/logochannel/b4u.png" group-title="AR | EMIRATES",UAE | AR:   B4U+
+http://speed-4k.live:8089/live/9120348167513/9120348167513/626.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UAE | AR:   Noor.Dubai" tvg-logo="http://5.135.139.24/cover/logochannel/nourdubai.png" group-title="AR | EMIRATES",UAE | AR:   Noor.Dubai
+http://speed-4k.live:8089/live/9120348167513/9120348167513/596.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="QA | AR:  QATAR" tvg-logo="http://5.135.139.24/cover/logochannel/qatar.png" group-title="AR | QATAR",QA | AR:  QATAR
+http://speed-4k.live:8089/live/9120348167513/9120348167513/7644.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KW | AR:   Al Sabah TV" tvg-logo="" group-title="AR | KUWAIT",KW | AR:   Al Sabah TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676102.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KW | AR:   Al Maaly" tvg-logo="" group-title="AR | KUWAIT",KW | AR:   Al Maaly
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676103.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KW | AR:   Al Rai HD" tvg-logo="" group-title="AR | KUWAIT",KW | AR:   Al Rai HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676104.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KW | AR:   Al Majlis" tvg-logo="" group-title="AR | KUWAIT",KW | AR:   Al Majlis
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676105.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KW | AR:   Khallik Bilbait" tvg-logo="" group-title="AR | KUWAIT",KW | AR:   Khallik Bilbait
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676106.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KW | AR:   Al Adalah TV ATV HD" tvg-logo="" group-title="AR | KUWAIT",KW | AR:   Al Adalah TV ATV HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676107.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KW | AR:   CGTV Arabic" tvg-logo="" group-title="AR | KUWAIT",KW | AR:   CGTV Arabic
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676108.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KW | AR:   Kuwait Al Arabi HD" tvg-logo="" group-title="AR | KUWAIT",KW | AR:   Kuwait Al Arabi HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676111.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KW | AR:   Kuwait Ethraa" tvg-logo="" group-title="AR | KUWAIT",KW | AR:   Kuwait Ethraa
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676112.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KW | AR:   Kuwait Khallik Bilbait Plus" tvg-logo="" group-title="AR | KUWAIT",KW | AR:   Kuwait Khallik Bilbait Plus
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676113.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KW | AR:   Kuwait Drama" tvg-logo="" group-title="AR | KUWAIT",KW | AR:   Kuwait Drama
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676114.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KW | AR:   Kuwait Qurain" tvg-logo="" group-title="AR | KUWAIT",KW | AR:   Kuwait Qurain
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676115.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KW | AR:   Al Shahed TV" tvg-logo="" group-title="AR | KUWAIT",KW | AR:   Al Shahed TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676116.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KW | AR:  Fnoon" tvg-logo="http://5.135.139.24/cover/logochannel/fnoon.jpg" group-title="AR | KUWAIT",KW | AR:  Fnoon
+http://speed-4k.live:8089/live/9120348167513/9120348167513/8914.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KW | AR:   KUWAIT 1" tvg-logo="http://5.135.139.24/cover/cuisine/Ktv_1.jpg" group-title="AR | KUWAIT",KW | AR:   KUWAIT 1
+http://speed-4k.live:8089/live/9120348167513/9120348167513/66357.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KW | AR:   KUWAIT 2" tvg-logo="http://5.135.139.24/cover/cuisine/kuwait2.jpg" group-title="AR | KUWAIT",KW | AR:   KUWAIT 2
+http://speed-4k.live:8089/live/9120348167513/9120348167513/66358.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="BH | AR:   Bahrain TV HD" tvg-logo="https://multiacs.com/logo/bahrin/Bahrain_tv.png" group-title="AR | BAHRAIN",BH | AR:   Bahrain TV HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676686.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="BH | AR:   Bahrain International HD" tvg-logo="https://multiacs.com/logo/bahrin/640px-Logo_Bahrain_International_Circuit.svg.png" group-title="AR | BAHRAIN",BH | AR:   Bahrain International HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676687.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="BH | AR:   Bahrain Quran HD" tvg-logo="https://multiacs.com/logo/bahrin/bahrain%20Quran.png" group-title="AR | BAHRAIN",BH | AR:   Bahrain Quran HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676688.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="BH | AR:   Bahrain TV SD" tvg-logo="https://multiacs.com/logo/bahrin/Bahrain_tv.png" group-title="AR | BAHRAIN",BH | AR:   Bahrain TV SD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676689.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="BH | AR:   Lualua TV" tvg-logo="https://multiacs.com/logo/bahrin/LuaLuaTV.png" group-title="AR | BAHRAIN",BH | AR:   Lualua TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676690.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="JO | AR:   Sama Jordan" tvg-logo="" group-title="AR | JORDAN",JO | AR:   Sama Jordan
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676672.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="JO | AR:   Jordan HD" tvg-logo="" group-title="AR | JORDAN",JO | AR:   Jordan HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676673.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="JO | AR:   Jordan Amen" tvg-logo="" group-title="AR | JORDAN",JO | AR:   Jordan Amen
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676674.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="JO | AR:   Jordan Now" tvg-logo="" group-title="AR | JORDAN",JO | AR:   Jordan Now
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676675.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="JO | AR:   Jorden FA TV" tvg-logo="" group-title="AR | JORDAN",JO | AR:   Jorden FA TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676676.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="JO | AR:   Al Mamlaka HD" tvg-logo="" group-title="AR | JORDAN",JO | AR:   Al Mamlaka HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676677.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="JO | AR:   Karamesh" tvg-logo="" group-title="AR | JORDAN",JO | AR:   Karamesh
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676679.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="JO | AR:   Amman TV" tvg-logo="" group-title="AR | JORDAN",JO | AR:   Amman TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676680.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="JO | AR:   Al Ghad Al Araby HD" tvg-logo="" group-title="AR | JORDAN",JO | AR:   Al Ghad Al Araby HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676681.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="JO | AR:   Yarmouk TV" tvg-logo="" group-title="AR | JORDAN",JO | AR:   Yarmouk TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676682.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="JO | AR:   Kaifa TV" tvg-logo="" group-title="AR | JORDAN",JO | AR:   Kaifa TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676683.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="JO | AR:   Aude TV" tvg-logo="" group-title="AR | JORDAN",JO | AR:   Aude TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676684.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="JO | AR:   Asharq Business" tvg-logo="" group-title="AR | JORDAN",JO | AR:   Asharq Business
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676685.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="JO | AR:  Ro'ya" tvg-logo="http://5.135.139.24/cover/logochannel/roya.jpg" group-title="AR | JORDAN",JO | AR:  Ro'ya
+http://speed-4k.live:8089/live/9120348167513/9120348167513/8900.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="OM | AR:   Oman TV General HD" tvg-logo="" group-title="AR | OMAN",OM | AR:   Oman TV General HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676670.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="OM | AR:   Al Istiqama TV" tvg-logo="" group-title="AR | OMAN",OM | AR:   Al Istiqama TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676671.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="OM | AR:   Oman Culture" tvg-logo="" group-title="AR | OMAN",OM | AR:   Oman Culture
+http://speed-4k.live:8089/live/9120348167513/9120348167513/66354.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="OM | AR:   Oman TV Live" tvg-logo="http://5.135.139.24/cover/cuisine/omaan.jpg" group-title="AR | OMAN",OM | AR:   Oman TV Live
+http://speed-4k.live:8089/live/9120348167513/9120348167513/66356.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="PS | AR:    Palestine TV" tvg-logo="http://speed-4k.live:8089/logo/chn/85676650.jpg" group-title="AR | PALESTINE",PS | AR:    Palestine TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676650.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="PS | AR:    Palestine Mubashir [ Live ]" tvg-logo="http://speed-4k.live:8089/logo/chn/85676651.jpg" group-title="AR | PALESTINE",PS | AR:    Palestine Mubashir [ Live ]
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676651.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="PS | AR:    Palestine Al Yawm HD" tvg-logo="" group-title="AR | PALESTINE",PS | AR:    Palestine Al Yawm HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676652.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="PS | AR:    Falastini TV" tvg-logo="" group-title="AR | PALESTINE",PS | AR:    Falastini TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676653.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="PS | AR:    Al Kofiya" tvg-logo="http://speed-4k.live:8089/logo/chn/85676654.jpg" group-title="AR | PALESTINE",PS | AR:    Al Kofiya
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676654.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="PS | AR:    Al Quds Today" tvg-logo="http://speed-4k.live:8089/logo/chn/85676655.jpg" group-title="AR | PALESTINE",PS | AR:    Al Quds Today
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676655.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="PS | AR:    Al Seraj TV" tvg-logo="" group-title="AR | PALESTINE",PS | AR:    Al Seraj TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676656.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="PS | AR:    Hebron Sat [ Al Khaleel ]" tvg-logo="" group-title="AR | PALESTINE",PS | AR:    Hebron Sat [ Al Khaleel ]
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676657.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="PS | AR:    Hala TV" tvg-logo="" group-title="AR | PALESTINE",PS | AR:    Hala TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676658.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="PS | AR:    Al Fadjr TV" tvg-logo="http://speed-4k.live:8089/logo/chn/85676659.jpg" group-title="AR | PALESTINE",PS | AR:    Al Fadjr TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676659.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="PS | AR:    Al Salam TV" tvg-logo="" group-title="AR | PALESTINE",PS | AR:    Al Salam TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676660.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="PS | AR:    Musawa TV" tvg-logo="" group-title="AR | PALESTINE",PS | AR:    Musawa TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676661.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="PS | AR:    Al Seraj Al Aqsa 4K" tvg-logo="" group-title="AR | PALESTINE",PS | AR:    Al Seraj Al Aqsa 4K
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676662.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="PS | AR:    Makan TV" tvg-logo="" group-title="AR | PALESTINE",PS | AR:    Makan TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676663.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="PS | AR:    Awdah TV" tvg-logo="" group-title="AR | PALESTINE",PS | AR:    Awdah TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676664.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="PS | AR:    Palestine EDU" tvg-logo="" group-title="AR | PALESTINE",PS | AR:    Palestine EDU
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676665.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="PS | AR:    Al Najah HD" tvg-logo="http://speed-4k.live:8089/logo/chn/85676666.jpg" group-title="AR | PALESTINE",PS | AR:    Al Najah HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676666.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="PS | AR:    Maan TV" tvg-logo="" group-title="AR | PALESTINE",PS | AR:    Maan TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676667.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="LY | AR: Libya Al Hadath" tvg-logo="http://speed-4k.live:8089/logo/chn/85676609.jpg" group-title="AR | LIBYA",LY | AR: Libya Al Hadath
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676609.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="LY | AR: Libya Al Ahrar TV" tvg-logo="http://speed-4k.live:8089/logo/chn/85676612.jpg" group-title="AR | LIBYA",LY | AR: Libya Al Ahrar TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676612.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="LY | AR: Libya Al Mostakbal TV" tvg-logo="http://speed-4k.live:8089/logo/chn/85676613.png" group-title="AR | LIBYA",LY | AR: Libya Al Mostakbal TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676613.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="LY | AR:   Al Wasat TV [ WTV ]" tvg-logo="http://speed-4k.live:8089/logo/chn/85676614.png" group-title="AR | LIBYA",LY | AR:   Al Wasat TV [ WTV ]
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676614.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="LY | AR: Libya Febrayer TV" tvg-logo="http://speed-4k.live:8089/logo/chn/85676615.jpg" group-title="AR | LIBYA",LY | AR: Libya Febrayer TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676615.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="LY | AR: Salam TV" tvg-logo="http://speed-4k.live:8089/logo/chn/85676619.png" group-title="AR | LIBYA",LY | AR: Salam TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676619.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="LY | AR: Al Tanasuh TV" tvg-logo="http://speed-4k.live:8089/logo/chn/85676620.png" group-title="AR | LIBYA",LY | AR: Al Tanasuh TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676620.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="LY | AR: Sahel 2 TV" tvg-logo="" group-title="AR | LIBYA",LY | AR: Sahel 2 TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676621.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="LY | AR: Al Massar TV 4K" tvg-logo="http://speed-4k.live:8089/logo/chn/85676623.jpg" group-title="AR | LIBYA",LY | AR: Al Massar TV 4K
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676623.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="LY | AR: Libya Business 4K" tvg-logo="http://speed-4k.live:8089/logo/chn/85676624.png" group-title="AR | LIBYA",LY | AR: Libya Business 4K
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676624.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="LY | AR: Libya Lebda TV 4K" tvg-logo="http://speed-4k.live:8089/logo/chn/85676625.jpg" group-title="AR | LIBYA",LY | AR: Libya Lebda TV 4K
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676625.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="LY | AR:    Libya WTV" tvg-logo="https://multiacs.com/logo/arabe/libya.jpg" group-title="AR | LIBYA",LY | AR:    Libya WTV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/7477.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="LY | AR:   Libya Education" tvg-logo="http://speed-4k.live:8089/logo/chn/1287.jpg" group-title="AR | LIBYA",LY | AR:   Libya Education
+http://speed-4k.live:8089/live/9120348167513/9120348167513/1287.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="LY | AR:    Libya El Wataniya" tvg-logo="http://5.135.139.24/cover/libya/libya.jpg" group-title="AR | LIBYA",LY | AR:    Libya El Wataniya
+http://speed-4k.live:8089/live/9120348167513/9120348167513/66294.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="LY | AR: Libya Panorama" tvg-logo="http://5.135.139.24/cover/libya/libya.jpg" group-title="AR | LIBYA",LY | AR: Libya Panorama
+http://speed-4k.live:8089/live/9120348167513/9120348167513/66293.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="LY | AR:    Libya Al Rasmia" tvg-logo="http://speed-4k.live:8089/logo/chn/63007.jpg" group-title="AR | LIBYA",LY | AR:    Libya Al Rasmia
+http://speed-4k.live:8089/live/9120348167513/9120348167513/63007.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="LY | AR:   SALEM LIBYA" tvg-logo="http://speed-4k.live:8089/logo/chn/80065.jpg" group-title="AR | LIBYA",LY | AR:   SALEM LIBYA
+http://speed-4k.live:8089/live/9120348167513/9120348167513/80065.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="YE | AR:   Yemen TV" tvg-logo="" group-title="AR | YEMAN",YE | AR:   Yemen TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676626.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="YE | AR:   Al Yemen HD" tvg-logo="" group-title="AR | YEMAN",YE | AR:   Al Yemen HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676627.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="YE | AR:   Yemen Today HD" tvg-logo="" group-title="AR | YEMAN",YE | AR:   Yemen Today HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676628.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="YE | AR:   Yemen Shabab HD" tvg-logo="" group-title="AR | YEMAN",YE | AR:   Yemen Shabab HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676629.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="YE | AR:   Yemen Education TV" tvg-logo="" group-title="AR | YEMAN",YE | AR:   Yemen Education TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676630.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="YE | AR:   Yemen Documentary" tvg-logo="" group-title="AR | YEMAN",YE | AR:   Yemen Documentary
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676631.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="YE | AR:   Suhail TV" tvg-logo="" group-title="AR | YEMAN",YE | AR:   Suhail TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676632.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="YE | AR:   Sheba TV" tvg-logo="" group-title="AR | YEMAN",YE | AR:   Sheba TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676633.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="YE | AR:   Aden TV" tvg-logo="" group-title="AR | YEMAN",YE | AR:   Aden TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676634.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="YE | AR:   Aden Al Shareyyah" tvg-logo="" group-title="AR | YEMAN",YE | AR:   Aden Al Shareyyah
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676635.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="YE | AR:   Aden Almustakilla" tvg-logo="" group-title="AR | YEMAN",YE | AR:   Aden Almustakilla
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676636.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="YE | AR:   Al Saeedah TV" tvg-logo="" group-title="AR | YEMAN",YE | AR:   Al Saeedah TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676637.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="YE | AR:   Hadramaut TV" tvg-logo="" group-title="AR | YEMAN",YE | AR:   Hadramaut TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676638.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="YE | AR:   AIC TV" tvg-logo="" group-title="AR | YEMAN",YE | AR:   AIC TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676640.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="YE | AR:   Al Eiman TV" tvg-logo="" group-title="AR | YEMAN",YE | AR:   Al Eiman TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676641.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="YE | AR:   Al Masirah TV" tvg-logo="" group-title="AR | YEMAN",YE | AR:   Al Masirah TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676642.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="YE | AR:   Al Masirah Mubasher TV" tvg-logo="" group-title="AR | YEMAN",YE | AR:   Al Masirah Mubasher TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676643.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="YE | AR:   Belqees TV" tvg-logo="" group-title="AR | YEMAN",YE | AR:   Belqees TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676644.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="YE | AR:   Al Erth Alnabawi TV" tvg-logo="" group-title="AR | YEMAN",YE | AR:   Al Erth Alnabawi TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676645.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="YE | AR:   Al Mahrah HD" tvg-logo="" group-title="AR | YEMAN",YE | AR:   Al Mahrah HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676646.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="YE | AR:   Al Hawyah TV" tvg-logo="" group-title="AR | YEMAN",YE | AR:   Al Hawyah TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676647.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="YE | AR:   Al Lahdah" tvg-logo="" group-title="AR | YEMAN",YE | AR:   Al Lahdah
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676648.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="YE | AR:   Al Sahat" tvg-logo="" group-title="AR | YEMAN",YE | AR:   Al Sahat
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676649.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="YE | AR:   Al Ghad Al Mushreq" tvg-logo="http://5.135.139.24/cover/logochannel/Channel-alghadmochraq.jpg" group-title="AR | YEMAN",YE | AR:   Al Ghad Al Mushreq
+http://speed-4k.live:8089/live/9120348167513/9120348167513/8932.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SD | AR:   Sudan Now 24" tvg-logo="http://speed-4k.live:8089/logo/chn/85676583.jpg" group-title="AR | SUDAN",SD | AR:   Sudan Now 24
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676583.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SD | AR:   Sudania 24 HD" tvg-logo="http://speed-4k.live:8089/logo/chn/85676584.jpg" group-title="AR | SUDAN",SD | AR:   Sudania 24 HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676584.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SD | AR:   Sudan TV" tvg-logo="http://speed-4k.live:8089/logo/chn/85676585.jpg" group-title="AR | SUDAN",SD | AR:   Sudan TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676585.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SD | AR:   Sudan Ashorooq" tvg-logo="http://speed-4k.live:8089/logo/chn/85676586.jpg" group-title="AR | SUDAN",SD | AR:   Sudan Ashorooq
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676586.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SD | AR:   Sudan Bukra" tvg-logo="http://speed-4k.live:8089/logo/chn/85676587.jpg" group-title="AR | SUDAN",SD | AR:   Sudan Bukra
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676587.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SD | AR:   Sudan Al Barlemania" tvg-logo="" group-title="AR | SUDAN",SD | AR:   Sudan Al Barlemania
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676588.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SD | AR:   Sudan El Mahadra" tvg-logo="http://speed-4k.live:8089/logo/chn/85676589.jpg" group-title="AR | SUDAN",SD | AR:   Sudan El Mahadra
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676589.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SD | AR:   Khartoum TV" tvg-logo="http://speed-4k.live:8089/logo/chn/85676590.png" group-title="AR | SUDAN",SD | AR:   Khartoum TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676590.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SD | AR:   Sudan 24" tvg-logo="http://speed-4k.live:8089/logo/chn/85676591.jpg" group-title="AR | SUDAN",SD | AR:   Sudan 24
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676591.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SD | AR:   Hooosh" tvg-logo="http://speed-4k.live:8089/logo/chn/85676592.jpg" group-title="AR | SUDAN",SD | AR:   Hooosh
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676592.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SD | AR:   Tele Sahel" tvg-logo="http://speed-4k.live:8089/logo/chn/85676593.png" group-title="AR | SUDAN",SD | AR:   Tele Sahel
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676593.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SD | AR:   Tebe 8" tvg-logo="http://speed-4k.live:8089/logo/chn/85676594.jpg" group-title="AR | SUDAN",SD | AR:   Tebe 8
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676594.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SD | AR:   Blue Nile 2 BNTV 2" tvg-logo="http://speed-4k.live:8089/logo/chn/85676595.png" group-title="AR | SUDAN",SD | AR:   Blue Nile 2 BNTV 2
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676595.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SD | AR:   Africa TV 1" tvg-logo="http://speed-4k.live:8089/logo/chn/85676596.jpg" group-title="AR | SUDAN",SD | AR:   Africa TV 1
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676596.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SD | AR:   Africa TV 3" tvg-logo="http://speed-4k.live:8089/logo/chn/85676597.png" group-title="AR | SUDAN",SD | AR:   Africa TV 3
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676597.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SD | AR:   Sudan Drama" tvg-logo="http://speed-4k.live:8089/logo/chn/85676598.jpg" group-title="AR | SUDAN",SD | AR:   Sudan Drama
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676598.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SD | AR:   Sudan Sahel TV" tvg-logo="http://speed-4k.live:8089/logo/chn/85676599.jpg" group-title="AR | SUDAN",SD | AR:   Sudan Sahel TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676599.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SD | AR:   Blue Nile TV BNTV" tvg-logo="http://speed-4k.live:8089/logo/chn/85676600.png" group-title="AR | SUDAN",SD | AR:   Blue Nile TV BNTV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676600.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SD | AR:   Mouritana Arriadia TV" tvg-logo="http://speed-4k.live:8089/logo/chn/85676601.jpg" group-title="AR | SUDAN",SD | AR:   Mouritana Arriadia TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676601.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SD | AR:   Shamalia" tvg-logo="http://speed-4k.live:8089/logo/chn/85676602.png" group-title="AR | SUDAN",SD | AR:   Shamalia
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676602.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SD | AR:   Sudan Chinguit TV" tvg-logo="http://speed-4k.live:8089/logo/chn/85676604.jpg" group-title="AR | SUDAN",SD | AR:   Sudan Chinguit TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676604.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SD | AR:   Sudan Dava TV" tvg-logo="http://speed-4k.live:8089/logo/chn/85676605.jpg" group-title="AR | SUDAN",SD | AR:   Sudan Dava TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676605.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SD | AR:   Sudan El Watania TV" tvg-logo="http://speed-4k.live:8089/logo/chn/85676606.jpg" group-title="AR | SUDAN",SD | AR:   Sudan El Watania TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676606.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SD | AR:   Sudan Medina TV" tvg-logo="http://speed-4k.live:8089/logo/chn/85676607.jpg" group-title="AR | SUDAN",SD | AR:   Sudan Medina TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676607.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="***** CHAINES OSN *****" tvg-logo="http://speed-4k.live:8089/logo/cat/18.png" group-title="AR | OSN",***** CHAINES OSN *****
+http://speed-4k.live:8089/live/9120348167513/9120348167513/0.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="-----OSN HD-----" tvg-logo="" group-title="AR | OSN",-----OSN HD-----
+http://speed-4k.live:8089/live/9120348167513/9120348167513/3800.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="|AT.OSN| MEZZE HD" tvg-logo="" group-title="AR | OSN",|AT.OSN| MEZZE HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/3831.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN: ALFA AL YOUM" tvg-logo="http://speed-4k.live:8089/logo/chn/3804.jpg" group-title="AR | OSN",OSN: ALFA AL YOUM
+http://speed-4k.live:8089/live/9120348167513/9120348167513/3804.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN: ALFA CINEMA 1" tvg-logo="http://speed-4k.live:8089/logo/chn/3808.jpg" group-title="AR | OSN",OSN: ALFA CINEMA 1
+http://speed-4k.live:8089/live/9120348167513/9120348167513/3808.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN: ALFA CINEMA 2" tvg-logo="" group-title="AR | OSN",OSN: ALFA CINEMA 2
+http://speed-4k.live:8089/live/9120348167513/9120348167513/3809.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN: ALFA MUSALSALAT 1 HD" tvg-logo="" group-title="AR | OSN",OSN: ALFA MUSALSALAT 1 HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/3806.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN: ALFA Music NOW" tvg-logo="" group-title="AR | OSN",OSN: ALFA Music NOW
+http://speed-4k.live:8089/live/9120348167513/9120348167513/3810.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN: ALFA SAFWA HD" tvg-logo="" group-title="AR | OSN",OSN: ALFA SAFWA HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/3805.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN: COMEDY HD" tvg-logo="" group-title="AR | OSN",OSN: COMEDY HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/3817.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN: DISCOVERY HD" tvg-logo="" group-title="AR | OSN",OSN: DISCOVERY HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/3826.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN: DISNEY CHANNEL" tvg-logo="" group-title="AR | OSN",OSN: DISNEY CHANNEL
+http://speed-4k.live:8089/live/9120348167513/9120348167513/3820.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN: E!" tvg-logo="" group-title="AR | OSN",OSN: E!
+http://speed-4k.live:8089/live/9120348167513/9120348167513/3830.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN: FOOD NETWORK" tvg-logo="" group-title="AR | OSN",OSN: FOOD NETWORK
+http://speed-4k.live:8089/live/9120348167513/9120348167513/3823.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN: HISTORY" tvg-logo="" group-title="AR | OSN",OSN: HISTORY
+http://speed-4k.live:8089/live/9120348167513/9120348167513/3828.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN: Investigation Discovery" tvg-logo="" group-title="AR | OSN",OSN: Investigation Discovery
+http://speed-4k.live:8089/live/9120348167513/9120348167513/3816.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN: KID ZONE TV" tvg-logo="" group-title="AR | OSN",OSN: KID ZONE TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/3818.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN: LIVING HD" tvg-logo="" group-title="AR | OSN",OSN: LIVING HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/3829.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN: MOVIES ACTION" tvg-logo="" group-title="AR | OSN",OSN: MOVIES ACTION
+http://speed-4k.live:8089/live/9120348167513/9120348167513/3814.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN: MOVIES BOX OFFICE 1" tvg-logo="" group-title="AR | OSN",OSN: MOVIES BOX OFFICE 1
+http://speed-4k.live:8089/live/9120348167513/9120348167513/3840.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN: MOVIES COMEDY HD" tvg-logo="" group-title="AR | OSN",OSN: MOVIES COMEDY HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/3815.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN: MOVIES FIRST" tvg-logo="" group-title="AR | OSN",OSN: MOVIES FIRST
+http://speed-4k.live:8089/live/9120348167513/9120348167513/3813.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN: MOVIES HOLLYWOOD HD" tvg-logo="" group-title="AR | OSN",OSN: MOVIES HOLLYWOOD HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/3827.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN: MOVIES PREMIERE + 2  HD" tvg-logo="" group-title="AR | OSN",OSN: MOVIES PREMIERE + 2  HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/3811.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN: NAT GEO WILD HD" tvg-logo="" group-title="AR | OSN",OSN: NAT GEO WILD HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/3825.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN: NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="AR | OSN",OSN: NATIONAL GEOGRAPHIC HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/3824.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN: NICKELODEON HD" tvg-logo="http://win.heblo.xyz:80/images/cfe6485ab5728386c585c3221beabfb2.png" group-title="AR | OSN",OSN: NICKELODEON HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/3819.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN: PLAY CINEMA 1 HD" tvg-logo="" group-title="AR | OSN",OSN: PLAY CINEMA 1 HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/3832.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN: PLAY CINEMA 2 HD" tvg-logo="" group-title="AR | OSN",OSN: PLAY CINEMA 2 HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/3833.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN: PLAY CINEMA 3 HD" tvg-logo="" group-title="AR | OSN",OSN: PLAY CINEMA 3 HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/3834.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN: PLAY CINEMA 4 HD" tvg-logo="" group-title="AR | OSN",OSN: PLAY CINEMA 4 HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/3835.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN: PLAY MOVIES 1 HD" tvg-logo="" group-title="AR | OSN",OSN: PLAY MOVIES 1 HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/3836.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN: PLAY MOVIES 2 HD" tvg-logo="" group-title="AR | OSN",OSN: PLAY MOVIES 2 HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/3837.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN: PLAY MOVIES 3 HD" tvg-logo="" group-title="AR | OSN",OSN: PLAY MOVIES 3 HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/3838.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN: PLAY MOVIES 4 HD" tvg-logo="" group-title="AR | OSN",OSN: PLAY MOVIES 4 HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/3839.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN: SHOWCASE" tvg-logo="" group-title="AR | OSN",OSN: SHOWCASE
+http://speed-4k.live:8089/live/9120348167513/9120348167513/3812.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN: STAR MOVIES" tvg-logo="" group-title="AR | OSN",OSN: STAR MOVIES
+http://speed-4k.live:8089/live/9120348167513/9120348167513/3821.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN: STAR WORLD" tvg-logo="" group-title="AR | OSN",OSN: STAR WORLD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/3822.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN: YAHALA CINEMA" tvg-logo="" group-title="AR | OSN",OSN: YAHALA CINEMA
+http://speed-4k.live:8089/live/9120348167513/9120348167513/3803.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN: YAHALA HD" tvg-logo="" group-title="AR | OSN",OSN: YAHALA HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/3801.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN: YAHALA OULA" tvg-logo="" group-title="AR | OSN",OSN: YAHALA OULA
+http://speed-4k.live:8089/live/9120348167513/9120348167513/3802.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KU | AR: Rudaw HD" tvg-logo="" group-title="AR | KURDISTAN",KU | AR: Rudaw HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676896.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KU | AR: K24 HD" tvg-logo="" group-title="AR | KURDISTAN",KU | AR: K24 HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676897.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KU | AR: NRT 1 HD" tvg-logo="" group-title="AR | KURDISTAN",KU | AR: NRT 1 HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676898.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KU | AR: Kurdsat News HD" tvg-logo="" group-title="AR | KURDISTAN",KU | AR: Kurdsat News HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676899.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KU | AR: KNN HD" tvg-logo="" group-title="AR | KURDISTAN",KU | AR: KNN HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676900.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KU | AR: Gali Kurdistan TV" tvg-logo="" group-title="AR | KURDISTAN",KU | AR: Gali Kurdistan TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676901.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KU | AR: Kurdistan TV HD" tvg-logo="" group-title="AR | KURDISTAN",KU | AR: Kurdistan TV HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676902.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KU | AR: Zagros TV HD" tvg-logo="" group-title="AR | KURDISTAN",KU | AR: Zagros TV HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676903.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KU | AR: Kirkuk TV" tvg-logo="" group-title="AR | KURDISTAN",KU | AR: Kirkuk TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676904.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KU | AR: Waar TV HD" tvg-logo="" group-title="AR | KURDISTAN",KU | AR: Waar TV HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676905.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KU | AR: Payam TV" tvg-logo="" group-title="AR | KURDISTAN",KU | AR: Payam TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676906.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KU | AR: Speda TV HD" tvg-logo="" group-title="AR | KURDISTAN",KU | AR: Speda TV HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676907.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KU | AR: TRT Kurdi" tvg-logo="" group-title="AR | KURDISTAN",KU | AR: TRT Kurdi
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676908.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KU | AR: Kurdsat TV HD" tvg-logo="" group-title="AR | KURDISTAN",KU | AR: Kurdsat TV HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676909.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KU | AR: AVA Entertainment" tvg-logo="" group-title="AR | KURDISTAN",KU | AR: AVA Entertainment
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676910.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KU | AR: Net TV HD" tvg-logo="" group-title="AR | KURDISTAN",KU | AR: Net TV HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676911.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KU | AR: NRT 2 HD" tvg-logo="" group-title="AR | KURDISTAN",KU | AR: NRT 2 HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676912.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KU | AR: KurdMax Sorani HD" tvg-logo="" group-title="AR | KURDISTAN",KU | AR: KurdMax Sorani HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676913.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KU | AR: KurdMax Kurmanji HD" tvg-logo="" group-title="AR | KURDISTAN",KU | AR: KurdMax Kurmanji HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676914.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KU | AR: KurdMax Show HD Sorani" tvg-logo="" group-title="AR | KURDISTAN",KU | AR: KurdMax Show HD Sorani
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676915.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KU | AR: KurdMax Show Kurmanji HD" tvg-logo="" group-title="AR | KURDISTAN",KU | AR: KurdMax Show Kurmanji HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676916.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KU | AR: Iraqia Kurdish TV" tvg-logo="" group-title="AR | KURDISTAN",KU | AR: Iraqia Kurdish TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676917.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KU | AR: A TV HD" tvg-logo="" group-title="AR | KURDISTAN",KU | AR: A TV HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676918.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KU | AR: Sahar Kurdi TV" tvg-logo="" group-title="AR | KURDISTAN",KU | AR: Sahar Kurdi TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676919.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KU | AR: NRT 4 HD" tvg-logo="" group-title="AR | KURDISTAN",KU | AR: NRT 4 HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676920.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KU | AR: Amozhgary TV HD" tvg-logo="" group-title="AR | KURDISTAN",KU | AR: Amozhgary TV HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676921.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KU | AR: Bangawaz TV" tvg-logo="" group-title="AR | KURDISTAN",KU | AR: Bangawaz TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676922.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KU | AR: Komal TV" tvg-logo="" group-title="AR | KURDISTAN",KU | AR: Komal TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676923.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KU | AR: Zarok TV" tvg-logo="" group-title="AR | KURDISTAN",KU | AR: Zarok TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676924.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KU | AR: Med Music TV" tvg-logo="" group-title="AR | KURDISTAN",KU | AR: Med Music TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676925.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KU | AR: Sterk TV" tvg-logo="" group-title="AR | KURDISTAN",KU | AR: Sterk TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676926.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KU | AR: Aryen TV" tvg-logo="" group-title="AR | KURDISTAN",KU | AR: Aryen TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676927.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KU | AR: Ronahi TV" tvg-logo="" group-title="AR | KURDISTAN",KU | AR: Ronahi TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676928.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KU | AR: Cira TV" tvg-logo="" group-title="AR | KURDISTAN",KU | AR: Cira TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676929.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KU | AR: Rojava HD" tvg-logo="" group-title="AR | KURDISTAN",KU | AR: Rojava HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676930.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KU | AR: Jin HD" tvg-logo="" group-title="AR | KURDISTAN",KU | AR: Jin HD
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676931.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KU | AR: Neu TV" tvg-logo="" group-title="AR | KURDISTAN",KU | AR: Neu TV
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85676932.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="***********CHAINES AUSTRALIA*********" tvg-logo="http://speed-4k.live:8089/logo/cat/876.png" group-title="AUS | AUSTRALIE",***********CHAINES AUSTRALIA*********
+http://speed-4k.live:8089/live/9120348167513/9120348167513/0.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="AUS: ATV 2" tvg-logo="http://logo.kll1ll120qazwed.site/logo/international/atv2.png" group-title="AUS | AUSTRALIE",AUS: ATV 2
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85683713.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="AUS: 7 FLIX" tvg-logo="https://www.lyngsat.com/logo/tv/ss/seven_au_flix.png" group-title="AUS | AUSTRALIE",AUS: 7 FLIX
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85683714.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="AUS: 7 METE" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sbs_au_food_network.png" group-title="AUS | AUSTRALIE",AUS: 7 METE
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85683715.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="AUS: 7 BRISBANE" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0016/0114/brand.gif?itok=lO77SvWP" group-title="AUS | AUSTRALIE",AUS: 7 BRISBANE
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85683716.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="AUS: 7 FLIX BRISBANE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/7flix_logo_without_background.png" group-title="AUS | AUSTRALIE",AUS: 7 FLIX BRISBANE
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85683717.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="AUS: 7 FLIX MELBOURNE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/7flix_logo_without_background.png" group-title="AUS | AUSTRALIE",AUS: 7 FLIX MELBOURNE
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85683718.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="AUS: 7 FLIX PERTH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/7flix_logo_without_background.png" group-title="AUS | AUSTRALIE",AUS: 7 FLIX PERTH
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85683719.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="AUS: 7 FLIX SYDNEY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/7flix_logo_without_background.png" group-title="AUS | AUSTRALIE",AUS: 7 FLIX SYDNEY
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85683720.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="AUS: 7 MATE BRISBANE" tvg-logo="https://i1.wp.com/tvtonight.com.au/wp-content/uploads/7mate_LOGO_RGB_large2.jpg?resize=350%2C200" group-title="AUS | AUSTRALIE",AUS: 7 MATE BRISBANE
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85683721.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="AUS: 7 MATE MELBOURNE" tvg-logo="https://i1.wp.com/tvtonight.com.au/wp-content/uploads/7mate_LOGO_RGB_large2.jpg?resize=350%2C200" group-title="AUS | AUSTRALIE",AUS: 7 MATE MELBOURNE
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85683722.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="AUS: 7 MATE PERTH" tvg-logo="https://i1.wp.com/tvtonight.com.au/wp-content/uploads/7mate_LOGO_RGB_large2.jpg?resize=350%2C200" group-title="AUS | AUSTRALIE",AUS: 7 MATE PERTH
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85683723.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="AUS: 7 MATE SYDNEY" tvg-logo="https://i1.wp.com/tvtonight.com.au/wp-content/uploads/7mate_LOGO_RGB_large2.jpg?resize=350%2C200" group-title="AUS | AUSTRALIE",AUS: 7 MATE SYDNEY
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85683724.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="AUS: 7 TWO BRISBANE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuI8Z3uacbJApwMLmRMRvyI9hI2bJs7UuW9pzsOOdq-Hn95FjX&usqp=CAU" group-title="AUS | AUSTRALIE",AUS: 7 TWO BRISBANE
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85683725.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="AUS: 7 TWO MELBOURNE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuI8Z3uacbJApwMLmRMRvyI9hI2bJs7UuW9pzsOOdq-Hn95FjX&amp;usqp=CAU" group-title="AUS | AUSTRALIE",AUS: 7 TWO MELBOURNE
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85683726.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="AUS: 7 TWO PERTH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuI8Z3uacbJApwMLmRMRvyI9hI2bJs7UuW9pzsOOdq-Hn95FjX&amp;usqp=CAU" group-title="AUS | AUSTRALIE",AUS: 7 TWO PERTH
+http://speed-4k.live:8089/live/9120348167513/9120348167513/85683727.ts
