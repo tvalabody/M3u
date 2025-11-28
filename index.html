@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>📺 حسين العبودي TV</title> 
+<title>📺 العُبودي TV</title> 
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -71,6 +71,25 @@ body::before {
 .subtitle {
   color: rgba(255, 255, 255, 0.8);
   font-size: 0.9rem;
+}
+
+.telegram-link {
+  margin-top: 10px;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: rgba(0, 136, 204, 0.2);
+  padding: 8px 16px;
+  border-radius: 12px;
+  color: white;
+  text-decoration: none;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.telegram-link:hover {
+  background: rgba(0, 136, 204, 0.3);
+  transform: translateY(-2px);
 }
 
 .search-section {
@@ -217,6 +236,28 @@ body::before {
   color: white;
 }
 
+.special-group {
+  position: relative;
+  margin-top: 20px;
+}
+
+.special-group::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, var(--accent), transparent);
+}
+
+.group-description {
+  font-size: 0.8rem;
+  color: rgba(255, 255, 255, 0.7);
+  margin-top: 5px;
+  font-weight: 300;
+}
+
 .loading {
   text-align: center;
   padding: 40px 20px;
@@ -304,6 +345,12 @@ body::before {
 <header class="header glass-panel">
   <h1>العُبودي TV</h1>
   <div class="subtitle">منصة IPTV متطورة</div>
+  <a href="https://t.me/stlaet1" class="telegram-link" target="_blank">
+    <span>تابعونا على التلكرام</span>
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+      <path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm5.894 8.221l-1.97 9.28c-.145.658-.537.818-1.084.508l-3-2.21-1.447 1.394c-.14.141-.259.259-.374.261l.213-3.053 5.56-5.022c.24-.213-.054-.334-.373-.121l-6.869 4.326-2.96-.924c-.64-.203-.658-.64.136-.954l11.566-4.458c.538-.196 1.006.128.832.941z"/>
+    </svg>
+  </a>
 </header> 
 
 <section class="search-section glass-panel">
@@ -334,6 +381,7 @@ body::before {
 
 <script>
 const channelsData = [
+  // القنوات الأصلية - beIN SPORTS
   {
     name: "بين سبورت 1",
     logo: "https://www.universfreebox.com/wp-content/uploads/2019/07/beinsportlarge2-800x450-c-default.jpg",
@@ -370,6 +418,142 @@ const channelsData = [
     group: "beIN Sports",
     category: "رياضي",
     url: "http://splustv.me/live/65787/54353/17983.m3u8",
+    quality: "HD",
+    status: "مباشر",
+    bitrate: "عالية"
+  },
+  
+  // قسم بين سبورت مشتركين ايرثلنك
+  {
+    name: "بين سبورت 1 ايرثلنك",
+    logo: "https://www.universfreebox.com/wp-content/uploads/2019/07/beinsportlarge2-800x450-c-default.jpg",
+    group: "بين سبورت مشتركين ايرثلنك",
+    category: "رياضي",
+    url: "http://stream.mytvplus.net:7002/sport/ch1/ch1_1080.m3u8",
+    quality: "1080p",
+    status: "مباشر",
+    bitrate: "عالية"
+  },
+  {
+    name: "بين سبورت 2 ايرثلنك",
+    logo: "https://www.universfreebox.com/wp-content/uploads/2019/07/beinsportlarge2-800x450-c-default.jpg",
+    group: "بين سبورت مشتركين ايرثلنك",
+    category: "رياضي",
+    url: "http://stream.mytvplus.net:7003/sport/ch2/ch2_1080.m3u8",
+    quality: "1080p",
+    status: "مباشر",
+    bitrate: "عالية"
+  },
+  {
+    name: "بين سبورت 3 ايرثلنك",
+    logo: "https://www.universfreebox.com/wp-content/uploads/2019/07/beinsportlarge2-800x450-c-default.jpg",
+    group: "بين سبورت مشتركين ايرثلنك",
+    category: "رياضي",
+    url: "http://stream.mytvplus.net:7004/sport/ch3/ch3_1080.m3u8",
+    quality: "1080p",
+    status: "مباشر",
+    bitrate: "عالية"
+  },
+  {
+    name: "بين سبورت 4 ايرثلنك",
+    logo: "https://www.universfreebox.com/wp-content/uploads/2019/07/beinsportlarge2-800x450-c-default.jpg",
+    group: "بين سبورت مشتركين ايرثلنك",
+    category: "رياضي",
+    url: "http://stream.mytvplus.net:7005/sport/ch4/ch4_1080.m3u8",
+    quality: "1080p",
+    status: "مباشر",
+    bitrate: "عالية"
+  },
+  {
+    name: "بين سبورت 5 ايرثلنك",
+    logo: "https://www.universfreebox.com/wp-content/uploads/2019/07/beinsportlarge2-800x450-c-default.jpg",
+    group: "بين سبورت مشتركين ايرثلنك",
+    category: "رياضي",
+    url: "http://stream.mytvplus.net:7006/sport/ch5/ch5_1080.m3u8",
+    quality: "1080p",
+    status: "مباشر",
+    bitrate: "عالية"
+  },
+  
+  // قسم قنوات الكاس الرياضية
+  {
+    name: "الكاس 1",
+    logo: "https://via.placeholder.com/150/54A0FF/FFFFFF?text=الكاس",
+    group: "قنوات الكاس الرياضية",
+    category: "رياضي",
+    url: "http://4kplus.info:80/live/30634808816548058196/8gnf7ng3hq/22837.m3u8",
+    quality: "HD",
+    status: "مباشر",
+    bitrate: "عالية"
+  },
+  {
+    name: "الكاس 2",
+    logo: "https://via.placeholder.com/150/5F27CD/FFFFFF?text=الكاس",
+    group: "قنوات الكاس الرياضية",
+    category: "رياضي",
+    url: "http://4kplus.info:80/live/30634808816548058196/8gnf7ng3hq/22838.m3u8",
+    quality: "HD",
+    status: "مباشر",
+    bitrate: "عالية"
+  },
+  {
+    name: "الكاس 3",
+    logo: "https://via.placeholder.com/150/00D2D3/FFFFFF?text=الكاس",
+    group: "قنوات الكاس الرياضية",
+    category: "رياضي",
+    url: "http://4kplus.info:80/live/30634808816548058196/8gnf7ng3hq/22839.m3u8",
+    quality: "HD",
+    status: "مباشر",
+    bitrate: "عالية"
+  },
+  {
+    name: "الكاس 4",
+    logo: "https://via.placeholder.com/150/FF9F43/FFFFFF?text=الكاس",
+    group: "قنوات الكاس الرياضية",
+    category: "رياضي",
+    url: "http://4kplus.info:80/live/30634808816548058196/8gnf7ng3hq/22840.m3u8",
+    quality: "HD",
+    status: "مباشر",
+    bitrate: "عالية"
+  },
+  {
+    name: "الكاس 5",
+    logo: "https://via.placeholder.com/150/10AC84/FFFFFF?text=الكاس",
+    group: "قنوات الكاس الرياضية",
+    category: "رياضي",
+    url: "http://4kplus.info:80/live/30634808816548058196/8gnf7ng3hq/22841.m3u8",
+    quality: "HD",
+    status: "مباشر",
+    bitrate: "عالية"
+  },
+  
+  // قسم قنوات الرياضة العراقية
+  {
+    name: "الرابعة 1",
+    logo: "https://via.placeholder.com/150/FF6B6B/FFFFFF?text=العراق",
+    group: "قنوات الرياضة العراقية",
+    category: "رياضي",
+    url: "http://4kplus.info:80/live/30634808816548058196/8gnf7ng3hq/1142953.m3u8",
+    quality: "HD",
+    status: "مباشر",
+    bitrate: "عالية"
+  },
+  {
+    name: "الرابعة 2",
+    logo: "https://via.placeholder.com/150/4ECDC4/FFFFFF?text=العراق",
+    group: "قنوات الرياضة العراقية",
+    category: "رياضي",
+    url: "http://splus.smartres.net/live/65787/54353/113629.m3u8",
+    quality: "HD",
+    status: "مباشر",
+    bitrate: "عالية"
+  },
+  {
+    name: "العراقية الرياضية",
+    logo: "https://via.placeholder.com/150/45B7D1/FFFFFF?text=العراق",
+    group: "قنوات الرياضة العراقية",
+    category: "رياضي",
+    url: "http://4kplus.info:80/live/30634808816548058196/8gnf7ng3hq/156475.m3u8",
     quality: "HD",
     status: "مباشر",
     bitrate: "عالية"
@@ -466,7 +650,18 @@ function displayChannels(channels) {
   for (const group in groupedChannels) {
     const groupHeader = document.createElement("div");
     groupHeader.className = "group-header";
-    groupHeader.textContent = group;
+    
+    // إضافة وصف خاص للمجموعات المميزة
+    if (group === "بين سبورت مشتركين ايرثلنك") {
+      groupHeader.innerHTML = `
+        <div>${group}</div>
+        <div class="group-description">هديتي لكم مشتركين ايرثلنك 🔴 | روابط بلاتوقف 🔥</div>
+      `;
+      groupHeader.classList.add("special-group");
+    } else {
+      groupHeader.textContent = group;
+    }
+    
     grid.appendChild(groupHeader);
     
     groupedChannels[group].forEach(ch => {
@@ -589,5 +784,4 @@ loadChannels();
 </script> 
 
 </body>
-
 </html>
