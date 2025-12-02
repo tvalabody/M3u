@@ -381,13 +381,13 @@ body::before {
 
 <script>
 const channelsData = [
-  // القنوات الأصلية - beIN SPORTS
+  // قسم بين سبورت العادي
   {
     name: "بين سبورت 1",
     logo: "https://www.universfreebox.com/wp-content/uploads/2019/07/beinsportlarge2-800x450-c-default.jpg",
     group: "beIN Sports",
     category: "رياضي",
-    url: "http://h.ottdbcn.com:8080/bn1hd/tracks-v1a1/mono.m3u8",
+    url: "http://205.237.104.51/live/90337864331136/90337864331136/327075.m3u8",
     quality: "HD",
     status: "مباشر",
     bitrate: "عالية"
@@ -397,7 +397,7 @@ const channelsData = [
     logo: "https://www.universfreebox.com/wp-content/uploads/2019/07/beinsportlarge2-800x450-c-default.jpg",
     group: "beIN Sports",
     category: "رياضي",
-    url: "http://h.ottdbcn.com:8080/bn2hd/tracks-v1a1/mono.m3u8",
+    url: "http://199.115.193.116:8080/live/90337864331136/90337864331136/403471.m3u8",
     quality: "HD",
     status: "مباشر",
     bitrate: "عالية"
@@ -407,7 +407,7 @@ const channelsData = [
     logo: "https://www.universfreebox.com/wp-content/uploads/2019/07/beinsportlarge2-800x450-c-default.jpg",
     group: "beIN Sports",
     category: "رياضي",
-    url: "http://h.ottdbcn.com:8080/bn3hd/tracks-v1a1/mono.m3u8",
+    url: "http://205.237.104.51/live/90337864331136/90337864331136/36415.m3u8",
     quality: "HD",
     status: "مباشر",
     bitrate: "عالية"
@@ -417,17 +417,27 @@ const channelsData = [
     logo: "https://www.universfreebox.com/wp-content/uploads/2019/07/beinsportlarge2-800x450-c-default.jpg",
     group: "beIN Sports",
     category: "رياضي",
-    url: "http://splustv.me/live/65787/54353/17983.m3u8",
+    url: "http://199.115.193.116:8080/live/90337864331136/90337864331136/239655.m3u8",
+    quality: "HD",
+    status: "مباشر",
+    bitrate: "عالية"
+  },
+  {
+    name: "بين سبورت 5",
+    logo: "https://www.universfreebox.com/wp-content/uploads/2019/07/beinsportlarge2-800x450-c-default.jpg",
+    group: "beIN Sports",
+    category: "رياضي",
+    url: "http://199.115.193.116:8080/live/90337864331136/90337864331136/36421.m3u8",
     quality: "HD",
     status: "مباشر",
     bitrate: "عالية"
   },
   
-  // قسم بين سبورت مشتركين ايرثلنك
+  // قسم سيرفر شركة ايرثلنك
   {
     name: "بين سبورت 1 ايرثلنك",
     logo: "https://www.universfreebox.com/wp-content/uploads/2019/07/beinsportlarge2-800x450-c-default.jpg",
-    group: "بين سبورت مشتركين ايرثلنك",
+    group: "سيرفر شركة ايرثلنك",
     category: "رياضي",
     url: "http://stream.mytvplus.net:7002/sport/ch1/ch1_1080.m3u8",
     quality: "1080p",
@@ -437,7 +447,7 @@ const channelsData = [
   {
     name: "بين سبورت 2 ايرثلنك",
     logo: "https://www.universfreebox.com/wp-content/uploads/2019/07/beinsportlarge2-800x450-c-default.jpg",
-    group: "بين سبورت مشتركين ايرثلنك",
+    group: "سيرفر شركة ايرثلنك",
     category: "رياضي",
     url: "http://stream.mytvplus.net:7003/sport/ch2/ch2_1080.m3u8",
     quality: "1080p",
@@ -447,7 +457,7 @@ const channelsData = [
   {
     name: "بين سبورت 3 ايرثلنك",
     logo: "https://www.universfreebox.com/wp-content/uploads/2019/07/beinsportlarge2-800x450-c-default.jpg",
-    group: "بين سبورت مشتركين ايرثلنك",
+    group: "سيرفر شركة ايرثلنك",
     category: "رياضي",
     url: "http://stream.mytvplus.net:7004/sport/ch3/ch3_1080.m3u8",
     quality: "1080p",
@@ -457,7 +467,7 @@ const channelsData = [
   {
     name: "بين سبورت 4 ايرثلنك",
     logo: "https://www.universfreebox.com/wp-content/uploads/2019/07/beinsportlarge2-800x450-c-default.jpg",
-    group: "بين سبورت مشتركين ايرثلنك",
+    group: "سيرفر شركة ايرثلنك",
     category: "رياضي",
     url: "http://stream.mytvplus.net:7005/sport/ch4/ch4_1080.m3u8",
     quality: "1080p",
@@ -467,7 +477,7 @@ const channelsData = [
   {
     name: "بين سبورت 5 ايرثلنك",
     logo: "https://www.universfreebox.com/wp-content/uploads/2019/07/beinsportlarge2-800x450-c-default.jpg",
-    group: "بين سبورت مشتركين ايرثلنك",
+    group: "سيرفر شركة ايرثلنك",
     category: "رياضي",
     url: "http://stream.mytvplus.net:7006/sport/ch5/ch5_1080.m3u8",
     quality: "1080p",
@@ -475,85 +485,53 @@ const channelsData = [
     bitrate: "عالية"
   },
   
-  // قسم قنوات الكاس الرياضية
+  // قسم قنوات الكاس
   {
     name: "الكاس 1",
-    logo: "https://via.placeholder.com/150/54A0FF/FFFFFF?text=الكاس",
-    group: "قنوات الكاس الرياضية",
+    logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Alkass_logo.svg/1200px-Alkass_logo.svg.png",
+    group: "قنوات الكاس",
     category: "رياضي",
-    url: "http://4kplus.info:80/live/30634808816548058196/8gnf7ng3hq/22837.m3u8",
+    url: "https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8",
     quality: "HD",
     status: "مباشر",
     bitrate: "عالية"
   },
   {
     name: "الكاس 2",
-    logo: "https://via.placeholder.com/150/5F27CD/FFFFFF?text=الكاس",
-    group: "قنوات الكاس الرياضية",
+    logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Alkass_logo.svg/1200px-Alkass_logo.svg.png",
+    group: "قنوات الكاس",
     category: "رياضي",
-    url: "http://4kplus.info:80/live/30634808816548058196/8gnf7ng3hq/22838.m3u8",
+    url: "https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8",
     quality: "HD",
     status: "مباشر",
     bitrate: "عالية"
   },
   {
     name: "الكاس 3",
-    logo: "https://via.placeholder.com/150/00D2D3/FFFFFF?text=الكاس",
-    group: "قنوات الكاس الرياضية",
+    logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Alkass_logo.svg/1200px-Alkass_logo.svg.png",
+    group: "قنوات الكاس",
     category: "رياضي",
-    url: "http://4kplus.info:80/live/30634808816548058196/8gnf7ng3hq/22839.m3u8",
+    url: "https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8",
     quality: "HD",
     status: "مباشر",
     bitrate: "عالية"
   },
   {
     name: "الكاس 4",
-    logo: "https://via.placeholder.com/150/FF9F43/FFFFFF?text=الكاس",
-    group: "قنوات الكاس الرياضية",
+    logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Alkass_logo.svg/1200px-Alkass_logo.svg.png",
+    group: "قنوات الكاس",
     category: "رياضي",
-    url: "http://4kplus.info:80/live/30634808816548058196/8gnf7ng3hq/22840.m3u8",
+    url: "https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8",
     quality: "HD",
     status: "مباشر",
     bitrate: "عالية"
   },
   {
     name: "الكاس 5",
-    logo: "https://via.placeholder.com/150/10AC84/FFFFFF?text=الكاس",
-    group: "قنوات الكاس الرياضية",
+    logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Alkass_logo.svg/1200px-Alkass_logo.svg.png",
+    group: "قنوات الكاس",
     category: "رياضي",
-    url: "http://4kplus.info:80/live/30634808816548058196/8gnf7ng3hq/22841.m3u8",
-    quality: "HD",
-    status: "مباشر",
-    bitrate: "عالية"
-  },
-  
-  // قسم قنوات الرياضة العراقية
-  {
-    name: "الرابعة 1",
-    logo: "https://via.placeholder.com/150/FF6B6B/FFFFFF?text=العراق",
-    group: "قنوات الرياضة العراقية",
-    category: "رياضي",
-    url: "http://4kplus.info:80/live/30634808816548058196/8gnf7ng3hq/1142953.m3u8",
-    quality: "HD",
-    status: "مباشر",
-    bitrate: "عالية"
-  },
-  {
-    name: "الرابعة 2",
-    logo: "https://via.placeholder.com/150/4ECDC4/FFFFFF?text=العراق",
-    group: "قنوات الرياضة العراقية",
-    category: "رياضي",
-    url: "http://splus.smartres.net/live/65787/54353/113629.m3u8",
-    quality: "HD",
-    status: "مباشر",
-    bitrate: "عالية"
-  },
-  {
-    name: "العراقية الرياضية",
-    logo: "https://via.placeholder.com/150/45B7D1/FFFFFF?text=العراق",
-    group: "قنوات الرياضة العراقية",
-    category: "رياضي",
-    url: "http://4kplus.info:80/live/30634808816548058196/8gnf7ng3hq/156475.m3u8",
+    url: "https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8",
     quality: "HD",
     status: "مباشر",
     bitrate: "عالية"
@@ -652,10 +630,10 @@ function displayChannels(channels) {
     groupHeader.className = "group-header";
     
     // إضافة وصف خاص للمجموعات المميزة
-    if (group === "بين سبورت مشتركين ايرثلنك") {
+    if (group === "سيرفر شركة ايرثلنك") {
       groupHeader.innerHTML = `
         <div>${group}</div>
-        <div class="group-description">هديتي لكم مشتركين ايرثلنك 🔴 | روابط بلاتوقف 🔥</div>
+        <div class="group-description">سيرفر خاص لمشتركين ايرثلنك 🔴</div>
       `;
       groupHeader.classList.add("special-group");
     } else {
