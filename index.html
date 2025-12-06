@@ -8,6 +8,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;600;700&display=swap" rel="stylesheet"> 
+<script src="https://cdn.jsdelivr.net/clappr/latest/clappr.min.js"></script>
 
 <style>
 :root {
@@ -27,7 +28,6 @@
 body {
   font-family: 'Cairo', sans-serif;
   background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  padding: 15px;
   min-height: 100vh;
   overflow-x: hidden;
 }
@@ -45,6 +45,31 @@ body::before {
   z-index: -1;
 }
 
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.player-section {
+  height: 45vh;
+  width: 100%;
+  background: #000;
+  position: relative;
+  border-bottom: 2px solid rgba(255, 255, 255, 0.1);
+}
+
+#player {
+  width: 100%;
+  height: 100%;
+}
+
+.channels-section {
+  flex: 1;
+  overflow-y: auto;
+  padding: 15px;
+}
+
 .glass-panel {
   background: var(--glass-bg);
   backdrop-filter: var(--blur);
@@ -55,12 +80,12 @@ body::before {
 
 .header {
   text-align: center;
-  padding: 20px;
-  margin-bottom: 15px;
+  padding: 15px;
+  margin-bottom: 10px;
 }
 
 .header h1 {
-  font-size: 2rem;
+  font-size: 1.8rem;
   background: linear-gradient(135deg, #fff 0%, #e2e8ff 100%);
   -webkit-background-clip: text;
   background-clip: text;
@@ -70,22 +95,41 @@ body::before {
 
 .subtitle {
   color: rgba(255, 255, 255, 0.8);
-  font-size: 0.9rem;
+  font-size: 0.8rem;
+}
+
+.telegram-link {
+  margin-top: 8px;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: rgba(0, 136, 204, 0.2);
+  padding: 6px 12px;
+  border-radius: 10px;
+  color: white;
+  text-decoration: none;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.telegram-link:hover {
+  background: rgba(0, 136, 204, 0.3);
+  transform: translateY(-2px);
 }
 
 .search-section {
-  margin-bottom: 15px;
-  padding: 15px;
+  margin-bottom: 10px;
+  padding: 10px;
 }
 
 .search-box {
   width: 100%;
-  padding: 12px 18px;
+  padding: 10px 15px;
   background: rgba(255, 255, 255, 0.1);
   border: 1px solid rgba(255, 255, 255, 0.2);
-  border-radius: 12px;
+  border-radius: 10px;
   font-family: 'Cairo', sans-serif;
-  font-size: 14px;
+  font-size: 13px;
   color: white;
   outline: none;
   transition: all 0.3s ease;
@@ -104,21 +148,22 @@ body::before {
 .filter-buttons {
   display: flex;
   flex-wrap: wrap;
-  gap: 8px;
-  margin-bottom: 15px;
+  gap: 6px;
+  margin-bottom: 10px;
   justify-content: center;
+  padding: 0 5px;
 }
 
 .filter-btn {
   background: rgba(255, 255, 255, 0.1);
   border: 1px solid rgba(255, 255, 255, 0.15);
   color: rgba(255, 255, 255, 0.9);
-  padding: 8px 16px;
-  border-radius: 12px;
+  padding: 6px 12px;
+  border-radius: 10px;
   cursor: pointer;
   font-family: 'Cairo', sans-serif;
   font-weight: 600;
-  font-size: 0.8rem;
+  font-size: 0.75rem;
   transition: all 0.3s ease;
 }
 
@@ -128,26 +173,23 @@ body::before {
   box-shadow: 0 0 10px rgba(67, 97, 238, 0.3);
 }
 
-.channels-section {
-  padding: 15px;
-}
-
 .channels-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 12px;
+  gap: 10px;
+  padding: 10px;
 }
 
 .channel-card {
   background: rgba(255, 255, 255, 0.08);
   backdrop-filter: blur(12px);
   border: 1px solid rgba(255, 255, 255, 0.12);
-  border-radius: 12px;
-  padding: 12px;
+  border-radius: 10px;
+  padding: 10px;
   cursor: pointer;
   transition: all 0.3s ease;
   position: relative;
-  min-height: 120px;
+  min-height: 100px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -168,11 +210,11 @@ body::before {
 }
 
 .channel-logo {
-  width: 50px;
-  height: 50px;
+  width: 40px;
+  height: 40px;
   object-fit: contain;
-  border-radius: 8px;
-  margin-bottom: 8px;
+  border-radius: 6px;
+  margin-bottom: 6px;
 }
 
 .channel-name {
@@ -181,62 +223,57 @@ body::before {
   font-size: 0.8rem;
   text-align: center;
   margin-bottom: 4px;
-}
-
-.channel-info {
-  font-size: 0.7rem;
-  color: rgba(255, 255, 255, 0.6);
-  text-align: center;
+  line-height: 1.2;
 }
 
 .quality-badge {
   position: absolute;
-  top: 8px;
-  left: 8px;
+  top: 6px;
+  left: 6px;
   background: rgba(67, 97, 238, 0.8);
   color: white;
-  padding: 3px 6px;
-  border-radius: 6px;
-  font-size: 0.6rem;
+  padding: 2px 5px;
+  border-radius: 5px;
+  font-size: 0.55rem;
   font-weight: 600;
 }
 
 .live-badge {
   position: absolute;
-  top: 8px;
-  right: 8px;
+  top: 6px;
+  right: 6px;
   background: rgba(247, 37, 133, 0.8);
   color: white;
-  padding: 3px 6px;
-  border-radius: 6px;
-  font-size: 0.6rem;
+  padding: 2px 5px;
+  border-radius: 5px;
+  font-size: 0.55rem;
   font-weight: 600;
 }
 
 .group-header {
   grid-column: 1 / -1;
-  font-size: 1.2rem;
+  font-size: 1rem;
   font-weight: 700;
-  margin: 20px 0 10px;
-  padding-bottom: 8px;
+  margin: 15px 0 8px;
+  padding-bottom: 6px;
   border-bottom: 1px solid rgba(255, 255, 255, 0.2);
   color: white;
 }
 
 .loading {
   text-align: center;
-  padding: 40px 20px;
+  padding: 30px 20px;
   color: white;
   grid-column: 1 / -1;
 }
 
 .spinner {
-  width: 30px;
-  height: 30px;
+  width: 25px;
+  height: 25px;
   border: 3px solid rgba(255, 255, 255, 0.3);
   border-top: 3px solid white;
   border-radius: 50%;
-  margin: 0 auto 15px;
+  margin: 0 auto 10px;
   animation: spin 1s linear infinite;
 }
 
@@ -246,33 +283,33 @@ body::before {
 
 .no-results {
   text-align: center;
-  padding: 30px;
+  padding: 20px;
   color: rgba(255, 255, 255, 0.6);
   grid-column: 1 / -1;
 }
 
 .remote-controls {
   position: fixed;
-  bottom: 20px;
+  bottom: 15px;
   left: 50%;
   transform: translateX(-50%);
   display: none;
-  gap: 10px;
+  gap: 8px;
   background: rgba(0, 0, 0, 0.7);
-  padding: 15px;
-  border-radius: 20px;
+  padding: 12px;
+  border-radius: 16px;
   backdrop-filter: blur(10px);
   z-index: 1000;
 }
 
 .remote-btn {
-  width: 50px;
-  height: 50px;
+  width: 45px;
+  height: 45px;
   background: rgba(255, 255, 255, 0.2);
   border: none;
-  border-radius: 12px;
+  border-radius: 10px;
   color: white;
-  font-size: 1.2rem;
+  font-size: 1rem;
   cursor: pointer;
   display: flex;
   align-items: center;
@@ -289,11 +326,19 @@ body::before {
   .channels-grid {
     grid-template-columns: repeat(2, 1fr);
   }
+  
+  .player-section {
+    height: 40vh;
+  }
 }
 
 @media (max-width: 480px) {
   .channels-grid {
     grid-template-columns: 1fr;
+  }
+  
+  .player-section {
+    height: 35vh;
   }
 }
 
@@ -305,28 +350,42 @@ body::before {
 </style>
 </head> 
 
-<body> 
+<body>
 
-<header class="header glass-panel">
-  <h1>العُبودي TV</h1>
-  <div class="subtitle">منصة IPTV متطورة</div>
-</header> 
-
-<section class="search-section glass-panel">
-  <input type="text" id="search-input" class="search-box" placeholder="ابحث عن قناة...">
-</section>
-
-<div class="filter-buttons" id="filter-buttons">
-  <!-- سيتم إنشاء أزرار التصفية ديناميكياً -->
-</div>
-
-<section class="channels-section glass-panel">
-  <div id="loading" class="loading">
-    <div class="spinner"></div>
-    جاري تحميل القنوات...
+<div class="container">
+  <!-- قسم المشغل -->
+  <div class="player-section">
+    <div id="player"></div>
   </div>
-  <div class="channels-grid" id="channels"></div>
-</section>
+  
+  <!-- قسم القنوات -->
+  <div class="channels-section">
+    <header class="header glass-panel">
+      <h1>العُبودي TV</h1>
+      <div class="subtitle">منصة IPTV متطورة</div>
+      <a href="https://t.me/stlaet1" class="telegram-link" target="_blank">
+        <span>تابعونا على التلكرام</span>
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
+          <path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm5.894 8.221l-1.97 9.28c-.145.658-.537.818-1.084.508l-3-2.21-1.447 1.394c-.14.141-.259.259-.374.261l.213-3.053 5.56-5.022c.24-.213-.054-.334-.373-.121l-6.869 4.326-2.96-.924c-.64-.203-.658-.64.136-.954l11.566-4.458c.538-.196 1.006.128.832.941z"></path>
+        </svg>
+      </a>
+    </header>
+    
+    <section class="search-section glass-panel">
+      <input type="text" id="search-input" class="search-box" placeholder="ابحث عن قناة...">
+    </section>
+    
+    <div class="filter-buttons" id="filter-buttons">
+      <!-- سيتم إنشاء أزرار التصفية ديناميكياً -->
+    </div>
+    
+    <div id="loading" class="loading">
+      <div class="spinner"></div>
+      جاري تحميل القنوات...
+    </div>
+    <div class="channels-grid" id="channels"></div>
+  </div>
+</div>
 
 <div class="remote-controls">
   <button class="remote-btn" onclick="navigateRemote('up')">⬆️</button>
@@ -339,122 +398,354 @@ body::before {
 </div>
 
 <script>
+// بيانات القنوات
 const channelsData = [
+  // قنوات beIN Sports
   {
-    name: "beIN SPORT 1",
+    name: "بين سبورت 1",
     logo: "https://www.universfreebox.com/wp-content/uploads/2019/07/beinsportlarge2-800x450-c-default.jpg",
     group: "beIN Sports",
     category: "رياضي",
-    url: "https://py.dencreak.com/bn_g_hd1.m3u8",
+    url: "https://raw.githubusercontent.com/KDNTV/TVT/refs/heads/main/vp1.m3u8",
     quality: "HD",
-    server: "Dencreak",
     status: "مباشر",
     bitrate: "عالية"
   },
   {
-    name: "beIN SPORT 2",
+    name: "بين سبورت 2",
     logo: "https://www.universfreebox.com/wp-content/uploads/2019/07/beinsportlarge2-800x450-c-default.jpg",
     group: "beIN Sports",
     category: "رياضي",
-    url: "https://py.dencreak.com/bn_g_hd2.m3u8",
+    url: "https://raw.githubusercontent.com/KDNTV/TVT/refs/heads/main/vp2.m3u8",
     quality: "HD",
-    server: "Dencreak",
     status: "مباشر",
     bitrate: "عالية"
   },
   {
-    name: "beIN SPORT 3",
+    name: "بين سبورت 3",
     logo: "https://www.universfreebox.com/wp-content/uploads/2019/07/beinsportlarge2-800x450-c-default.jpg",
     group: "beIN Sports",
     category: "رياضي",
-    url: "https://py.dencreak.com/bn_g_hd3.m3u8",
+    url: "https://raw.githubusercontent.com/KDNTV/TVT/refs/heads/main/vp3.m3u8",
     quality: "HD",
-    server: "Dencreak",
     status: "مباشر",
     bitrate: "عالية"
   },
   {
-    name: "beIN SPORT 4",
+    name: "بين سبورت 4",
     logo: "https://www.universfreebox.com/wp-content/uploads/2019/07/beinsportlarge2-800x450-c-default.jpg",
     group: "beIN Sports",
     category: "رياضي",
-    url: "https://py.dencreak.com/bn_g_hd4.m3u8",
+    url: "https://raw.githubusercontent.com/alysjc7-dot/math/refs/heads/main/to4.m3u8",
     quality: "HD",
-    server: "Dencreak",
+    status: "مباشر",
+    bitrate: "عالية"
+  },
+  
+  // قنوات الكأس الرياضية
+  {
+    name: "الكاس 1",
+    logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Alkass_logo.png/300px-Alkass_logo.png",
+    group: "قنوات الكأس الرياضية",
+    category: "رياضي",
+    url: "http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/252.m3u8",
+    quality: "HD",
     status: "مباشر",
     bitrate: "عالية"
   },
   {
-    name: "beIN SPORT 5",
-    logo: "https://www.universfreebox.com/wp-content/uploads/2019/07/beinsportlarge2-800x450-c-default.jpg",
-    group: "beIN Sports",
+    name: "الكاس 2",
+    logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Alkass_logo.png/300px-Alkass_logo.png",
+    group: "قنوات الكأس الرياضية",
     category: "رياضي",
-    url: "https://py.dencreak.com/bn_g_hd5.m3u8",
+    url: "http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/253.m3u8",
     quality: "HD",
-    server: "Dencreak",
     status: "مباشر",
     bitrate: "عالية"
   },
   {
-    name: "beIN SPORT 6",
-    logo: "https://www.universfreebox.com/wp-content/uploads/2019/07/beinsportlarge2-800x450-c-default.jpg",
-    group: "beIN Sports",
+    name: "الكاس 3",
+    logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Alkass_logo.png/300px-Alkass_logo.png",
+    group: "قنوات الكأس الرياضية",
     category: "رياضي",
-    url: "https://py.dencreak.com/bn_g_hd6.m3u8",
+    url: "http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/254.m3u8",
     quality: "HD",
-    server: "Dencreak",
     status: "مباشر",
     bitrate: "عالية"
   },
   {
-    name: "beIN SPORT 7",
-    logo: "https://www.universfreebox.com/wp-content/uploads/2019/07/beinsportlarge2-800x450-c-default.jpg",
-    group: "beIN Sports",
+    name: "الكاس 4",
+    logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Alkass_logo.png/300px-Alkass_logo.png",
+    group: "قنوات الكأس الرياضية",
     category: "رياضي",
-    url: "https://py.dencreak.com/bn_g_hd7.m3u8",
+    url: "http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/255.m3u8",
     quality: "HD",
-    server: "Dencreak",
     status: "مباشر",
     bitrate: "عالية"
   },
   {
-    name: "beIN SPORT 8",
-    logo: "https://www.universfreebox.com/wp-content/uploads/2019/07/beinsportlarge2-800x450-c-default.jpg",
-    group: "beIN Sports",
+    name: "الكاس 5",
+    logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Alkass_logo.png/300px-Alkass_logo.png",
+    group: "قنوات الكأس الرياضية",
     category: "رياضي",
-    url: "https://py.dencreak.com/bn_g_hd8.m3u8",
+    url: "http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/256.m3u8",
     quality: "HD",
-    server: "Dencreak",
+    status: "مباشر",
+    bitrate: "عالية"
+  },
+  
+  // قنوات ام بي سي كروب
+  {
+    name: "ام بي سي 1",
+    logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/MBC_1_2019_logo.svg/300px-MBC_1_2019_logo.svg.png",
+    group: "قنوات ام بي سي كروب",
+    category: "ترفيه",
+    url: "http://199.115.193.116:80/live/90040798278941/90040798278941/352241.m3u8",
+    quality: "HD",
     status: "مباشر",
     bitrate: "عالية"
   },
   {
-    name: "beIN SPORT 9",
-    logo: "https://www.universfreebox.com/wp-content/uploads/2019/07/beinsportlarge2-800x450-c-default.jpg",
-    group: "beIN Sports",
-    category: "رياضي",
-    url: "https://py.dencreak.com/bn_g_hd9.m3u8",
+    name: "ام بي سي 2",
+    logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/MBC_2_2019_logo.svg/300px-MBC_2_2019_logo.svg.png",
+    group: "قنوات ام بي سي كروب",
+    category: "ترفيه",
+    url: "http://199.115.193.116:80/live/90040798278941/90040798278941/352242.m3u8",
     quality: "HD",
-    server: "Dencreak",
     status: "مباشر",
     bitrate: "عالية"
+  },
+  {
+    name: "ام بي سي 3",
+    logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/MBC_3_2019_logo.svg/300px-MBC_3_2019_logo.svg.png",
+    group: "قنوات ام بي سي كروب",
+    category: "ترفيه",
+    url: "http://199.115.193.116:80/live/90040798278941/90040798278941/352243.m3u8",
+    quality: "HD",
+    status: "مباشر",
+    bitrate: "عالية"
+  },
+  {
+    name: "ام بي سي 4",
+    logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/MBC_4_2019_logo.svg/300px-MBC_4_2019_logo.svg.png",
+    group: "قنوات ام بي سي كروب",
+    category: "ترفيه",
+    url: "http://199.115.193.116:80/live/90040798278941/90040798278941/352244.m3u8",
+    quality: "HD",
+    status: "مباشر",
+    bitrate: "عالية"
+  },
+  {
+    name: "ام بي سي 5",
+    logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MBC_5_2019_logo.svg/300px-MBC_5_2019_logo.svg.png",
+    group: "قنوات ام بي سي كروب",
+    category: "ترفيه",
+    url: "http://199.115.193.116:80/live/90040798278941/90040798278941/352245.m3u8",
+    quality: "HD",
+    status: "مباشر",
+    bitrate: "عالية"
+  },
+  {
+    name: "ام بي سي اكشن",
+    logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/MBC_Action_2019_logo.svg/300px-MBC_Action_2019_logo.svg.png",
+    group: "قنوات ام بي سي كروب",
+    category: "ترفيه",
+    url: "http://199.115.193.116:80/live/90040798278941/90040798278941/352246.m3u8",
+    quality: "HD",
+    status: "مباشر",
+    bitrate: "عالية"
+  },
+  {
+    name: "ام بي سي العراق",
+    logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MBC_Iraq_2019_logo.svg/300px-MBC_Iraq_2019_logo.svg.png",
+    group: "قنوات ام بي سي كروب",
+    category: "ترفيه",
+    url: "http://199.115.193.116:80/live/90040798278941/90040798278941/352250.m3u8",
+    quality: "HD",
+    status: "مباشر",
+    bitrate: "عالية"
+  },
+  {
+    name: "ام بي سي ماكس",
+    logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/MBC_Max_2019_logo.svg/300px-MBC_Max_2019_logo.svg.png",
+    group: "قنوات ام بي سي كروب",
+    category: "ترفيه",
+    url: "http://proxpanel.pro:80/live/robins/robins/272014.ts",
+    quality: "HD",
+    status: "مباشر",
+    bitrate: "عالية"
+  },
+  {
+    name: "ام بي سي بوليوود",
+    logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/MBC_Bollywood_2019_logo.svg/300px-MBC_Bollywood_2019_logo.svg.png",
+    group: "قنوات ام بي سي كروب",
+    category: "ترفيه",
+    url: "http://199.115.193.116:80/live/90040798278941/90040798278941/352247.m3u8",
+    quality: "HD",
+    status: "مباشر",
+    bitrate: "عالية"
+  },
+  
+  // قنوات ثمانية الرياضية
+  {
+    name: "ثمانية 1",
+    logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Thmanyah_logo.png/300px-Thmanyah_logo.png",
+    group: "قنوات ثمانية الرياضية",
+    category: "رياضي",
+    url: "http://bk.xiptv.network:80/live/freelist/freelist568/13647.m3u8",
+    quality: "HD",
+    status: "مباشر",
+    bitrate: "عالية"
+  },
+  {
+    name: "ثمانية 2",
+    logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Thmanyah_logo.png/300px-Thmanyah_logo.png",
+    group: "قنوات ثمانية الرياضية",
+    category: "رياضي",
+    url: "http://bk.xiptv.network:80/live/freelist/freelist568/13648.m3u8",
+    quality: "HD",
+    status: "مباشر",
+    bitrate: "عالية"
+  },
+  
+  // قنوات الوان الرياضية
+  {
+    name: "الوان الرياضيه 1",
+    logo: "https://via.placeholder.com/300x200/ff6b6b/ffffff?text=الوان+1",
+    group: "الوان الرياضيه",
+    category: "رياضي",
+    url: "https://py.dencreak.com/alwan_hd1.m3u8",
+    quality: "HD",
+    status: "مباشر",
+    bitrate: "عالية"
+  },
+  {
+    name: "الوان الرياضيه 2",
+    logo: "https://via.placeholder.com/300x200/4ecdc4/ffffff?text=الوان+2",
+    group: "الوان الرياضيه",
+    category: "رياضي",
+    url: "https://py.dencreak.com/alwan_sd2.m3u8",
+    quality: "SD",
+    status: "مباشر",
+    bitrate: "متوسطة"
+  },
+  {
+    name: "الوان الرياضيه 3",
+    logo: "https://via.placeholder.com/300x200/45b7d1/ffffff?text=الوان+3",
+    group: "الوان الرياضيه",
+    category: "رياضي",
+    url: "https://py.dencreak.com/alwan_sd3.m3u8",
+    quality: "SD",
+    status: "مباشر",
+    bitrate: "متوسطة"
+  },
+  {
+    name: "الوان الرياضيه 4",
+    logo: "https://via.placeholder.com/300x200/96ceb4/ffffff?text=الوان+4",
+    group: "الوان الرياضيه",
+    category: "رياضي",
+    url: "https://py.dencreak.com/alwan_sd4.m3u8",
+    quality: "SD",
+    status: "مباشر",
+    bitrate: "متوسطة"
+  },
+  {
+    name: "الوان الرياضيه 5",
+    logo: "https://via.placeholder.com/300x200/feca57/ffffff?text=الوان+5",
+    group: "الوان الرياضيه",
+    category: "رياضي",
+    url: "https://py.dencreak.com/alwan_sd5.m3u8",
+    quality: "SD",
+    status: "مباشر",
+    bitrate: "متوسطة"
+  },
+  {
+    name: "الوان الرياضيه 6",
+    logo: "https://via.placeholder.com/300x200/ff9ff3/ffffff?text=الوان+6",
+    group: "الوان الرياضيه",
+    category: "رياضي",
+    url: "https://py.dencreak.com/alwan_sd6.m3u8",
+    quality: "SD",
+    status: "مباشر",
+    bitrate: "متوسطة"
+  },
+  {
+    name: "الوان الرياضيه 7",
+    logo: "https://via.placeholder.com/300x200/54a0ff/ffffff?text=الوان+7",
+    group: "الوان الرياضيه",
+    category: "رياضي",
+    url: "https://py.dencreak.com/alwan_sd7.m3u8",
+    quality: "SD",
+    status: "مباشر",
+    bitrate: "متوسطة"
+  },
+  {
+    name: "الوان الرياضيه 8",
+    logo: "https://via.placeholder.com/300x200/5f27cd/ffffff?text=الوان+8",
+    group: "الوان الرياضيه",
+    category: "رياضي",
+    url: "https://py.dencreak.com/alwan_sd8.m3u8",
+    quality: "SD",
+    status: "مباشر",
+    bitrate: "متوسطة"
+  },
+  {
+    name: "الوان الرياضيه 9",
+    logo: "https://via.placeholder.com/300x200/00d2d3/ffffff?text=الوان+9",
+    group: "الوان الرياضيه",
+    category: "رياضي",
+    url: "https://py.dencreak.com/alwan_sd9.m3u8",
+    quality: "SD",
+    status: "مباشر",
+    bitrate: "متوسطة"
   }
 ];
 
+// متغيرات النظام
 let allChannels = [];
 let currentFilter = "all";
 let currentFocusIndex = 0;
 let channelCards = [];
 let filterButtons = [];
-let currentSection = 'channels'; // Start with channels focused
+let playerInstance = null;
 const searchInput = document.getElementById('search-input');
 
+// تهيئة المشغل
+function initPlayer(url) {
+  if (playerInstance) {
+    playerInstance.destroy();
+  }
+  
+  playerInstance = new Clappr.Player({
+    source: url,
+    autoPlay: true,
+    height: "100%",
+    width: "100%",
+    parentId: "#player",
+    mimeType: "application/x-mpegURL",
+    playback: {
+      playInline: true,
+      recycleVideo: Clappr.Options.NOOP
+    },
+    plugins: [],
+    clapprSettings: {
+      preload: 'auto'
+    }
+  });
+}
+
+// تحميل القنوات
 function loadChannels() {
   try {
     allChannels = channelsData;
     createFilterButtons();
     displayChannels(allChannels);
     setupRemoteNavigation();
+    
+    // بدء المشغل بالقناة الأولى
+    if (allChannels.length > 0 && allChannels[0].url) {
+      initPlayer(allChannels[0].url);
+    }
     
     searchInput.addEventListener('input', function(e) {
       const searchTerm = e.target.value.toLowerCase();
@@ -471,6 +762,7 @@ function loadChannels() {
   }
 } 
 
+// إنشاء أزرار التصفية
 function createFilterButtons() {
   const filterContainer = document.getElementById("filter-buttons");
   filterContainer.innerHTML = '';
@@ -494,6 +786,7 @@ function createFilterButtons() {
   filterButtons = Array.from(document.querySelectorAll('.filter-btn'));
 }
 
+// تصفية القنوات
 function filterChannels(category) {
   currentFilter = category;
   
@@ -511,6 +804,7 @@ function filterChannels(category) {
   setupRemoteNavigation();
 }
 
+// عرض القنوات
 function displayChannels(channels) {
   const grid = document.getElementById("channels");
   grid.innerHTML = "";
@@ -538,21 +832,24 @@ function displayChannels(channels) {
       const card = document.createElement("div");
       card.className = "channel-card";
       card.tabIndex = 0;
+      card.dataset.url = ch.url;
       
       card.innerHTML = `
-        <img src="${ch.logo}" alt="${ch.name}" class="channel-logo">
+        <img src="${ch.logo}" alt="${ch.name}" class="channel-logo" onerror="this.src='https://via.placeholder.com/300x200/333/fff?text=TV'">
         <div class="quality-badge">${ch.quality}</div>
         <div class="live-badge">LIVE</div>
         <div class="channel-name">${ch.name}</div>
-        <div class="channel-info">${ch.server}</div>
       `;
       
-      if (ch.url && ch.url.trim() !== "") {
-        card.onclick = () => location.href = ch.url;
-      } else {
-        card.style.opacity = "0.6";
-        card.style.cursor = "not-allowed";
-      }
+      card.onclick = function() {
+        if (ch.url && ch.url.trim() !== "") {
+          initPlayer(ch.url);
+          // إضافة تأثير للمؤشر
+          channelCards.forEach(c => c.classList.remove('focused'));
+          this.classList.add('focused');
+          currentFocusIndex = channelCards.indexOf(this);
+        }
+      };
       
       grid.appendChild(card);
     });
@@ -561,12 +858,12 @@ function displayChannels(channels) {
   document.getElementById("loading").style.display = "none";
 } 
 
+// إعداد التحكم عن بعد
 function setupRemoteNavigation() {
   channelCards = Array.from(document.querySelectorAll('.channel-card'));
   filterButtons = Array.from(document.querySelectorAll('.filter-btn'));
   currentFocusIndex = 0;
   
-  // Clear all focus
   searchInput.classList.remove('focused');
   filterButtons.forEach(btn => btn.classList.remove('focused'));
   channelCards.forEach(card => card.classList.remove('focused'));
@@ -576,7 +873,6 @@ function setupRemoteNavigation() {
     channelCards[currentFocusIndex].focus();
   }
   
-  // Keyboard navigation
   document.addEventListener('keydown', function(e) {
     switch(e.key) {
       case 'ArrowUp':
@@ -603,6 +899,7 @@ function setupRemoteNavigation() {
   });
 }
 
+// التنقل عن بعد
 function navigateRemote(direction) {
   if (channelCards.length === 0) return;
   
@@ -631,7 +928,6 @@ function navigateRemote(direction) {
     channelCards[newIndex].focus();
     currentFocusIndex = newIndex;
     
-    // Scroll into view
     channelCards[newIndex].scrollIntoView({
       behavior: 'smooth',
       block: 'center'
@@ -639,19 +935,23 @@ function navigateRemote(direction) {
   }
 }
 
+// تفعيل القناة الحالية
 function activateCurrent() {
-  if (channelCards.length > 0 && channelCards[currentFocusIndex].style.cursor !== 'not-allowed') {
-    channelCards[currentFocusIndex].click();
+  if (channelCards.length > 0 && channelCards[currentFocusIndex].dataset.url) {
+    const url = channelCards[currentFocusIndex].dataset.url;
+    if (url && url.trim() !== "") {
+      initPlayer(url);
+    }
   }
 }
 
-// Simple search focus for when user wants to type
+// التركيز على البحث
 searchInput.addEventListener('focus', () => {
-  // Clear channel focus when searching
   channelCards.forEach(card => card.classList.remove('focused'));
 });
 
-loadChannels();
+// تحميل النظام
+window.onload = loadChannels;
 </script> 
 
 </body>
