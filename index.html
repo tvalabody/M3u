@@ -1,522 +1,617 @@
 <!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>قنوات beIN Sports - البث المباشر</title>
-    <!-- رابط أيقونات Font Awesome للأيقونات -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <style>
-        * {
-            box-sizing: border-box;
-            margin: 0;
-            padding: 0;
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        }
-        
-        body {
-            background: linear-gradient(135deg, #0c2461, #1e3799);
-            color: #fff;
-            line-height: 1.6;
-            padding: 20px;
-            min-height: 100vh;
-        }
-        
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-        }
-        
-        header {
-            text-align: center;
-            padding: 20px 0;
-            margin-bottom: 30px;
-            border-bottom: 2px solid rgba(255, 255, 255, 0.1);
-            position: relative;
-        }
-        
-        h1 {
-            font-size: 2.5rem;
-            margin-bottom: 10px;
-            color: #ffdd59;
-        }
-        
-        .subtitle {
-            font-size: 1.2rem;
-            color: #ccc;
-            margin-bottom: 20px;
-        }
-        
-        /* زر التلكرام */
-        .telegram-btn {
-            position: absolute;
-            left: 20px;
-            top: 50%;
-            transform: translateY(-50%);
-            background: linear-gradient(135deg, #ffdd59, #ffa502);
-            color: #0c2461;
-            text-decoration: none;
-            padding: 12px 25px;
-            border-radius: 50px;
-            font-weight: bold;
-            font-size: 1.1rem;
-            display: flex;
-            align-items: center;
-            gap: 10px;
-            box-shadow: 0 4px 15px rgba(255, 221, 89, 0.3);
-            transition: all 0.3s ease;
-            border: 2px solid #ffdd59;
-        }
-        
-        .telegram-btn:hover {
-            transform: translateY(-50%) scale(1.05);
-            box-shadow: 0 6px 20px rgba(255, 221, 89, 0.5);
-            background: linear-gradient(135deg, #ffa502, #ffdd59);
-        }
-        
-        .telegram-btn i {
-            font-size: 1.4rem;
-        }
-        
-        .logo {
-            width: 120px;
-            margin-bottom: 15px;
-        }
-        
-        .main-content {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 30px;
-        }
-        
-        .player-section {
-            flex: 2;
-            min-width: 300px;
-            background: rgba(0, 0, 0, 0.6);
-            border-radius: 15px;
-            padding: 25px;
-            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
-        }
-        
-        .channels-section {
-            flex: 1;
-            min-width: 300px;
-            background: rgba(0, 0, 0, 0.6);
-            border-radius: 15px;
-            padding: 25px;
-            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
-        }
-        
-        .section-title {
-            font-size: 1.8rem;
-            margin-bottom: 20px;
-            color: #ffdd59;
-            padding-bottom: 10px;
-            border-bottom: 2px solid rgba(255, 255, 255, 0.1);
-        }
-        
-        #video-player {
-            width: 100%;
-            height: 400px;
-            background-color: #000;
-            border-radius: 10px;
-            margin-bottom: 20px;
-            overflow: hidden;
-        }
-        
-        .channel-info {
-            background: rgba(255, 255, 255, 0.1);
-            padding: 15px;
-            border-radius: 10px;
-            margin-top: 15px;
-            text-align: center;
-        }
-        
-        .channel-name {
-            font-size: 1.4rem;
-            color: #4bcffa;
-            margin-bottom: 5px;
-        }
-        
-        .channel-status {
-            font-size: 0.9rem;
-            color: #aaa;
-        }
-        
-        .status-live {
-            color: #ff6b6b;
-            font-weight: bold;
-        }
-        
-        .channels-list {
-            display: flex;
-            flex-direction: column;
-            gap: 15px;
-            max-height: 600px;
-            overflow-y: auto;
-            padding-right: 10px;
-        }
-        
-        .channel-btn {
-            display: flex;
-            align-items: center;
-            background: rgba(255, 255, 255, 0.1);
-            border: none;
-            border-radius: 10px;
-            padding: 15px;
-            cursor: pointer;
-            transition: all 0.3s ease;
-            color: #fff;
-            text-align: right;
-            width: 100%;
-        }
-        
-        .channel-btn:hover {
-            background: rgba(255, 221, 89, 0.2);
-            transform: translateY(-3px);
-        }
-        
-        .channel-btn.active {
-            background: rgba(255, 221, 89, 0.3);
-            border-right: 4px solid #ffdd59;
-        }
-        
-        .channel-logo {
-            width: 50px;
-            height: 50px;
-            margin-left: 15px;
-            border-radius: 8px;
-            object-fit: contain;
-            background-color: #fff;
-            padding: 5px;
-        }
-        
-        .channel-title {
-            font-size: 1.2rem;
-            font-weight: 600;
-        }
-        
-        .controls {
-            display: flex;
-            justify-content: space-between;
-            margin-top: 20px;
-            flex-wrap: wrap;
-            gap: 10px;
-        }
-        
-        .control-btn {
-            padding: 10px 20px;
-            background: #1e3799;
-            color: white;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-            transition: background 0.3s;
-            flex-grow: 1;
-            text-align: center;
-        }
-        
-        .control-btn:hover {
-            background: #0c2461;
-        }
-        
-        footer {
-            text-align: center;
-            margin-top: 40px;
-            padding-top: 20px;
-            border-top: 1px solid rgba(255, 255, 255, 0.1);
-            color: #aaa;
-            font-size: 0.9rem;
-        }
-        
-        @media (max-width: 768px) {
-            .main-content {
-                flex-direction: column;
-            }
-            
-            h1 {
-                font-size: 2rem;
-            }
-            
-            #video-player {
-                height: 300px;
-            }
-            
-            /* تعديل زر التلكرام للشاشات الصغيرة */
-            .telegram-btn {
-                position: static;
-                transform: none;
-                display: inline-flex;
-                margin-top: 15px;
-                justify-content: center;
-                width: auto;
-            }
-            
-            header {
-                padding-bottom: 30px;
-            }
-        }
-        
-        /* تخصيص شريط التمرير */
-        .channels-list::-webkit-scrollbar {
-            width: 8px;
-        }
-        
-        .channels-list::-webkit-scrollbar-track {
-            background: rgba(255, 255, 255, 0.1);
-            border-radius: 4px;
-        }
-        
-        .channels-list::-webkit-scrollbar-thumb {
-            background: #ffdd59;
-            border-radius: 4px;
-        }
-    </style>
-    <!-- تشغيل الفيديو عبر hls.js للمتصفحات التي لا تدعم HLS مباشرة -->
-    <script src="https://cdn.jsdelivr.net/npm/hls.js@1.1.4/dist/hls.min.js"></script>
-</head>
-<body>
-    <div class="container">
-        <header>
-            <a href="https://t.me/stlaet1" class="telegram-btn" target="_blank">
-                <i class="fab fa-telegram"></i>
-                تابعنا على التلكرام
-            </a>
-            
-            <h1>قنوات beIN Sports</h1>
-            <div class="subtitle">البث المباشر لقنوات beIN Sports الرياضية</div>
-        </header>
-        
-        <div class="main-content">
-            <section class="player-section">
-                <h2 class="section-title">المشغل</h2>
-                <div id="video-player">
-                    <video id="video-element" controls style="width: 100%; height: 100%;">
-                        المتصفح الخاص بك لا يدعم تشغيل الفيديو.
-                    </video>
-                </div>
-                
-                <div class="channel-info">
-                    <div class="channel-name" id="current-channel">بين سبورت 1</div>
-                    <div class="channel-status">
-                        <span class="status-live">● بث مباشر</span> | جودة: عالية HD
-                    </div>
-                </div>
-                
-                <div class="controls">
-                    <button class="control-btn" id="play-btn">تشغيل</button>
-                    <button class="control-btn" id="pause-btn">إيقاف مؤقت</button>
-                    <button class="control-btn" id="mute-btn">كتم الصوت</button>
-                    <button class="control-btn" id="fullscreen-btn">ملء الشاشة</button>
-                </div>
-            </section>
-            
-            <section class="channels-section">
-                <h2 class="section-title">القنوات المتاحة</h2>
-                <div class="channels-list" id="channels-list">
-                    <!-- سيتم ملؤها بواسطة JavaScript -->
-                </div>
-            </section>
-        </div>
-        
-        <footer>
-            <p>جميع الحقوق محفوظة لقنوات beIN Sports - هذه الصفحة للعرض التوضيحي فقط</p>
-            <p>تستخدم هذه الصفحة تقنية HLS.js لتشغيل تدفقات الفيديو</p>
-        </footer>
-    </div>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>📺 العُبودي TV</title> 
 
-    <script>
-        // بيانات القنوات - الروابط مخفية ولا تظهر في الواجهة
-        const channels = [
-            {
-                id: 1,
-                name: "بين سبورت 1",
-                url: "https://py.dencreak.com/bn_s_hd1.m3u8",
-                logo: "https://raw.githubusercontent.com/iptv-logos/main/beIN_Sports/beIN_Sports_1.png"
-            },
-            {
-                id: 2,
-                name: "بين سبورت 2",
-                url: "https://py.dencreak.com/bn_s_hd2.m3u8",
-                logo: "https://raw.githubusercontent.com/iptv-logos/main/beIN_Sports/beIN_Sports_2.png"
-            },
-            {
-                id: 3,
-                name: "بين سبورت 3",
-                url: "https://py.dencreak.com/bn_s_hd3.m3u8",
-                logo: "https://raw.githubusercontent.com/iptv-logos/main/beIN_Sports/beIN_Sports_3.png"
-            },
-            {
-                id: 4,
-                name: "بين سبورت 4",
-                url: "https://py.dencreak.com/bn_s_hd4.m3u8",
-                logo: "https://raw.githubusercontent.com/iptv-logos/main/beIN_Sports/beIN_Sports_4.png"
-            },
-            {
-                id: 5,
-                name: "بين سبورت 5",
-                url: "https://py.dencreak.com/bn_s_hd5.m3u8",
-                logo: "https://raw.githubusercontent.com/iptv-logos/main/beIN_Sports/beIN_Sports_5.png"
-            },
-            {
-                id: 6,
-                name: "بين سبورت 6",
-                url: "https://py.dencreak.com/bn_s_hd6.m3u8",
-                logo: "https://raw.githubusercontent.com/iptv-logos/main/beIN_Sports/beIN_Sports_6.png"
-            },
-            {
-                id: 7,
-                name: "بين سبورت 7",
-                url: "https://py.dencreak.com/bn_s_hd7.m3u8",
-                logo: "https://raw.githubusercontent.com/iptv-logos/main/beIN_Sports/beIN_Sports_7.png"
-            }
-        ];
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;600;700&display=swap" rel="stylesheet"> 
 
-        // العناصر الرئيسية في الصفحة
-        const videoElement = document.getElementById('video-element');
-        const currentChannelElement = document.getElementById('current-channel');
-        const channelsListElement = document.getElementById('channels-list');
-        const playBtn = document.getElementById('play-btn');
-        const pauseBtn = document.getElementById('pause-btn');
-        const muteBtn = document.getElementById('mute-btn');
-        const fullscreenBtn = document.getElementById('fullscreen-btn');
+<style>
+:root {
+  --primary: #4361ee;
+  --accent: #f72585;
+  --glass-bg: rgba(255, 255, 255, 0.1);
+  --glass-border: rgba(255, 255, 255, 0.15);
+  --blur: blur(15px);
+}
 
-        // متغيرات التحكم
-        let currentChannelIndex = 0;
-        let hls = null;
-        let isMuted = false;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 
-        // تهيئة الصفحة
-        function initPage() {
-            // عرض القنوات في القائمة
-            renderChannelsList();
-            
-            // تشغيل القناة الأولى تلقائياً
-            loadChannel(channels[currentChannelIndex]);
-            
-            // إضافة مستمعي الأحداث للأزرار
-            setupEventListeners();
-        }
+body {
+  font-family: 'Cairo', sans-serif;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  padding: 15px;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
 
-        // عرض قائمة القنوات
-        function renderChannelsList() {
-            channelsListElement.innerHTML = '';
-            
-            channels.forEach((channel, index) => {
-                const channelElement = document.createElement('button');
-                channelElement.className = index === currentChannelIndex ? 'channel-btn active' : 'channel-btn';
-                
-                // عرض فقط اسم القناة وشعارها
-                channelElement.innerHTML = `
-                    <img src="${channel.logo}" alt="${channel.name}" class="channel-logo">
-                    <div style="flex-grow: 1;">
-                        <div class="channel-title">${channel.name}</div>
-                        <div style="font-size: 0.8rem; color: #ccc;">beIN Sports ${channel.id}</div>
-                    </div>
-                `;
-                
-                channelElement.addEventListener('click', () => {
-                    currentChannelIndex = index;
-                    loadChannel(channel);
-                    updateActiveChannel();
-                });
-                
-                channelsListElement.appendChild(channelElement);
-            });
-        }
+body::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: 
+    radial-gradient(circle at 20% 80%, rgba(120, 119, 198, 0.3) 0%, transparent 50%),
+    radial-gradient(circle at 80% 20%, rgba(255, 119, 198, 0.3) 0%, transparent 50%);
+  z-index: -1;
+}
 
-        // تحديث القناة النشطة في القائمة
-        function updateActiveChannel() {
-            const channelButtons = document.querySelectorAll('.channel-btn');
-            channelButtons.forEach((btn, index) => {
-                if (index === currentChannelIndex) {
-                    btn.classList.add('active');
-                } else {
-                    btn.classList.remove('active');
-                }
-            });
-        }
+.glass-panel {
+  background: var(--glass-bg);
+  backdrop-filter: var(--blur);
+  border: 1px solid var(--glass-border);
+  border-radius: 16px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+}
 
-        // تحميل وتشغيل القناة
-        function loadChannel(channel) {
-            // تحديث معلومات القناة الحالية
-            currentChannelElement.textContent = channel.name;
-            
-            // إيقاف أي تدفق سابق
-            if (hls) {
-                hls.destroy();
-            }
-            
-            // تحقق إذا كان المتصفح يدعم HLS بشكل مباشر
-            if (videoElement.canPlayType('application/vnd.apple.mpegurl')) {
-                videoElement.src = channel.url;
-                videoElement.play();
-            } 
-            // استخدم hls.js للمتصفحات الأخرى
-            else if (Hls.isSupported()) {
-                hls = new Hls();
-                hls.loadSource(channel.url);
-                hls.attachMedia(videoElement);
-                hls.on(Hls.Events.MANIFEST_PARSED, function() {
-                    videoElement.play();
-                });
-            } 
-            // رسالة خطأ إذا لم يدعم المتصفح أي من الخيارات
-            else {
-                alert('المتصفح الخاص بك لا يدعم تشغيل هذا النوع من الفيديو');
-            }
-        }
+.header {
+  text-align: center;
+  padding: 20px;
+  margin-bottom: 15px;
+}
 
-        // إعداد مستمعي الأحداث
-        function setupEventListeners() {
-            // زر التشغيل
-            playBtn.addEventListener('click', () => {
-                videoElement.play();
-            });
-            
-            // زر الإيقاف المؤقت
-            pauseBtn.addEventListener('click', () => {
-                videoElement.pause();
-            });
-            
-            // زر كتم الصوت
-            muteBtn.addEventListener('click', () => {
-                isMuted = !isMuted;
-                videoElement.muted = isMuted;
-                muteBtn.textContent = isMuted ? "إلغاء كتم الصوت" : "كتم الصوت";
-            });
-            
-            // زر ملء الشاشة
-            fullscreenBtn.addEventListener('click', () => {
-                if (videoElement.requestFullscreen) {
-                    videoElement.requestFullscreen();
-                } else if (videoElement.mozRequestFullScreen) { // فايرفوكس
-                    videoElement.mozRequestFullScreen();
-                } else if (videoElement.webkitRequestFullscreen) { // كروم، سفاري
-                    videoElement.webkitRequestFullscreen();
-                } else if (videoElement.msRequestFullscreen) { // انترنت إكسبلورر/إيدج
-                    videoElement.msRequestFullscreen();
-                }
-            });
-            
-            // عرض رسالة عند حدوث خطأ في الفيديو
-            videoElement.addEventListener('error', (e) => {
-                console.error('خطأ في تشغيل الفيديو:', e);
-                currentChannelElement.innerHTML = `<span style="color:#ff6b6b">خطأ في تحميل ${channels[currentChannelIndex].name}</span>`;
-            });
-            
-            // تحديث زر التشغيل/الإيقاف بناءً على حالة الفيديو
-            videoElement.addEventListener('play', () => {
-                playBtn.textContent = "تشغيل";
-            });
-            
-            videoElement.addEventListener('pause', () => {
-                playBtn.textContent = "استئناف";
-            });
-        }
+.header h1 {
+  font-size: 2rem;
+  background: linear-gradient(135deg, #fff 0%, #e2e8ff 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  margin-bottom: 5px;
+}
 
-        // تهيئة الصفحة عند تحميلها
-        document.addEventListener('DOMContentLoaded', initPage);
-    </script>
+.subtitle {
+  color: rgba(255, 255, 255, 0.8);
+  font-size: 0.9rem;
+}
+
+.telegram-link {
+  margin-top: 10px;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: rgba(0, 136, 204, 0.2);
+  padding: 8px 16px;
+  border-radius: 12px;
+  color: white;
+  text-decoration: none;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.telegram-link:hover {
+  background: rgba(0, 136, 204, 0.3);
+  transform: translateY(-2px);
+}
+
+.search-section {
+  margin-bottom: 15px;
+  padding: 15px;
+}
+
+.search-box {
+  width: 100%;
+  padding: 12px 18px;
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 12px;
+  font-family: 'Cairo', sans-serif;
+  font-size: 14px;
+  color: white;
+  outline: none;
+  transition: all 0.3s ease;
+}
+
+.search-box::placeholder {
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.search-box.focused {
+  background: rgba(255, 255, 255, 0.15);
+  border: 2px solid rgba(67, 97, 238, 0.6);
+  box-shadow: 0 0 15px rgba(67, 97, 238, 0.3);
+}
+
+.filter-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 15px;
+  justify-content: center;
+}
+
+.filter-btn {
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  color: rgba(255, 255, 255, 0.9);
+  padding: 8px 16px;
+  border-radius: 12px;
+  cursor: pointer;
+  font-family: 'Cairo', sans-serif;
+  font-weight: 600;
+  font-size: 0.8rem;
+  transition: all 0.3s ease;
+}
+
+.filter-btn.active, .filter-btn.focused {
+  background: rgba(67, 97, 238, 0.3);
+  border-color: rgba(67, 97, 238, 0.6);
+  box-shadow: 0 0 10px rgba(67, 97, 238, 0.3);
+}
+
+.channels-section {
+  padding: 15px;
+}
+
+.channels-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+}
+
+.channel-card {
+  background: rgba(255, 255, 255, 0.08);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 12px;
+  padding: 12px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  min-height: 120px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.channel-card:hover {
+  background: rgba(255, 255, 255, 0.12);
+  border-color: rgba(255, 255, 255, 0.2);
+  transform: translateY(-2px);
+}
+
+.channel-card.focused {
+  background: rgba(67, 97, 238, 0.2);
+  border: 2px solid rgba(67, 97, 238, 0.6);
+  transform: scale(1.05);
+  box-shadow: 0 0 20px rgba(67, 97, 238, 0.4);
+}
+
+.channel-logo {
+  width: 50px;
+  height: 50px;
+  object-fit: contain;
+  border-radius: 8px;
+  margin-bottom: 8px;
+}
+
+.channel-name {
+  font-weight: 600;
+  color: white;
+  font-size: 0.9rem;
+  text-align: center;
+  margin-bottom: 4px;
+}
+
+.quality-badge {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  background: rgba(67, 97, 238, 0.8);
+  color: white;
+  padding: 3px 6px;
+  border-radius: 6px;
+  font-size: 0.6rem;
+  font-weight: 600;
+}
+
+.live-badge {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  background: rgba(247, 37, 133, 0.8);
+  color: white;
+  padding: 3px 6px;
+  border-radius: 6px;
+  font-size: 0.6rem;
+  font-weight: 600;
+}
+
+.group-header {
+  grid-column: 1 / -1;
+  font-size: 1.2rem;
+  font-weight: 700;
+  margin: 20px 0 10px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+  color: white;
+}
+
+.loading {
+  text-align: center;
+  padding: 40px 20px;
+  color: white;
+  grid-column: 1 / -1;
+}
+
+.spinner {
+  width: 30px;
+  height: 30px;
+  border: 3px solid rgba(255, 255, 255, 0.3);
+  border-top: 3px solid white;
+  border-radius: 50%;
+  margin: 0 auto 15px;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+.no-results {
+  text-align: center;
+  padding: 30px;
+  color: rgba(255, 255, 255, 0.6);
+  grid-column: 1 / -1;
+}
+
+.remote-controls {
+  position: fixed;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: none;
+  gap: 10px;
+  background: rgba(0, 0, 0, 0.7);
+  padding: 15px;
+  border-radius: 20px;
+  backdrop-filter: blur(10px);
+  z-index: 1000;
+}
+
+.remote-btn {
+  width: 50px;
+  height: 50px;
+  background: rgba(255, 255, 255, 0.2);
+  border: none;
+  border-radius: 12px;
+  color: white;
+  font-size: 1.2rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+}
+
+.remote-btn:active {
+  background: rgba(255, 255, 255, 0.3);
+  transform: scale(0.95);
+}
+
+@media (max-width: 768px) {
+  .channels-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 480px) {
+  .channels-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (min-width: 1024px) {
+  .remote-controls {
+    display: flex;
+  }
+}
+</style>
+</head> 
+
+<body> 
+
+<header class="header glass-panel">
+  <h1>العُبودي TV</h1>
+  <div class="subtitle">منصة IPTV متطورة</div>
+  <a href="https://t.me/stlaet1" class="telegram-link" target="_blank">
+    <span>تابعونا على التلكرام</span>
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+      <path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm5.894 8.221l-1.97 9.28c-.145.658-.537.818-1.084.508l-3-2.21-1.447 1.394c-.14.141-.259.259-.374.261l.213-3.053 5.56-5.022c.24-.213-.054-.334-.373-.121l-6.869 4.326-2.96-.924c-.64-.203-.658-.64.136-.954l11.566-4.458c.538-.196 1.006.128.832.941z"></path>
+    </svg>
+  </a>
+</header> 
+
+<section class="search-section glass-panel">
+  <input type="text" id="search-input" class="search-box" placeholder="ابحث عن قناة...">
+</section>
+
+<div class="filter-buttons" id="filter-buttons">
+  <!-- سيتم إنشاء أزرار التصفية ديناميكياً -->
+</div>
+
+<section class="channels-section glass-panel">
+  <div id="loading" class="loading">
+    <div class="spinner"></div>
+    جاري تحميل القنوات...
+  </div>
+  <div class="channels-grid" id="channels"></div>
+</section>
+
+<div class="remote-controls">
+  <button class="remote-btn" onclick="navigateRemote('up')">⬆️</button>
+  <div style="display: flex; flex-direction: column; gap: 5px;">
+    <button class="remote-btn" onclick="navigateRemote('left')">⬅️</button>
+    <button class="remote-btn" onclick="activateCurrent()">⏺️</button>
+    <button class="remote-btn" onclick="navigateRemote('right')">➡️</button>
+  </div>
+  <button class="remote-btn" onclick="navigateRemote('down')">⬇️</button>
+</div>
+
+<script>
+const channelsData = [
+  {
+    name: "بين سبورت 1",
+    logo: "https://www.universfreebox.com/wp-content/uploads/2019/07/beinsportlarge2-800x450-c-default.jpg",
+    group: "beIN Sports",
+    category: "رياضي",
+    url: "https://raw.githubusercontent.com/KDNTV/TVT/refs/heads/main/vp1.m3u8",
+    quality: "HD",
+    status: "مباشر",
+    bitrate: "عالية"
+  },
+  {
+    name: "بين سبورت 2",
+    logo: "https://www.universfreebox.com/wp-content/uploads/2019/07/beinsportlarge2-800x450-c-default.jpg",
+    group: "beIN Sports",
+    category: "رياضي",
+    url: "https://raw.githubusercontent.com/KDNTV/TVT/refs/heads/main/vp2.m3u8",
+    quality: "HD",
+    status: "مباشر",
+    bitrate: "عالية"
+  },
+  {
+    name: "بين سبورت 3",
+    logo: "https://www.universfreebox.com/wp-content/uploads/2019/07/beinsportlarge2-800x450-c-default.jpg",
+    group: "beIN Sports",
+    category: "رياضي",
+    url: "https://raw.githubusercontent.com/KDNTV/TVT/refs/heads/main/vp3.m3u8",
+    quality: "HD",
+    status: "مباشر",
+    bitrate: "عالية"
+  },
+  {
+    name: "بين سبورت 4",
+    logo: "https://www.universfreebox.com/wp-content/uploads/2019/07/beinsportlarge2-800x450-c-default.jpg",
+    group: "beIN Sports",
+    category: "رياضي",
+    url: "https://raw.githubusercontent.com/alysjc7-dot/math/refs/heads/main/to4.m3u8",
+    quality: "HD",
+    status: "مباشر",
+    bitrate: "عالية"
+  }
+];
+
+let allChannels = [];
+let currentFilter = "all";
+let currentFocusIndex = 0;
+let channelCards = [];
+let filterButtons = [];
+let currentSection = 'channels'; // Start with channels focused
+const searchInput = document.getElementById('search-input');
+
+function loadChannels() {
+  try {
+    allChannels = channelsData;
+    createFilterButtons();
+    displayChannels(allChannels);
+    setupRemoteNavigation();
+    
+    searchInput.addEventListener('input', function(e) {
+      const searchTerm = e.target.value.toLowerCase();
+      const filteredChannels = allChannels.filter(channel => 
+        channel.name.toLowerCase().includes(searchTerm) || 
+        channel.group.toLowerCase().includes(searchTerm)
+      );
+      displayChannels(filteredChannels);
+      setupRemoteNavigation();
+    });
+
+  } catch (e) {
+    document.getElementById("loading").innerHTML = "❌ فشل تحميل القنوات";
+  }
+} 
+
+function createFilterButtons() {
+  const filterContainer = document.getElementById("filter-buttons");
+  filterContainer.innerHTML = '';
+  
+  const categories = [...new Set(allChannels.map(ch => ch.category))];
+  
+  const allButton = document.createElement("button");
+  allButton.className = "filter-btn active";
+  allButton.textContent = "الكل";
+  allButton.onclick = () => filterChannels("all");
+  filterContainer.appendChild(allButton);
+  
+  categories.forEach(category => {
+    const button = document.createElement("button");
+    button.className = "filter-btn";
+    button.textContent = category;
+    button.onclick = () => filterChannels(category);
+    filterContainer.appendChild(button);
+  });
+  
+  filterButtons = Array.from(document.querySelectorAll('.filter-btn'));
+}
+
+function filterChannels(category) {
+  currentFilter = category;
+  
+  filterButtons.forEach(btn => {
+    btn.classList.remove('active');
+  });
+  
+  event.target.classList.add('active');
+  
+  const filteredChannels = category === "all" 
+    ? allChannels 
+    : allChannels.filter(ch => ch.category === category);
+  
+  displayChannels(filteredChannels);
+  setupRemoteNavigation();
+}
+
+function displayChannels(channels) {
+  const grid = document.getElementById("channels");
+  grid.innerHTML = "";
+
+  if (channels.length === 0) {
+    grid.innerHTML = '<div class="no-results">لم يتم العثور على قنوات</div>';
+    return;
+  }
+
+  const groupedChannels = {};
+  channels.forEach(ch => {
+    if (!groupedChannels[ch.group]) {
+      groupedChannels[ch.group] = [];
+    }
+    groupedChannels[ch.group].push(ch);
+  });
+
+  for (const group in groupedChannels) {
+    const groupHeader = document.createElement("div");
+    groupHeader.className = "group-header";
+    groupHeader.textContent = group;
+    grid.appendChild(groupHeader);
+    
+    groupedChannels[group].forEach(ch => {
+      const card = document.createElement("div");
+      card.className = "channel-card";
+      card.tabIndex = 0;
+      
+      card.innerHTML = `
+        <img src="${ch.logo}" alt="${ch.name}" class="channel-logo">
+        <div class="quality-badge">${ch.quality}</div>
+        <div class="live-badge">LIVE</div>
+        <div class="channel-name">${ch.name}</div>
+      `;
+      
+      if (ch.url && ch.url.trim() !== "") {
+        card.onclick = () => location.href = ch.url;
+      } else {
+        card.style.opacity = "0.6";
+        card.style.cursor = "not-allowed";
+      }
+      
+      grid.appendChild(card);
+    });
+  }
+
+  document.getElementById("loading").style.display = "none";
+} 
+
+function setupRemoteNavigation() {
+  channelCards = Array.from(document.querySelectorAll('.channel-card'));
+  filterButtons = Array.from(document.querySelectorAll('.filter-btn'));
+  currentFocusIndex = 0;
+  
+  // Clear all focus
+  searchInput.classList.remove('focused');
+  filterButtons.forEach(btn => btn.classList.remove('focused'));
+  channelCards.forEach(card => card.classList.remove('focused'));
+  
+  if (channelCards.length > 0) {
+    channelCards[currentFocusIndex].classList.add('focused');
+    channelCards[currentFocusIndex].focus();
+  }
+  
+  // Keyboard navigation
+  document.addEventListener('keydown', function(e) {
+    switch(e.key) {
+      case 'ArrowUp':
+        e.preventDefault();
+        navigateRemote('up');
+        break;
+      case 'ArrowDown':
+        e.preventDefault();
+        navigateRemote('down');
+        break;
+      case 'ArrowLeft':
+        e.preventDefault();
+        navigateRemote('left');
+        break;
+      case 'ArrowRight':
+        e.preventDefault();
+        navigateRemote('right');
+        break;
+      case 'Enter':
+        e.preventDefault();
+        activateCurrent();
+        break;
+    }
+  });
+}
+
+function navigateRemote(direction) {
+  if (channelCards.length === 0) return;
+  
+  const oldIndex = currentFocusIndex;
+  let newIndex = currentFocusIndex;
+  const columns = 3;
+  
+  switch(direction) {
+    case 'up':
+      newIndex = Math.max(0, currentFocusIndex - columns);
+      break;
+    case 'down':
+      newIndex = Math.min(channelCards.length - 1, currentFocusIndex + columns);
+      break;
+    case 'left':
+      newIndex = Math.max(0, currentFocusIndex - 1);
+      break;
+    case 'right':
+      newIndex = Math.min(channelCards.length - 1, currentFocusIndex + 1);
+      break;
+  }
+  
+  if (newIndex !== oldIndex) {
+    channelCards[oldIndex].classList.remove('focused');
+    channelCards[newIndex].classList.add('focused');
+    channelCards[newIndex].focus();
+    currentFocusIndex = newIndex;
+    
+    // Scroll into view
+    channelCards[newIndex].scrollIntoView({
+      behavior: 'smooth',
+      block: 'center'
+    });
+  }
+}
+
+function activateCurrent() {
+  if (channelCards.length > 0 && channelCards[currentFocusIndex].style.cursor !== 'not-allowed') {
+    channelCards[currentFocusIndex].click();
+  }
+}
+
+// Simple search focus for when user wants to type
+searchInput.addEventListener('focus', () => {
+  // Clear channel focus when searching
+  channelCards.forEach(card => card.classList.remove('focused'));
+});
+
+loadChannels();
+</script> 
+
 </body>
 </html>
