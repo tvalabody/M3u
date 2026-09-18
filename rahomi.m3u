@@ -91,7 +91,152 @@ http://ibo.lynxiptv.com/live/273245633226/a3Kntn4zO4/196162.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="BEIN SPORT NM 4K",BEIN SPORT 7
 http://ibo.lynxiptv.com/live/273245633226/a3Kntn4zO4/196163.m3u8
 
-
+#EXTINF:-1 tvg-id="1" tvg-name="beIN Sports 1 HD" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="Live TV",beIN Sports 1 HD
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/1.ts
+#EXTINF:-1 tvg-id="108161" tvg-name="beIN Sports 1 HD BEE TV" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="Live TV",beIN Sports 1 HD BEE TV
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/108161.ts
+#EXTINF:-1 tvg-id="1121789" tvg-name="beIN Sports 1 APPEL" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="Live TV",beIN Sports 1 APPEL
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/1121789.ts
+#EXTINF:-1 tvg-id="272468" tvg-name="BEIN SPORTS 1 TOD" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="Live TV",BEIN SPORTS 1 TOD
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/272468.ts
+#EXTINF:-1 tvg-id="114053" tvg-name="beIN Sports 1 4K" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="Live TV",beIN Sports 1 4K
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/114053.ts
+#EXTINF:-1 tvg-id="3854" tvg-name="beIN Sports 1 UHD" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="Live TV",beIN Sports 1 UHD
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/3854.ts
+#EXTINF:-1 tvg-id="2541" tvg-name="beIN Sports 1 SD" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="Live TV",beIN Sports 1 SD
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/2541.ts
+#EXTINF:-1 tvg-id="245836" tvg-name="beIN SPORTS 1 SD BEE TV" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="Live TV",beIN SPORTS 1 SD BEE TV
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/245836.ts
+#EXTINF:-1 tvg-id="2" tvg-name="beIN Sports 2 HD" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="Live TV",beIN Sports 2 HD
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/2.ts
+#EXTINF:-1 tvg-id="108162" tvg-name="beIN Sports 2 HD BEE TV" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="Live TV",beIN Sports 2 HD BEE TV
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/108162.ts
+#EXTINF:-1 tvg-id="1121790" tvg-name="beIN Sports 2 APPEL" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="Live TV",beIN Sports 2 APPEL
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/1121790.ts
+#EXTINF:-1 tvg-id="272467" tvg-name="BEIN SPORTS 2 TOD" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="Live TV",BEIN SPORTS 2 TOD
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/272467.ts
+#EXTINF:-1 tvg-id="114052" tvg-name="beIN Sports 2 4K" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="Live TV",beIN Sports 2 4K
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/114052.ts
+#EXTINF:-1 tvg-id="3853" tvg-name="beIN Sports 2 UHD" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="Live TV",beIN Sports 2 UHD
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/3853.ts
+#EXTINF:-1 tvg-id="2540" tvg-name="beIN Sports 2 SD" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="Live TV",beIN Sports 2 SD
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/2540.ts
+#EXTINF:-1 tvg-id="245835" tvg-name="beIN SPORTS 2 SD BEE TV" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="Live TV",beIN SPORTS 2 SD BEE TV
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/245835.ts
+#EXTINF:-1 tvg-id="4" tvg-name="beIN Sports 3 HD" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="Live TV",beIN Sports 3 HD
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/4.ts
+#EXTINF:-1 tvg-id="108164" tvg-name="beIN Sports 3 HD BEEE TV" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="Live TV",beIN Sports 3 HD BEEE TV
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/108164.ts
+#EXTINF:-1 tvg-id="1121791" tvg-name="beIN Sports 3 APPEL" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="Live TV",beIN Sports 3 APPEL
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/1121791.ts
+#EXTINF:-1 tvg-id="272465" tvg-name="BEIN SPORTS 3 TOD" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="Live TV",BEIN SPORTS 3 TOD
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/272465.ts
+#EXTINF:-1 tvg-id="114050" tvg-name="beIN Sports 3 4K" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="Live TV",beIN Sports 3 4K
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/114050.ts
+#EXTINF:-1 tvg-id="3851" tvg-name="beIN Sports 3 UHD" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="Live TV",beIN Sports 3 UHD
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/3851.ts
+#EXTINF:-1 tvg-id="2538" tvg-name="beIN Sports 3 SD" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="Live TV",beIN Sports 3 SD
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/2538.ts
+#EXTINF:-1 tvg-id="245833" tvg-name="beIN SPORTS 3 SD BEE TV" tvg-logo="http://57.128.182.77:8080/BEIN/bein/BEIN1.png" group-title="Live TV",beIN SPORTS 3 SD BEE TV
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/245833.ts
+#EXTINF:-1 tvg-id="5" tvg-name="beIN Sports 4 HD" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="Live TV",beIN Sports 4 HD
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/5.ts
+#EXTINF:-1 tvg-id="108165" tvg-name="beIN Sports 4 HD BEE TV" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="Live TV",beIN Sports 4 HD BEE TV
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/108165.ts
+#EXTINF:-1 tvg-id="1121792" tvg-name="beIN Sports 4 APPEL" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="Live TV",beIN Sports 4 APPEL
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/1121792.ts
+#EXTINF:-1 tvg-id="272464" tvg-name="BEIN SPORTS 4 TOD" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="Live TV",BEIN SPORTS 4 TOD
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/272464.ts
+#EXTINF:-1 tvg-id="114049" tvg-name="beIN Sports 4 4K" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="Live TV",beIN Sports 4 4K
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/114049.ts
+#EXTINF:-1 tvg-id="3850" tvg-name="beIN Sports 4 UHD" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="Live TV",beIN Sports 4 UHD
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/3850.ts
+#EXTINF:-1 tvg-id="10795" tvg-name="beIN Sports 4 SD" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="Live TV",beIN Sports 4 SD
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/10795.ts
+#EXTINF:-1 tvg-id="245832" tvg-name="beIN SPORTS 4 SD BEE TV" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="Live TV",beIN SPORTS 4 SD BEE TV
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/245832.ts
+#EXTINF:-1 tvg-id="6" tvg-name="beIN Sports 5 HD" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="Live TV",beIN Sports 5 HD
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/6.ts
+#EXTINF:-1 tvg-id="108166" tvg-name="beIN Sports 5 HD BEE TV" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="Live TV",beIN Sports 5 HD BEE TV
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/108166.ts
+#EXTINF:-1 tvg-id="1121793" tvg-name="beIN Sports 5 APPEL" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="Live TV",beIN Sports 5 APPEL
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/1121793.ts
+#EXTINF:-1 tvg-id="272463" tvg-name="BEIN SPORTS 5 TOD" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="Live TV",BEIN SPORTS 5 TOD
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/272463.ts
+#EXTINF:-1 tvg-id="114048" tvg-name="beIN Sports 5 4K" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="Live TV",beIN Sports 5 4K
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/114048.ts
+#EXTINF:-1 tvg-id="3849" tvg-name="beIN Sports 5 UHD" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="Live TV",beIN Sports 5 UHD
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/3849.ts
+#EXTINF:-1 tvg-id="2536" tvg-name="beIN Sports 5 SD" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="Live TV",beIN Sports 5 SD
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/2536.ts
+#EXTINF:-1 tvg-id="245831" tvg-name="beIN SPORTS 5 SD BEE TV" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="Live TV",beIN SPORTS 5 SD BEE TV
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/245831.ts
+#EXTINF:-1 tvg-id="7" tvg-name="beIN Sports 6 HD" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="Live TV",beIN Sports 6 HD
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/7.ts
+#EXTINF:-1 tvg-id="108167" tvg-name="beIN Sports 6 HD BEE TV" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="Live TV",beIN Sports 6 HD BEE TV
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/108167.ts
+#EXTINF:-1 tvg-id="1121794" tvg-name="beIN Sports 6 APPEL" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="Live TV",beIN Sports 6 APPEL
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/1121794.ts
+#EXTINF:-1 tvg-id="272462" tvg-name="BEIN SPORTS 6 TOD" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="Live TV",BEIN SPORTS 6 TOD
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/272462.ts
+#EXTINF:-1 tvg-id="114047" tvg-name="beIN Sports 6 4K" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="Live TV",beIN Sports 6 4K
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/114047.ts
+#EXTINF:-1 tvg-id="3848" tvg-name="beIN Sports 6 UHD" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="Live TV",beIN Sports 6 UHD
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/3848.ts
+#EXTINF:-1 tvg-id="2535" tvg-name="beIN Sports 6 SD" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="Live TV",beIN Sports 6 SD
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/2535.ts
+#EXTINF:-1 tvg-id="245830" tvg-name="beIN SPORTS 6 SD BEE TV" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="Live TV",beIN SPORTS 6 SD BEE TV
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/245830.ts
+#EXTINF:-1 tvg-id="8" tvg-name="beIN Sports 7 HD" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="Live TV",beIN Sports 7 HD
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/8.ts
+#EXTINF:-1 tvg-id="108168" tvg-name="beIN Sports 7 HD BEE TV" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="Live TV",beIN Sports 7 HD BEE TV
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/108168.ts
+#EXTINF:-1 tvg-id="1121795" tvg-name="beIN Sports 7 APPEL" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="Live TV",beIN Sports 7 APPEL
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/1121795.ts
+#EXTINF:-1 tvg-id="272461" tvg-name="BEIN SPORTS 7 TOD" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="Live TV",BEIN SPORTS 7 TOD
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/272461.ts
+#EXTINF:-1 tvg-id="114046" tvg-name="beIN Sports 7 4K" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="Live TV",beIN Sports 7 4K
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/114046.ts
+#EXTINF:-1 tvg-id="3847" tvg-name="beIN Sports 7 UHD" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="Live TV",beIN Sports 7 UHD
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/3847.ts
+#EXTINF:-1 tvg-id="2534" tvg-name="beIN Sports 7 SD" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="Live TV",beIN Sports 7 SD
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/2534.ts
+#EXTINF:-1 tvg-id="245829" tvg-name="beIN SPORTS 7 SD BEE TV" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="Live TV",beIN SPORTS 7 SD BEE TV
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/245829.ts
+#EXTINF:-1 tvg-id="9" tvg-name="beIN Sports 8 HD" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT8HD.png" group-title="Live TV",beIN Sports 8 HD
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/9.ts
+#EXTINF:-1 tvg-id="108169" tvg-name="beIN Sports 8 HD BEE TV" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT8HD.png" group-title="Live TV",beIN Sports 8 HD BEE TV
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/108169.ts
+#EXTINF:-1 tvg-id="1121796" tvg-name="beIN Sports 8 APPEL" tvg-logo="" group-title="Live TV",beIN Sports 8 APPEL
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/1121796.ts
+#EXTINF:-1 tvg-id="272460" tvg-name="BEIN SPORTS 8 TOD" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT8HD.png" group-title="Live TV",BEIN SPORTS 8 TOD
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/272460.ts
+#EXTINF:-1 tvg-id="114045" tvg-name="beIN Sports 8 4K" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT8HD.png" group-title="Live TV",beIN Sports 8 4K
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/114045.ts
+#EXTINF:-1 tvg-id="10361" tvg-name="beIN Sports 8 UHD" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT8HD.png" group-title="Live TV",beIN Sports 8 UHD
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/10361.ts
+#EXTINF:-1 tvg-id="2533" tvg-name="beIN Sports 8 SD" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT8HD.png" group-title="Live TV",beIN Sports 8 SD
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/2533.ts
+#EXTINF:-1 tvg-id="245828" tvg-name="beIN SPORTS 8 SD BEE TV" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT8HD.png" group-title="Live TV",beIN SPORTS 8 SD BEE TV
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/245828.ts
+#EXTINF:-1 tvg-id="10" tvg-name="beIN Sports 9 HD" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT9HD.png" group-title="Live TV",beIN Sports 9 HD
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/10.ts
+#EXTINF:-1 tvg-id="578836" tvg-name="beIN Sports 9 ᴴᴰ" tvg-logo="" group-title="Live TV",beIN Sports 9 ᴴᴰ
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/578836.ts
+#EXTINF:-1 tvg-id="108170" tvg-name="beIN Sports 9 HD BEE TV" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT9HD.png" group-title="Live TV",beIN Sports 9 HD BEE TV
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/108170.ts
+#EXTINF:-1 tvg-id="1121797" tvg-name="beIN Sports 9 APPEL" tvg-logo="" group-title="Live TV",beIN Sports 9 APPEL
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/1121797.ts
+#EXTINF:-1 tvg-id="272459" tvg-name="BEIN SPORTS 9 TOD" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT9HD.png" group-title="Live TV",BEIN SPORTS 9 TOD
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/272459.ts
+#EXTINF:-1 tvg-id="114044" tvg-name="beIN Sports 9 4K" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT9HD.png" group-title="Live TV",beIN Sports 9 4K
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/114044.ts
+#EXTINF:-1 tvg-id="10362" tvg-name="beIN Sports 9 UHD" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT9HD.png" group-title="Live TV",beIN Sports 9 UHD
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/10362.ts
+#EXTINF:-1 tvg-id="2532" tvg-name="beIN Sports 9 SD" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT9HD.png" group-title="Live TV",beIN Sports 9 SD
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/2532.ts
+#EXTINF:-1 tvg-id="245827" tvg-name="beIN SP⚽RTS 9 SD" tvg-logo="http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT9HD.png" group-title="Live TV",beIN SP⚽RTS 9 SD
+http://goodv3.me/live/Ayouragadi_436727/i2uTCyFY/245827.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="ألوان الرياضية",ألوان 1
 http://pro.netmos.ovh:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181661.ts
