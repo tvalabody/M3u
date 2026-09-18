@@ -145,7 +145,27 @@ http://mag.tiger-ott.net:80/live/TN78EZ/9NPKXL/1744973.ts
 #EXTINF:-1 group-title="┃AR┃ TOD SPORT",┃AR┃ TOD BEIN EVENT 26
 http://mag.tiger-ott.net:80/live/TN78EZ/9NPKXL/1744974.ts
 #EXTM3U
-
+#EXTM3U
+#EXTINF:-1 group-title="┃AR┃ AL KASS SPORT",┃AR┃ AL KASS 1 4K
+http://mag.tiger-ott.net:80/live/TN78EZ/9NPKXL/242232.ts
+#EXTINF:-1 group-title="┃AR┃ AL KASS SPORT",┃AR┃ AL KASS 1 HD
+http://mag.tiger-ott.net:80/live/TN78EZ/9NPKXL/712436.ts
+#EXTINF:-1 group-title="┃AR┃ AL KASS SPORT",┃AR┃ AL KASS 2 4K
+http://mag.tiger-ott.net:80/live/TN78EZ/9NPKXL/242231.ts
+#EXTINF:-1 group-title="┃AR┃ AL KASS SPORT",┃AR┃ AL KASS 2 HD
+http://mag.tiger-ott.net:80/live/TN78EZ/9NPKXL/712437.ts
+#EXTINF:-1 group-title="┃AR┃ AL KASS SPORT",┃AR┃ AL KASS 3 4K
+http://mag.tiger-ott.net:80/live/TN78EZ/9NPKXL/242229.ts
+#EXTINF:-1 group-title="┃AR┃ AL KASS SPORT",┃AR┃ AL KASS 3 HD
+http://mag.tiger-ott.net:80/live/TN78EZ/9NPKXL/712438.ts
+#EXTINF:-1 group-title="┃AR┃ AL KASS SPORT",┃AR┃ AL KASS 4 4K
+http://mag.tiger-ott.net:80/live/TN78EZ/9NPKXL/242230.ts
+#EXTINF:-1 group-title="┃AR┃ AL KASS SPORT",┃AR┃ AL KASS 4 HD
+http://mag.tiger-ott.net:80/live/TN78EZ/9NPKXL/712439.ts
+#EXTINF:-1 group-title="┃AR┃ AL KASS SPORT",┃AR┃ AL KASS 5 4K
+http://mag.tiger-ott.net:80/live/TN78EZ/9NPKXL/242228.ts
+#EXTINF:-1 group-title="┃AR┃ AL KASS SPORT",┃AR┃ AL KASS 5 HD
+http://mag.tiger-ott.net:80/live/TN78EZ/9NPKXL/712440.ts
 #EXTM3U
 #EXTM3
 #EXTINF:-1 group-title="┃AR┃ SHAHID VIP | شاهد VIP",┃AR┃ SHAHID VIP ACTION HD
