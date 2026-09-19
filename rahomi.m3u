@@ -88,6 +88,18 @@ http://cname1.elg-26.com:8080/live/Abdo20250505/hze7pmru27/5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="بين سبورت",بين 5
 http://cname1.elg-26.com:8080/live/Abdo20250505/hze7pmru27/6.m3u8
 
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="بين سبورت  دقة متوسطه",بين 1
+http://a.norzro.cfd/live/8667593288/2505245402/212313.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="بين سبورت  دقة متوسطه",بين 2
+http://a.norzro.cfd/live/8667593288/2505245402/212314.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="بين سبورت  دقة متوسطه",بين 3
+http://a.norzro.cfd/live/8667593288/2505245402/212315.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="بين سبورت  دقة متوسطه",بين 4
+http://a.norzro.cfd/live/8667593288/2505245402/212316.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="بين سبورت  دقة متوسطه",بين 5
+http://a.norzro.cfd/live/8667593288/2505245402/212317.ts
+
 
 
 
