@@ -78,33 +78,6 @@ https://www.manar2.shop/x1/63_1.m3u8
 https://www.manar2.shop/x1/63_0.m3u8
 
 #EXTM3U
-
-#EXTINF:-1,الكاس 1
-https://uruk.optikl.ink/rs/reds_api.php?stream=1779681796_0.m3u8
-
-#EXTINF:-1,الكاس 2
-https://uruk.optikl.ink/rs/reds_api.php?stream=1779682005_0.m3u8
-
-#EXTINF:-1,الكاس 3
-https://uruk.optikl.ink/rs/reds_api.php?stream=1779682041_0.m3u8
-
-#EXTINF:-1,الكاس 4
-https://uruk.optikl.ink/rs/reds_api.php?stream=1779682086_0.m3u8
-
-#EXTINF:-1,الكاس 5
-https://uruk.optikl.ink/rs/reds_api.php?stream=1779682124_0.m3u8
-
-#EXTINF:-1,الكاس 6
-https://uruk.optikl.ink/rs/reds_api.php?stream=1779682166_0.m3u8
-
-#EXTINF:-1,الكاس 7
-https://uruk.optikl.ink/rs/reds_api.php?stream=1788276728_0.m3u8
-
-#EXTINF:-1,الكاس 8
-https://uruk.optikl.ink/rs/reds_api.php?stream=1788276736_0.m3u8
-
-
-#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TOD SPORTS",Athlos: London Round - Tree Rounds
 http://ibo.lynxiptv.com/live/273245633226/a3Kntn4zO4/297279.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TOD SPORTS",World Series of Darts Finals: 1st Round - Day 2
