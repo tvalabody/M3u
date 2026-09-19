@@ -76,6 +76,20 @@ https://www.manar2.shop/x1/62_0.m3u8
 https://www.manar2.shop/x1/63_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="بين سبورت AP",بين سبورت 5 FHD
 https://www.manar2.shop/x1/63_0.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="بين سبورت",بين 1 
+http://cname1.elg-26.com:8080/live/Abdo20250505/hze7pmru27/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="بين سبورت",بين 2
+http://cname1.elg-26.com:8080/live/Abdo20250505/hze7pmru27/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="بين سبورت",بين 3
+http://cname1.elg-26.com:8080/live/Abdo20250505/hze7pmru27/4.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="بين سبورت",بين 4
+http://cname1.elg-26.com:8080/live/Abdo20250505/hze7pmru27/5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="بين سبورت",بين 5
+http://cname1.elg-26.com:8080/live/Abdo20250505/hze7pmru27/6.m3u8
+
+
+
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TOD SPORTS",Athlos: London Round - Tree Rounds
