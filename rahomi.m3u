@@ -60,6 +60,19 @@ http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652340?token=ShJdY2ZmQQNHCmMZC
 #EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="بين سبورت FHD",BEIN SPORTS FHD 9
 http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652341?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ
 
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="BEIN SPORT NEW",BEIN SPORT 1
+http://asmr4k.pro:8080/live/67389201934/0572884955/497111.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="BEIN SPORT NEW",BEIN SPORT 2
+http://asmr4k.pro:8080/live/67389201934/0572884955/497112.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="BEIN SPORT NEW",BEIN SPORT 3
+http://asmr4k.pro:8080/live/67389201934/0572884955/497113.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="BEIN SPORT NEW",BEIN SPORT 4
+http://asmr4k.pro:8080/live/67389201934/0572884955/497114.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="BEIN SPORT NEW",BEIN SPORT 5
+http://asmr4k.pro:8080/live/67389201934/0572884955/497115.m3u8
+
+
 
 
 #EXTM3U
