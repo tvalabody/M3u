@@ -7,19 +7,15 @@ https://g.top4top.io/m_3914416a91.mp4
 
 
 #EXTINF:-1 tvg-logo="http://57.128.182.77:8080/BEIN/ALKASS/ALKASS1.png" group-title="كاس الخليج27",|AR| AL KASS 1 ᴴᴰ
-https://flask-web--525.a.onjrnm.co.uk/live/A/A/22837.m3u8
+https://liveeu-gcps.alkassdigital.net:443/alkass1-p/20260910T021521Z/mux_video_1080p_ts/hdntl=exp=1790171366~acl=%2f*~data=hdntl~hmac=af0f7d0359205be6ef39cb78f24c07508a8cc499489f3c73276c229f6c22ceab/index-1.m3u8
 #EXTINF:-1 tvg-logo="http://57.128.182.77:8080/BEIN/ALKASS/ALKASS2.png" group-title="كاس الخليج27",|AR| AL KASS 2 ᴴᴰ
-https://flask-web--525.a.onjrnm.co.uk/live/A/A/22838.m3u8
+https://liveeu-gcps.alkassdigital.net:443/alkass2-p/20260914T080042Z/mux_video_1080p_ts/hdntl=exp=1790171418~acl=%2f*~data=hdntl~hmac=33cbb3796c838dbf73ec3f15ad3176d7c5908c7845fdae9eec4bf82c070e16a4/index-1.m3u8
 #EXTINF:-1 tvg-logo="http://57.128.182.77:8080/BEIN/ALKASS/ALKASS3.png" group-title="كاس الخليج27",|AR| AL KASS 3 ᴴᴰ
-https://flask-web--525.a.onjrnm.co.uk/live/A/A/22839.m3u8
+https://liveeu-gcps.alkassdigital.net:443/alkass3-p/20260911T175828Z/mux_video_1080p_ts/hdntl=exp=1790171445~acl=%2f*~data=hdntl~hmac=9c7c03dc51a80be109f5a7e8389e719b2fbee92c65279203ddaa733e57d4d216/index-1.m3u8
 #EXTINF:-1 tvg-logo="http://57.128.182.77:8080/BEIN/ALKASS/ALKASS4.png" group-title="كاس الخليج27",|AR| AL KASS 4 ᴴᴰ
-https://flask-web--525.a.onjrnm.co.uk/live/A/A/22840.m3u8
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/BEIN/ALKASS/ALKASS5.png" group-title="كاس الخليج27",|AR| AL KASS 5 ᴴᴰ
-https://flask-web--525.a.onjrnm.co.uk/live/A/A/22841.m3u8
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/BEIN/ALKASS/ALKASS6.png" group-title="كاس الخليج27",|AR| AL KASS 6 ᴴᴰ
-https://flask-web--525.a.onjrnm.co.uk/live/A/A/22842.m3u8
-#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/BEIN/ALKASS/ALKASS7.png" group-title="كاس الخليج27",|AR| AL KASS 7 ᴴᴰ
-https://flask-web--525.a.onjrnm.co.uk/live/A/A/28271.m3u8
+https://liveeu-gcps.alkassdigital.net:443/alkass4-p/20260910T222153Z/mux_video_1080p_ts/hdntl=exp=1790171466~acl=%2f*~data=hdntl~hmac=126a63e6715e525a9c312c31ec2217694cc16d60582528170ac8b9a9987ec078/index-1.m3u8
+#EXTINF:-1 tvg-logo="http://57.128.182.77:8080/BEIN/ALKASS/ALKASS5.png" group-title="كاس الخليج27",|عمان ᴴᴰ
+https://partneta.cdn.mgmlcdn.com:443/omsport/smil:omsport.stream.smil/chunklist_b4500000.m3u8
 
 
 
