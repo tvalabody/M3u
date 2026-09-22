@@ -21,6 +21,22 @@ https://partneta.cdn.mgmlcdn.com:443/omsport/smil:omsport.stream.smil/chunklist_
 
 
 
+#EXTINF:-1 group-title="قنوات الكاس 4k",Oman Sport 
+https://partneta.cdn.mgmlcdn.com:443/omsport/smil:omsport.stream.smil/chunklist_b4500000.m3u8
+#EXTINF:-1 group-title="قنوات الكاس 4k",Alkass Sport 1
+https://liveeu-gcps.alkassdigital.net:443/alkass1-p/20260910T021521Z/mux_video_1080p_ts/hdntl=exp=1790171366~acl=%2f*~data=hdntl~hmac=af0f7d0359205be6ef39cb78f24c07508a8cc499489f3c73276c229f6c22ceab/index-1.m3u8
+#EXTINF:-1 group-title="قنوات الكاس 4k",Alkass Sport 2
+https://liveeu-gcps.alkassdigital.net:443/alkass2-p/20260914T080042Z/mux_video_1080p_ts/hdntl=exp=1790171418~acl=%2f*~data=hdntl~hmac=33cbb3796c838dbf73ec3f15ad3176d7c5908c7845fdae9eec4bf82c070e16a4/index-1.m3u8
+#EXTINF:-1 group-title="قنوات الكاس 4k",Alkass Sport 3
+https://liveeu-gcps.alkassdigital.net:443/alkass3-p/20260911T175828Z/mux_video_1080p_ts/hdntl=exp=1790171445~acl=%2f*~data=hdntl~hmac=9c7c03dc51a80be109f5a7e8389e719b2fbee92c65279203ddaa733e57d4d216/index-1.m3u8
+#EXTINF:-1 group-title="قنوات الكاس 4k",Alkass Sport 4 
+https://liveeu-gcps.alkassdigital.net:443/alkass4-p/20260910T222153Z/mux_video_1080p_ts/hdntl=exp=1790171466~acl=%2f*~data=hdntl~hmac=126a63e6715e525a9c312c31ec2217694cc16d60582528170ac8b9a9987ec078/index-1.m3u8
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://" group-title="بين سبورت SD",BEIN SPORTS 1 SD
