@@ -1,0 +1,8 @@
+{
+  "m3u_url": "http://servx.pro:80/get.php?username=homelg&password=kimo2023&type=m3u_plus",
+  "exclude": {
+    "movies": true,
+    "series": true,
+    "vod": true
+  }
+}
