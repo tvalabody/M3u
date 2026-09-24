@@ -1,10 +1,7 @@
-
+امسح الكود واكتب هاذا
 {
-  "versionCode": 2,
-  "versionName": "2.0",
-  "title": "تحديث جديد متوفر",
-  "message": "يتوفر إصدار جديد من التطبيق، قم بالتحديث للحصول على أحدث المميزات والإصلاحات.",
-  "downloadUrl": "https://example.com/app.apk",
-  "forceUpdate": false,
-  "showUpdate": true
+  "versionCode": 10,
+  "versionName": "3.0.0",
+  "apkUrl": "الرابط التحديث الجديد",
+  "changelog": "تحديث مهم وأصلاحي"
 }
