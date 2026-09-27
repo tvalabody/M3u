@@ -51,6 +51,33 @@ https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 
 
 #EXTM3U
+#EXTINF:-1 group-title="بين سبورت AP",بين سبورت 1
+http://82.39.115.19:24652/APF1.m3u8
+#EXTINF:-1 group-title="بين سبورت AP",بين سبورت 2
+http://82.39.115.19:24652/APF2.m3u8
+#EXTINF:-1 group-title="بين سبورت AP",بين سبورت 3
+http://82.39.115.19:24652/APF3.m3u8
+#EXTINF:-1 group-title="بين سبورت AP",بين سبورت 4
+http://82.39.115.19:24652/APF4.m3u8
+#EXTINF:-1 group-title="بين سبورت AP",بين سبورت 5
+http://82.39.115.19:24652/APF5.m3u8
+
+
+#EXTM3U
+#EXTINF:-1 group-title="بين سبورت AP دقة ضعيفة",بين سبورت 1
+http://82.39.115.19:24652/APS1.m3u8
+#EXTINF:-1 group-title="بين سبورت AP دقة ضعيفة",بين سبورت 2
+http://82.39.115.19:24652/APS2.m3u8
+#EXTINF:-1 group-title="بين سبورت AP دقة ضعيفة",بين سبورت 3
+http://82.39.115.19:24652/APS3.m3u8
+#EXTINF:-1 group-title="بين سبورت AP دقة ضعيفة",بين سبورت 4
+http://82.39.115.19:24652/APS4.m3u8
+#EXTINF:-1 group-title="بين سبورت AP دقة ضعيفة",بين سبورت 5
+http://82.39.115.19:24652/APS5.m3u8
+
+
+
+#EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="AR| BEIN",BEIN - BEIN MOVIES 1 HD
 http://core.itsall.pro/megapeer/PQubhxj8KGGKSLPAKS/28553
 #EXTINF:-1 tvg-logo="" group-title="AR| BEIN",BEIN - BEIN MOVIES 2 HD
