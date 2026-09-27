@@ -33,59 +33,6 @@ https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 
 
-#EXTM3U
-#EXTINF:-1 group-title="الوان الرياضية",الوان الرياضية 1
-http://82.39.115.19:24652/H1.m3u8
-#EXTINF:-1 group-title="الوان الرياضية",الوان الرياضية 2
-http://82.39.115.19:24652/H2.m3u8
-#EXTINF:-1 group-title="الوان الرياضية",الوان الرياضية 3
-http://82.39.115.19:24652/H3.m3u8
-#EXTINF:-1 group-title="الوان الرياضية",الوان الرياضية 4
-http://82.39.115.19:24652/H4.m3u8
-#EXTINF:-1 group-title="الوان الرياضية",الوان الرياضية 5
-http://82.39.115.19:24652/H5.m3u8
-
-
-#EXTM3U
-#EXTINF:-1 group-title="بين سبورت AP",بين سبورت 1
-http://82.39.115.19:24652/APF1.m3u8
-#EXTINF:-1 group-title="بين سبورت AP",بين سبورت 2
-http://82.39.115.19:24652/APF2.m3u8
-#EXTINF:-1 group-title="بين سبورت AP",بين سبورت 3
-http://82.39.115.19:24652/APF3.m3u8
-#EXTINF:-1 group-title="بين سبورت AP",بين سبورت 4
-http://82.39.115.19:24652/APF4.m3u8
-#EXTINF:-1 group-title="بين سبورت AP",بين سبورت 5
-http://82.39.115.19:24652/APF5.m3u8
-
-
-#EXTM3U
-#EXTINF:-1 group-title="بين سبورت AP دقة ضعيفة",بين سبورت 1
-http://82.39.115.19:24652/APS1.m3u8
-#EXTINF:-1 group-title="بين سبورت AP دقة ضعيفة",بين سبورت 2
-http://82.39.115.19:24652/APS2.m3u8
-#EXTINF:-1 group-title="بين سبورت AP دقة ضعيفة",بين سبورت 3
-http://82.39.115.19:24652/APS3.m3u8
-#EXTINF:-1 group-title="بين سبورت AP دقة ضعيفة",بين سبورت 4
-http://82.39.115.19:24652/APS4.m3u8
-#EXTINF:-1 group-title="بين سبورت AP دقة ضعيفة",بين سبورت 5
-http://82.39.115.19:24652/APS5.m3u8
-
-
-
-#EXTM3U
-#EXTINF:-1 group-title="سولو سبورت",سولو سبورت 1
-http://82.39.115.19:24652/SOF1.m3u8
-#EXTINF:-1 group-title="سولو سبورت",سولو سبورت 2
-http://82.39.115.19:24652/SOF2.m3u8
-#EXTINF:-1 group-title="سولو سبورت",سولو سبورت 3
-http://82.39.115.19:24652/SOF3.m3u8
-#EXTINF:-1 group-title="سولو سبورت",سولو سبورت 4
-http://82.39.115.19:24652/SOF4.m3u8
-#EXTINF:-1 group-title="سولو سبورت",سولو سبورت 5
-http://82.39.115.19:24652/SOF5.m3u8
-
-
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="AR| BEIN",BEIN - BEIN MOVIES 1 HD
