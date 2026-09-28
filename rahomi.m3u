@@ -35,6 +35,21 @@ https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 
 
 #EXTM3U
+#EXTINF:-1 group-title="الوان الرياضية",الوان الرياضية 1
+http://82.39.115.19:24652/H1.m3u8
+#EXTINF:-1 group-title="الوان الرياضية",الوان الرياضية 2
+http://82.39.115.19:24652/H2.m3u8
+#EXTINF:-1 group-title="الوان الرياضية",الوان الرياضية 3
+http://82.39.115.19:24652/H3.m3u8
+#EXTINF:-1 group-title="الوان الرياضية",الوان الرياضية 4
+http://82.39.115.19:24652/H4.m3u8
+#EXTINF:-1 group-title="الوان الرياضية",الوان الرياضية 5
+http://82.39.115.19:24652/H5.m3u8
+
+
+
+
+#EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="AR| BEIN",BEIN - BEIN MOVIES 1 HD
 http://core.itsall.pro/megapeer/PQubhxj8KGGKSLPAKS/28553
 #EXTINF:-1 tvg-logo="" group-title="AR| BEIN",BEIN - BEIN MOVIES 2 HD
