@@ -83,6 +83,28 @@ http://abody.optikl.ink/os/main.m3u8?id=4138&cat=333
 #EXTINF:-1 tvg-id="bein7" group-title="بين سبورت دقة عالية",بين سبورت 7
 http://abody.optikl.ink/os/main.m3u8?id=4139&cat=333
 
+#EXTM3U
+
+#EXTINF:-1 tvg-id="bein1" group-title="بين سبورت HD",بين سبورت 1
+http://abody.optikl.ink/os/main.m3u8?id=4111&cat=332
+
+#EXTINF:-1 tvg-id="bein2" group-title="بين سبورت HD",بين سبورت 2
+http://abody.optikl.ink/os/main.m3u8?id=4113&cat=332
+
+#EXTINF:-1 tvg-id="bein3" group-title="بين سبورت HD",بين سبورت 3
+http://abody.optikl.ink/os/main.m3u8?id=4115&cat=332
+
+#EXTINF:-1 tvg-id="bein4" group-title="بين سبورت HD",بين سبورت 4
+http://abody.optikl.ink/os/main.m3u8?id=4119&cat=332
+
+#EXTINF:-1 tvg-id="bein5" group-title="بين سبورت HD",بين سبورت 5
+http://abody.optikl.ink/os/main.m3u8?id=4123&cat=332
+
+#EXTINF:-1 tvg-id="bein6" group-title="بين سبورت HD",بين سبورت 6
+http://abody.optikl.ink/os/main.m3u8?id=4126&cat=332
+
+#EXTINF:-1 tvg-id="bein7" group-title="بين سبورت HD",بين سبورت 7
+http://abody.optikl.ink/os/main.m3u8?id=4127&cat=332
 
 
 
